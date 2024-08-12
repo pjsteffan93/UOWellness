@@ -1,0 +1,1407 @@
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30837818-1"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-30837818-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});</script>
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     <link rel="canonical" href="https://basicneeds.uoregon.edu/welcome" />
+
+     <link rel="shortlink" href="https://basicneeds.uoregon.edu/node/4" />
+
+     
+
+     <title>Welcome | Basic Needs Program</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_tfnzV_n0qvWme2j3QO_6HqUkt7aja4AJ-_18og3ZOwg.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.02/v1/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_aFqIyG1pjLRuYyRhbTWYndb9Y_7Xz_ZG2PVp_pQC-Xo.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw" />
+
+     <link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_RQMuMSsfv2p_cJ8bk8aDf9Ag7ka43vbH3BA_xTbEU0Y.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_nF_vQRdbHin78Twv2Y0XxUIvzR2vRWVuK7lSCy1-Iq4.css?delta=6&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_VAQHv1ohIDSfijatFZYR-ovQBB8yGrQYOLH4gjuf86g.css?delta=7&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_p9tx7W9D3JepCB_ypnQTg_iV4VmZBCiNwSsWzTrRWwM.css?delta=8&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.02/v1/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled menupull-right path-frontpage page-node-type-marketing-page uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-search" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">Basic Needs Program Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Services for Students</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/services-students" title="Learn about services available to students." class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/21">Services for Students Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/food" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/10">Food</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/housing" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/11">Housing</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/financial" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/17">Financial</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/technology" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/16">Technology</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/textbooks" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/12">Textbooks</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/health-and-wellness" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/13">Health and Wellness</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/childcare-and-family" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/14">Childcare and Family</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/transportation" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/15">Transportation</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/legal" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/18">Legal</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/snap" title="Learn more about the SNAP program." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/20">SNAP Benefits</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://dos.uoregon.edu/help" target="_blank" title="Find support and resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Emergency Resources</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/27">Faculty/Staff Resources</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/impact" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/26">Impact</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us" title="Lean more about the Basic Needs Program and staff." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/19">About Us</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://cm.maxient.com/reportingform.php?UnivofOregon=&amp;layout_id=70" title="Submit a request for assistance." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Request Assistance</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h1 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="Basic Needs ProgramHome" class="site-header__site-link" rel="home"><span>Basic Needs Program</span></a>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/services-students" title="Learn about services available to students." data-drupal-link-system-path="node/21">Services for Students</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/snap" title="Learn more about the SNAP program." data-drupal-link-system-path="node/20">SNAP Benefits</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="https://dos.uoregon.edu/help" target="_blank" title="Find support and resources">Emergency Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/faculty-staff" data-drupal-link-system-path="node/27">Faculty/Staff Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/impact" data-drupal-link-system-path="node/26">Impact</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/about-us" title="Lean more about the Basic Needs Program and staff." data-drupal-link-system-path="node/19">About Us</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="https://cm.maxient.com/reportingform.php?UnivofOregon=&amp;layout_id=70" title="Submit a request for assistance.">Request Assistance</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Welcome</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article class="node node--type-marketing-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="field field--name-field-envelopes field--type-entity-reference-revisions field--label-hidden field__items">
+
+     <div class="field__item"></div>
+
+     <div class="field__item"></div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-white envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h1 class="text-align-center">Dedicated to Student Success</h1><p class="text-align-center">The Basic Needs Program in the Office of the Dean of Students is here to connect you with campus and community resources intended to support your well-being, so that you can meet your academic goals.</p></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-image-light envelope--standard" style="background-image:url('/sites/default/files/2023-03/bg-yellow-2.png')">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><p class="text-align-center">If you are a University of Oregon student who is facing challenges with access to adequate food, stable housing, affordable childcare, or meeting other basic needs, please fill out our <a class href="https://cm.maxient.com/reportingform.php?UnivofOregon&amp;layout_id=70">Basic Needs Assistance Form</a>&nbsp;to request a response from the Basic Needs team.</p><p class="text-align-center"><a class="cta-button cta-button--standard" href="https://cm.maxient.com/reportingform.php?UnivofOregon&amp;layout_id=70">Basic Needs Assistance Form</a></p></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-white envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item">
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uo__calender-wrapper " tabindex="0" data-expiration="1721839772">
+
+     <div class="uo-text-header-2">Events</div>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uo__calender-slider-wrapper 0">
+
+     <div class="event-widget">
+
+     
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Jul</span><span class="event-day title">24</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Jul 24</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Jul</span><span class="event-day title">31</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Jul 31</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Aug</span><span class="event-day title">7</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Aug 7</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Aug</span><span class="event-day title">14</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Aug 14</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Aug</span><span class="event-day title">21</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Aug 21</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Aug</span><span class="event-day title">28</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Aug 28</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Sep</span><span class="event-day title">4</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Sep 4</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <div class="event-slide">
+
+     <div class="slide-content">
+
+     <a href="https://calendar.uoregon.edu/event/the-student-food-pantry-9110" class="event-link">The Student Food Pantry</a>
+
+     <div class="slide-photo" style="background-image:url(https://localist-images.azureedge.net/photos/46641467389074/huge/2b1aaec63bd103aaab4d2ca8df8826ba4ef5ba07.jpg);" alt="Event: The Student Food Pantry" title="Event: The Student Food Pantry"></div>
+
+     
+
+     <div class="event-info">
+
+     <div class="event-date">
+
+     <span class="event-month title">Sep</span><span class="event-day title">11</span>
+
+     </div>
+
+     <div class="event-details">
+
+     <span class="event-title title">The Student Food Pantry</span>
+
+     <span class="event-detail-info">Sep 11</span>
+
+     <span class="event-detail-info"></span>
+
+     <span class="event-detail-info">Grace Lutheran Church</span>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-lightgray envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2 class="text-align-center">Announcements</h2><div class="grid grid--3col grid--strict view view-announcements-feed view-id-announcements_feed view-display-id-block_1 js-view-dom-id-9cabce63617132e01c48b7376a13642a37b58350bd7db7d584929a026c865179">
+
+     
+
+     
+
+     
+
+     <div class="view-content">
+
+     <div class="grid__item"><div class="card">
+
+     <div class="card__title__wrapper pb1">
+
+     <div class="card__title"><a href="/application-open-uo-childcare-subsidy" hreflang="en">Application Open for UO Childcare Subsidy</a></div>
+
+     </div>
+
+     
+
+     <div class="card__teaser__wrapper">
+
+     <div class="card__teaser">
+
+     <p><p>(<em>Posted July 17, 2024</em>) The <a href="/childcare-and-family">UO Childcare Subsidy application</a> for the 2024–25 academic year is now open and will be available through June 30, 2025.</p><p>This student fee-funded program provides financial assistance to eligible student parents to help…</p></p>
+
+     
+
+     <p><a href="/application-open-uo-childcare-subsidy" hreflang="en">Read More</a></p>
+
+     </div>
+
+     </div>
+
+     </div></div>
+
+     <div class="grid__item"><div class="card">
+
+     <div class="card__title__wrapper pb1">
+
+     <div class="card__title"><a href="/summer-student-food-pantry-hours" hreflang="en">Summer Student Food Pantry Hours</a></div>
+
+     </div>
+
+     
+
+     <div class="card__teaser__wrapper">
+
+     <div class="card__teaser">
+
+     <p><p>(<em>Posted June 4, 2024</em>) The Student Food Pantry will be open during normal hours for finals week (the week of June 10), but will be closed the week of June 17.</p><p>The Student Food Pantry will reopen for summer on Wednesday, June 26. Summer term hours will be Wednesdays, 3:30–6:00 p.m.…</p></p>
+
+     
+
+     <p><a href="/summer-student-food-pantry-hours" hreflang="en">Read More</a></p>
+
+     </div>
+
+     </div>
+
+     </div></div>
+
+     <div class="grid__item"><div class="card">
+
+     <div class="card__title__wrapper pb1">
+
+     <div class="card__title"><a href="/spring-term-food-pantry-hours" hreflang="en">Spring Term Food Pantry Hours</a></div>
+
+     </div>
+
+     
+
+     <div class="card__teaser__wrapper">
+
+     <div class="card__teaser">
+
+     <p><p>(<em>Posted April 1, 2024</em>) The Student Food Pantry hours for spring term will be Wednesdays and Thursdays, 4:00–6:00 p.m. The pantry is located at 710 E. 17th Ave. and provides students with access to free, supplemental groceries.</p><p>During the first week of spring term there will be…</p></p>
+
+     
+
+     <p><a href="/spring-term-food-pantry-hours" hreflang="en">Read More</a></p>
+
+     </div>
+
+     </div>
+
+     </div></div>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     <p class="text-align-center"><a class="cta-button cta-button--standard" href="/announcements">Go to All Announcements</a></p></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-white envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2 class="text-align-center">Basic Needs at a Glance</h2><p class="text-align-center">Here is a summary of the assistance that our students access the most. For a broader range of resources, check out <a class href="/services-students">Services for Students</a>.</p><div class="grid contact--card-vertical grid--4col" style="--grid-min-width:300px;"><div class="grid__item"><div class="card info-card palette-bg-grass-green padded"><div class="card__detail"><div class="card__caption"><div class="card__title title uo-text-header-6">Food Resources</div><div class="card__description"><p class>If you’re looking for ways to supplement your food supply, our coordinators can help you
+     navigate both on- and off-campus food resources including SNAP application support, various campus programs for free or reduced price foods, and the Student Food Pantry, open weekly when classes are in session.</p></div></div></div><div class="card__detail padded"><div class="card__links"><a class="cta-button cta--style-narrow" style="width:auto;" href="/food">Food Resources</a></div></div></div></div><div class="grid__item"><div class="card info-card palette-bg-lime-green padded"><div class="card__detail"><div class="card__caption"><div class="card__title title uo-text-header-6">Housing Resources</div><div class="card__description"><p class>Our program can assist you with rental resources, referrals to housing support, and more. Whether you need support with paying late rent or utilities, or you’re looking
+     for off-campus housing options, our team can help you.</p></div></div></div><div class="card__detail padded"><div class="card__links"><a class="cta-button cta--style-narrow" style="width:auto;" href="/housing">Housing Resources</a></div></div></div></div><div class="grid__item"><div class="card info-card palette-bg-chartreuse padded"><div class="card__detail"><div class="card__caption"><div class="card__title title uo-text-header-6">Academic Materials</div><div class="card__description"><p class>Tracking down and purchasing campus supplies can be challenging. We can connect you with various academic resources, including the Textbook Subsidy (open for application the first three weeks of each academic term, as long as funding is available).</p></div></div></div><div class="card__detail padded"><div
+     class="card__links"><a class="cta-button cta--style-narrow" style="width:auto;" href="/textbooks">Academic Materials</a></div></div></div></div><div class="grid__item"><div class="card info-card palette-bg-light-gray padded"><div class="card__detail"><div class="card__caption"><div class="card__title title uo-text-header-6">Childcare Assistance</div><div class="card__description"><p class>Funding is available for eligible student parents or caregivers who have children 12 years old and younger in childcare, through the UO Childcare Subsidy. In addition, the UO offers childcare centers convenient to campus, and students may qualify for state grants and other funds.</p></div></div></div><div class="card__detail padded"><div class="card__links"><a class="cta-button cta--style-narrow" style="width:auto;"
+     href="/childcare-and-family">Childcare Assistance</a></div></div></div></div></div></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-image envelope--standard envelope--style-black context--foreground-light" style="background-image:url('/sites/default/files/2023-03/bg-green-2.png')">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h3 class="text-align-center">All UO-enrolled students including undergraduate, graduate, law, international, and undocumented students are eligible for Basic Needs Program resources and services.</h3><p class="text-align-center">Knowing and using your resources is part of navigating student life at the UO, and the Basic Needs Program staff is available to you at any point during your time as a student at the university.</p><div class="grid grid--3col"><div class="grid__item"><div class="resource-listing__item"><a class href="/food">Food</a></div><div class="resource-listing__item"><a class href="/housing">Housing</a></div><div class="resource-listing__item"><a class
+     href="/textbooks">Textbooks</a></div><div class="resource-listing__item"><a class href="/snap">SNAP Benefits</a></div><div class="resource-listing__item">&nbsp;</div></div><div class="grid__item"><div class="resource-listing__item"><a class href="/health-and-wellness">Health and Wellness</a></div><div class="resource-listing__item"><a class href="/childcare-and-family">Childcare and Family</a></div><div class="resource-listing__item"><a class href="/transportation">Transportation</a></div><div class="resource-listing__item"><a class href="https://dos.uoregon.edu/help">Emergency Resources</a></div><div class="resource-listing__item">&nbsp;</div></div><div class="grid__item"><div class="resource-listing__item"><a class href="/technology">Technology</a></div><div class="resource-listing__item"><a class
+     href="/financial">Financial</a></div><div class="resource-listing__item"><a class href="/legal">Legal</a></div><div class="resource-listing__item"><a class href="/about-us">About Us</a></div><div class="resource-listing__item">&nbsp;</div></div></div></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-yellow envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="grid grid--3col grid--strict"><div class="grid__item"><h3 class="grid--title title">Basic Needs Program<br>Office of the Dean of Students</h3><div class="grid--address"><strong class>Phone</strong>: 541-346-3216</div></div><div class="grid__item grid--flex-center"><ul class="grid--hours list--label"><li class><label class>M </label><span class>8:00 a.m.–5:00 p.m.</span></li><li class><label class>T </label><span class>8:00 a.m.–5:00 p.m.</span></li><li class><label class>W </label><span class>8:00 a.m.–5:00 p.m.</span></li><li class><label class>TH </label><span class>8:00 a.m.–5:00 p.m.</span></li><li class><label class>F </label><span class>8:00 a.m.–5:00
+     p.m.</span></li></ul></div><div class="grid__item"><h3 class="grid--title title">Connect With Us</h3><p class><a class="cta-button cta-button--standard" href="mailto:basicneeds@uoregon.edu">Email the Basic Needs Program</a></p><p class><a class="cta-button cta-button--standard" href="https://cm.maxient.com/reportingform.php?UnivofOregon&amp;layout_id=70">Basic Needs Assistance Form</a></p><p class="text-align-center"><a class href="https://www.instagram.com/uo_basicneeds/"><span class="socialicon-instagram">BCC on Instagram</span></a></p></div></div></div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     <footer role="contentinfo">
+
+     <div class="region region-footer">
+
+     <div id="block-disclaimer" class="block block-block-content block-block-contentaa6eeedc-964f-41b6-a94a-15edf36c6d78">
+
+     
+
+     
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="envelope envelope--standard envelope--style-lightgray envelope--compress centered">
+
+     <p class="text-align-center">The external information and links on this website have been compiled to assist students and others in navigating and securing services and benefits external to the university. Eligibility for any benefit or service is determined by the agency or organization responsible for the benefit or service. The links are provided for information and do not represent an endorsement by the University of Oregon.</p>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </footer>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col"><div class="grid__item"><div class="collapse-menu collapse-menu--collapsed"><h3 class="collapse-menu__title title">Division of Student Life</h3><ul class="collapse-menu__list"><li class="collapse-menu__item"><a class href="http://studentlife.uoregon.edu">Division of Student Life</a></li><li class="collapse-menu__item"><a class href="http://career.uoregon.edu">University Career Center</a></li><li class="collapse-menu__item"><a class href="http://dos.uoregon.edu">Office of the Dean of Students</a></li><li class="collapse-menu__item"><a class href="http://emu.uoregon.edu">Erb Memorial Union</a></li><li class="collapse-menu__item"><a class href="http://holden.uoregon.edu">Holden Center for Leadership and Community Engagement</a></li><li
+     class="collapse-menu__item"><a class href="http://rec.uoregon.edu">Department of Physical Education and Recreation</a></li><li class="collapse-menu__item"><a class href="http://families.uoregon.edu">Parent and Family Programs</a></li></ul></div></div><div class="grid__item"><div class="collapse-menu collapse-menu--collapsed"><h3 class="collapse-menu__title title">Student Services</h3><ul class="collapse-menu__list"><li class="collapse-menu__item"><a class href="https://financialaid.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of Financial Aid and Scholarships</a></li><li class="collapse-menu__item"><a class href="https://registrar.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of the Registrar</a></li><li class="collapse-menu__item"><a class
+     href="http://counseling.uoregon.edu">University Counseling Services</a></li><li class="collapse-menu__item"><a class href="http://healthcenter.uoregon.edu">University Health Services</a></li><li class="collapse-menu__item"><a class href="http://housing.uoregon.edu">University Housing</a></li><li class="collapse-menu__item"><a class href="http://testing.uoregon.edu">University Testing Center</a></li></ul></div></div></div>
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>Office of the Dean of Students</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">5216 University of Oregon<br />185 Oregon Hall</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3216</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.instagram.com/uo_basicneeds/" aria-label="Visit us on Instagram">
+
+     <i class="fab fa-instagram" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//basicneeds.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/4","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-30837818-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"36906bdbdda3551f27943812f706b8b68d6e93162e2c185a9b30616b51a1472d"}}</script>
+
+     <script src="/sites/default/files/js/js_GXBi5YDYbKYj57L1ltaLuWtStJNXcXZaK9sMi9uyKdo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.02/v1/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_6XzjijfONVL1-x6NmPiSjy1R3RqtCiGRYRgyHt33KkU.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw"></script>
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js"></script>
+
+     <script src="/sites/default/files/js/js_txOrVtrHdK2ujQbSiT4PC_lKPp0L0xa1b96Lx7IOSc8.js?scope=footer&amp;delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJyFUO1uwyAMfCEIjxQ54FBvxo4wLOqefilTurXqtD_W-e78CWbYZpI3jE1riGaBhElwpgIZzWXVzDiDAF8bRQvPhLOrNSxhAUMX1QrFB1zQbHSKWjGI1gJMn-i6zoPp6ndcfEKjLH6tUHDX-u5JqN1Nq0rzsKNp-b8yatkY2zAe55W7-5a8LhkLP9i_z_S3weYPdORugwq5wnaxkGrfgKcfZuqy9YXJLpjGhsAoCWr4hadzzEvRmBLWP-WEK3RuT_oJz2-LJnQfhLuFEaeiqTN-AXEevPw"></script>
+
+     
+
+     </body>
+
+     </html>
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

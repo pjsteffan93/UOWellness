@@ -1,0 +1,2207 @@
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-274503-1"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-274503-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});gtag("config", "G-1B2JS47T2J", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+
+     <meta name="description" content="" />
+
+     <link rel="canonical" href="https://career.uoregon.edu/career-coaching" />
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     
+
+     <title>Career Coaching | University Career Center</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_knjwy0PNEK0PvVtp71RVmwr56CUMW3ML78B3mnDGNdk.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJxtkWtuhDAMhC8Ei9QeyDLJsOuSxNQOS9nTF5DaqlL-JH58lmcSdkclKR8IVW0I7rfAFun5RmoR1nETAIwMHKXAnUw5Zl5a7GT4XFFq2ol9RqQj8ypavEXfUWCcqG7g2WmSL7Q5k0hJvLaa9QHaeKddV_Ljlib1FGxOY-Iy0-P9XNX57hV5GNnRBfUs4V-cD6t8PwQFNQxFLXOSF7pV6apMWmrPG1zzX3HVfsPYR7jcSz8ZZ2xqcx80Lwn1Ag9x-Zc-k_bIpSUjCg-TpAo7PmI5n_JHYNGI7vI1XOcta1wTvgF00b0z" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_LRlHvxcknL97iHWCMk44hgYxQ01uI3Xw9rPNWovlHow.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJxtkWtuhDAMhC8Ei9QeyDLJsOuSxNQOS9nTF5DaqlL-JH58lmcSdkclKR8IVW0I7rfAFun5RmoR1nETAIwMHKXAnUw5Zl5a7GT4XFFq2ol9RqQj8ypavEXfUWCcqG7g2WmSL7Q5k0hJvLaa9QHaeKddV_Ljlib1FGxOY-Iy0-P9XNX57hV5GNnRBfUs4V-cD6t8PwQFNQxFLXOSF7pV6apMWmrPG1zzX3HVfsPYR7jcSz8ZZ2xqcx80Lwn1Ag9x-Zc-k_bIpSUjCg-TpAo7PmI5n_JHYNGI7vI1XOcta1wTvgF00b0z" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_f-LX41YNghdSuUy0eT-jJn0ZRyzjuxnc93DzU92Z478.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJxtkWtuhDAMhC8Ei9QeyDLJsOuSxNQOS9nTF5DaqlL-JH58lmcSdkclKR8IVW0I7rfAFun5RmoR1nETAIwMHKXAnUw5Zl5a7GT4XFFq2ol9RqQj8ypavEXfUWCcqG7g2WmSL7Q5k0hJvLaa9QHaeKddV_Ljlib1FGxOY-Iy0-P9XNX57hV5GNnRBfUs4V-cD6t8PwQFNQxFLXOSF7pV6apMWmrPG1zzX3HVfsPYR7jcSz8ZZ2xqcx80Lwn1Ag9x-Zc-k_bIpSUjCg-TpAo7PmI5n_JHYNGI7vI1XOcta1wTvgF00b0z" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_6yyOFGOdS8q9HpotbxSxt-w8P2mTD7AgxHTAoVe8hpM.css?delta=5&amp;language=en&amp;theme=cosmic&amp;include=eJxtkWtuhDAMhC8Ei9QeyDLJsOuSxNQOS9nTF5DaqlL-JH58lmcSdkclKR8IVW0I7rfAFun5RmoR1nETAIwMHKXAnUw5Zl5a7GT4XFFq2ol9RqQj8ypavEXfUWCcqG7g2WmSL7Q5k0hJvLaa9QHaeKddV_Ljlib1FGxOY-Iy0-P9XNX57hV5GNnRBfUs4V-cD6t8PwQFNQxFLXOSF7pV6apMWmrPG1zzX3HVfsPYR7jcSz8ZZ2xqcx80Lwn1Ag9x-Zc-k_bIpSUjCg-TpAo7PmI5n_JHYNGI7vI1XOcta1wTvgF00b0z" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_jr3qFBJDsfqYKvjVPZ6thgnSfY27Gp_VfSkaLl-yNeo.css?delta=6&amp;language=en&amp;theme=cosmic&amp;include=eJxtkWtuhDAMhC8Ei9QeyDLJsOuSxNQOS9nTF5DaqlL-JH58lmcSdkclKR8IVW0I7rfAFun5RmoR1nETAIwMHKXAnUw5Zl5a7GT4XFFq2ol9RqQj8ypavEXfUWCcqG7g2WmSL7Q5k0hJvLaa9QHaeKddV_Ljlib1FGxOY-Iy0-P9XNX57hV5GNnRBfUs4V-cD6t8PwQFNQxFLXOSF7pV6apMWmrPG1zzX3HVfsPYR7jcSz8ZZ2xqcx80Lwn1Ag9x-Zc-k_bIpSUjCg-TpAo7PmI5n_JHYNGI7vI1XOcta1wTvgF00b0z" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled menupull-right path-node page-node-type-page uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <nav class="uoheader__audience-selector uowd-dropdown" id="audience-selector">
+
+     <button class="uoheader__audience-selector__button uowd-dropdown__button" id="uoheader__audience-selector__button" aria-label="Resources for:">Resources for:</button>
+
+     <ul class="uoheader__audience-selector__list uowd-dropdown__display" id="uoheader__audience-selector__list">
+
+     <li class="uoheader__audience-selector__link"><a href="/alumni">Alumni</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/employers">Employers</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/faculty-and-staff">Faculty and Staff</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/graduate-students">Graduate Students</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/international-students">International Students</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/dreamers">Dreamers</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/lgbtqia">LGBTQIA+</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/multicultural-students">Multicultural Students</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/nontraditional-students">Nontraditional Students</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/students-with-disabilities">Students with Disabilities</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/veterans">Veterans</a></li>
+
+     </ul>
+
+     </nav>
+
+     
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://visit.uoregon.edu/?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61&amp;utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-search" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">University Career Center Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Learn About Careers</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers" title="Learn about careers related to various departments at the UO" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/4">Learn About Careers Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/business-and-management" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/48">Business and Management</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/education-and-human-services" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/51">Education and Human Services</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/environment-and-sustainability" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/45">Environment and Sustainability</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/government-policy-global-affairs-and-law" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/50">Government, Policy, Global Affairs, and Law</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/health-and-scientific-discovery" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/44">Health and Scientific Discovery</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/media-arts-and-entertainment" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/47">Media, Arts, and Entertainment</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/technology-data-science-and-analytics" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/46">Technology, Data Science, and Analytics</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-careers/exploring" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/116">Exploring</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Jobs and Internships</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="2" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships" title="Find different job and internship opportunities." class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/14">Jobs and Internships Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Handshake</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="23" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/handshake" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/52">Handshake Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/handshake/frequently-asked-questions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/117">Frequently Asked Questions</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/part-time-jobs" title="Discover part-time job opportunities." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/16">Part-Time Jobs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/full-time-jobs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/61">Full-Time Jobs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Internships</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="24" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/internships" title="Discover internship opportunities." class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/15">Internships Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/internships/internship-credit" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/118">Internship for Credit</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Work-Study</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="25" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/work-study" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/77">Work-Study Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/work-study/frequently-asked-questions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/122">Frequently Asked Questions</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/peace-corps" title="Learn about the Peace Corps." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/18">Peace Corps</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Résumés and Cover Letters</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="26" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/resumes-and-cover-letters" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/54">Résumés and Cover Letters Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/resumes-and-cover-letters/action-verbs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/119">Action Verbs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/resumes-and-cover-letters/example-resume" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/120">Example Résumé</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/resumes-and-cover-letters/example-cover-letter" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/123">Example Cover Letter</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Job Search Strategies</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="27" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/job-search-strategies" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/59">Job Search Strategies Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/jobs-and-internships/job-search-strategies/job-search-websites" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/121">Job Search Websites</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item active-trail has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Career Coaching</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="3" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching" class="uowdf-mobile-menu__link is-active" data-drupal-link-system-path="node/93" aria-current="page">Career Coaching Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/appointment-no-show-policy" title="Here is the appointment no-show policy." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/21">Appointment No-Show Policy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/career-readiness-road-map" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/170">Career Readiness Road Map</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/interviewing" title="Here are some tips and tools to help you prepare for interviews." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/23">Interviewing</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/linkedin-profile" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/132">LinkedIn Profile</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/campus-interviews" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/134">On-Campus Interviews</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/practice-interview-program" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/133">Practice Interview Program</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">The Way You Say It</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="34" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/172">The Way You Say It Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/career-competencies" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/203">Career Competencies</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/babysitter-childcare" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/197">Babysitter / Childcare</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/barista" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/183">Barista</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/bellhop" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/179">Bellhop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/camp-counselor" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/185">Camp Counselor</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/campus-rec-attendant" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/199">Campus Rec Attendant</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/cleaner" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/184">Cleaner</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/concession-stand-worker" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/182">Concession Stand Worker</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/dining-hall-worker" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/200">Dining Hall Worker</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/dishwasher-busser" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/178">Dishwasher / Busser</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/dog-walker" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/191">Dog Walker</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/family-business" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/180">Family Business</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/farmhand" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/192">Farmhand</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/fast-food-worker" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/194">Fast Food Worker</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/gamer" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/175">Gamer</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/golf-caddy" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/196">Golf Caddy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/homework-tutor" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/181">Homework Tutor</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/landscaping" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/173">Landscaping</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/merchandising" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/189">Merchandising</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/office-worker" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/190">Office Worker</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/programmer" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/193">Programmer</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/referee" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/186">Referee</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/research-lab-assistant" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/187">Research Lab Assistant</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/resident-advisor" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/201">Resident Advisor</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/student-organization-leader" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/177">Student Organization Leader</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/video-editor" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/195">Video Editor</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/virtual-student" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/188">Virtual Student</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-coaching/way-you-say-it/wait-staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/198">Wait Staff</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Events</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="4" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/events" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/94">Events Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/events/career-readiness-events" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/158">Career Readiness Events</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/events/event-prep-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/159">Event Prep Resources</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Resources</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="5" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/91">Resources Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Blog</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="56" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/103">Blog Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/experience-everywhere" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/89">Experience is EVERYWHERE!</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/exploring-your-career-path-with-uo-international-alumni" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/85">Exploring Your Career Path with UO International Alumni</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/five-tips-creating-great-profile-linkedin" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/82">Five Tips for Creating a Great Profile on LinkedIn</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/five-tips-making-meaningful-connections-virtual-networking-events" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/90">Five Tips for Making Meaningful Connections at Virtual Networking Events</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/how-find-summer-internship-or-job" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/79">How to Find that Summer Internship or Job</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/path-success-one-dreamers-story" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/87">Path to Success: One Dreamer’s Story</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/digital-world-flat-alumni-networking-easier-and-more-important-ever" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/88">The Digital World is Flat: Alumni Networking is Easier and More Important than Ever</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/career-fair-explorer-with-kroger" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/147">Career Fair Explorer with Kroger</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/do-students-really-get-jobs-career-and-internship-expo-sarah-did" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/144">Do Students Really Get Jobs at the Career and Internship Expo? Sarah Did!</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-amanda-isberg-egypt" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/143">Ducks Around the World: Amanda Isberg in Egypt</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-busayo-onifade-atlanta-georgia" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/137">Ducks Around the World: Busayo Onifade in Atlanta, Georgia</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-dahyun-kim-kenya" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/141">Ducks Around the World: Dahyun Kim in Kenya</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-heather-ketten-austin-texas" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/142">Ducks Around the World: Heather Ketten in Austin, Texas</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-jennifer-mendez-ruiz-los-angeles" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/139">Ducks Around the World: Jennifer Mendez-Ruiz in Los Angeles</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-joze-pelayo-washington-dc" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/136">Ducks Around the World: Joze Pelayo in Washington, DC</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-marcelo-barros-washington-dc" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/162">Ducks Around the World: Marcelo Barros in Washington, DC</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-marcus-ren-seattle" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/140">Ducks Around the World: Marcus Ren in Seattle</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-morgan-torris-portland" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/138">Ducks Around the World: Morgan Torris in Portland</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/ducks-around-world-riley-anne-ovall-oahu-hawaii" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/163">Ducks Around the World: Riley Anne Ovall in Oahu, Hawaii</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/find-your-future-business-careers-all-majors-not-just-business" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/153">Find Your Future: Business Careers for All Majors (Not Just Business!)</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/find-your-future-public-service-and-nonprofit-careers-all-majors" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/151">Find Your Future: Public Service and Nonprofit Careers For All Majors</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/find-your-future-tech-careers-all-majors-not-just-tech" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/152">Find Your Future: Tech Careers For All Majors (Not Just Tech)!</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/finding-part-time-work-and-experiences-fall-0" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/156">Finding Part-Time Work and Experiences This Fall</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/found-my-future-intern-assistant-buyer" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/154">Found My Future: From Intern to Assistant Buyer</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/found-my-future-social-science-social-justice" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/148">Found My Future: From Social Science to Social Justice</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/found-my-future-interning-your-way-career" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/149">Found My Future: Interning Your Way into a Career</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/found-my-future-investing-taking-chances" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/150">Found My Future: Investing in Taking Chances</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/found-my-future-life-outside-my-comfort-zone" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/146">Found My Future: Life Outside My Comfort Zone</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/summer-2023-ucc-internship-scholarship-fund" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/168">Summer 2023 UCC Internship Scholarship Fund</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/too-good-be-true-signs-phishy-job-offer" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/155">Too Good to Be True: Signs of a Phishy Job Offer</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/blog/uo-recognized-top-25-peace-corps-volunteer-producing-institution" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/171">UO Recognized as a Top 25 Peace Corps Volunteer-Producing Institution</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">LinkedIn Learning</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="57" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/linkedin-learning" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/78">LinkedIn Learning Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/linkedin-learning/frequently-asked-questions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/165">Frequently Asked Questions</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources/alumni-outcomes" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/102">Alumni Outcomes</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">About Us</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="6" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/92">About Us Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Our Team</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="67" data-parent-menu-id="6">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/76">Our Team Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/jon-ambrose" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/128">Jon Ambrose</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/dani-amtmann" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/62">Dani Amtmann</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/theresa-cuenca" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/66">Theresa Cuenca</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/tina-haynes" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/70">Tina Haynes</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/mariah-helm" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/67">Mariah Helm</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/tobin-johnston" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/167">Tobin Johnston</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/colleen-lewis" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/69">Colleen Lewis</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/chelsey-niles" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/125">Chelsey Niles</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/dinorah-ortiz" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/126">Dinorah Ortiz</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/ry-smith" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/127">Ry Smith</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/jazlyn-swain" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/129">Jazlyn Swain</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/holly-tate" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/72">Holly Tate</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/paul-timmins" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/73">Paul Timmins</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/kate-werdebaugh" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/74">Kate Werdebaugh</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/carolyn-williams" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/130">Carolyn Williams</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us/our-team/amanda-wood" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/131">Amanda Wood</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://uoregon.guide.eab.com/app/#/authentication/remote/" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Schedule a Coaching Session</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <div class="uowdf-mobile-menu__secondary-menus">
+
+     <nav class="audience-selector collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__audience-selector">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Resources for:</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999998">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/alumni">Alumni</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/employers">Employers</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/faculty-and-staff">Faculty and Staff</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/graduate-students">Graduate Students</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/international-students">International Students</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/dreamers">Dreamers</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/lgbtqia">LGBTQIA+</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/multicultural-students">Multicultural Students</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/nontraditional-students">Nontraditional Students</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/students-with-disabilities">Students with Disabilities</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/veterans">Veterans</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://visit.uoregon.edu/?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61&amp;utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h2 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="University Career CenterHome" class="site-header__site-link" rel="home"><span>University Career Center</span></a>
+
+     </h2>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/learn-about-careers" title="Learn about careers related to various departments at the UO" data-drupal-link-system-path="node/4">Learn About Careers</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/jobs-and-internships" title="Find different job and internship opportunities." data-drupal-link-system-path="node/14">Jobs and Internships</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--active-trail menu-item--depth-0">
+
+     <a href="/career-coaching" data-drupal-link-system-path="node/93" class="is-active" aria-current="page">Career Coaching</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/events" data-drupal-link-system-path="node/94">Events</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/resources" data-drupal-link-system-path="node/91">Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/about-us" data-drupal-link-system-path="node/92">About Us</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="https://uoregon.guide.eab.com/app/#/authentication/remote/">Schedule a Coaching Session</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div class="views-element-container block block-views block-views-blockbasic-page-hero-image-block-1" id="block-views-block-basic-page-hero-image-block-1">
+
+     
+
+     
+
+     <div><div class="envelope envelope--flush envelope--style-white view view-basic-page-hero-image view-id-basic_page_hero_image view-display-id-block_1 js-view-dom-id-27a88c483a7f769e84bedc55b2cd921e15a5b36c54c036e52c663047feb2d734">
+
+     
+
+     
+
+     
+
+     <div class="view-content">
+
+     <div><div class="views-field views-field-nothing"><span class="field-content"><div class="envelope-hero envelope-hero--text-left"><div class="envelope-hero__background"></div>
+
+     <div class="envelope-hero__container">
+
+     <div class="envelope-hero__photo">
+
+     
+
+     </div>
+
+     </div>
+
+     </div></span></div></div>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     <div id="block-cosmic-breadcrumbs" class="envelope envelope--narrow envelope--style-white block block-system block-system-breadcrumb-block">
+
+     
+
+     
+
+     <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+
+     <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+     <ol>
+
+     <li>
+
+     <a href="/">Home</a>
+
+     </li>
+
+     </ol>
+
+     </nav>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Career Coaching</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article class="node node--type-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="envelope-hero envelope-hero--text-left"><div class="envelope-hero__container"><div class="envelope-hero__photo"><span class="align-center media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img src="/sites/default/files/2023-03/uo-career-center_career-coaching.jpg" width="2100" height="900" alt="Two students sitting at table talking in front of Career Center front desk" loading="lazy">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div></div></div><div class="grid grid--2col mt3"><div class="grid__item"><h2 class id="finding-your-direction">Finding Your Direction</h2><p class>Our intent—to empower, prepare, and educate students for their lifelong process of career success—succinctly sums up our services. Our career coaches work alongside students as they navigate their career paths. Although no individual person’s career path looks the same, our career coaches support students through individual career coaching appointments, workshops, career expos, and identifying and communicating strengths and passions for next steps and beyond.</p></div><div class="grid__item"><div class="palette-bg-uo-green context--foreground-light p3"><h2 class id="chat-with-us-about">Chat with us about:</h2><ul class><li class><a class
+     href="/jobs-and-internships/job-search-strategies">Searching for jobs and internships</a></li><li class><a class href="/jobs-and-internships/resumes-and-cover-letters">Résumés and cover letters</a></li><li class><a class href="/jobs-and-internships/handshake">Handshake</a> and <a class href="/career-coaching/linkedin">LinkedIn</a></li><li class><a class href="/career-coaching/interviewing">Interviewing</a></li><li class>Professionalism</li><li class>Graduate school/purpose statements</li><li class>Evaluating and negotiating job offers</li><li class>General questions and planning</li></ul></div></div></div><h2 class id="make-an-appointment">How to Schedule a Coaching Session in Navigate</h2><ol class><li class>Go to <a class href="https://uoregon.guide.eab.com/app/#/authentication/remote/">Navigate</a> and log
+     in with your Duck ID</li><li class>Go to <strong class>Appointments </strong>&gt; <strong class>Schedule Appointment</strong></li><li class>Select <strong class>University Career Center</strong>, select the <strong class>main topic</strong> you would like to discuss with a career coach, select the <strong class>date</strong>, click on <strong class>Find Available Time</strong></li><li class>Select <strong>How Would You Like to Meet</strong></li><li class>Fill out the remaining information and click the&nbsp;<strong class>Schedule </strong>button</li><li class>Watch for a confirmation email with additional&nbsp;instructions from your career coach</li></ol><p class>You may also contact our office to schedule an appointment:</p><ul class><li class>Call <a class href="tel:541-346-3235">541-346-3235</a></li><li
+     class>Office Hours: Monday–Friday, 8:30 a.m.–5:00 p.m.</li></ul><h2 class id="peer-coaches-available-for-drop-in-assistance">Peer Coaches Available for Drop-in Assistance</h2><p class>Are you looking for a job or internship? Do you need quick tips and tricks to help your résumé stand out? Nervous about interviews? Swing by the UCC during drop-in hours and meet with a peer coach!</p><p class>Peer coaches can help answer your career-related questions, provide you with tools and resources, and assist you in coming up with next steps on your career readiness journey.</p><h3 class>No Summer Drop-In Hours</h3><p>Drop-in hours will resume in fall 2024.</p><!--
+
+     <ul class="list--label">
+
+     
+
+     <li class="">
+
+     <label class="">M</label>11:30 a.m.–5:00 p.m.
+
+     
+
+     </li>
+
+     
+
+     <li class="">
+
+     <label class="">Tu</label>noon–5:00 p.m.
+
+     
+
+     </li>
+
+     
+
+     <li class="">
+
+     <label class="">W</label>noon–3:30 p.m.
+
+     
+
+     </li>
+
+     
+
+     <li class="">
+
+     <label class="">Th</label>noon–5:00 p.m.
+
+     
+
+     </li>
+
+     
+
+     <li class="">
+
+     <label class="">F</label>2:00–4:00 p.m.
+
+     
+
+     </li>
+
+     </ul>
+
+     --><p class>We serve all UO students! In addition to our services, you may also want to connect with advisors in your home department:</p><ul class><li class><a class href="https://business.uoregon.edu/career">Lundquist College of Business Mohr Career Services</a></li><li class><a class href="//design.uoregon.edu/student-services/schedule-appointment">College of Design Career Services</a></li><li class><a class href="//sojcstudent.uoregon.edu/undergraduate/career-services/">School of Journalism and Communications Career Services</a></li><li class><a class href="https://musicanddance.uoregon.edu/careers">School of Music and Dance</a></li></ul></div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     <aside class="layout__sidebar-first layout__sidebar" role="complementary">
+
+     <div class="region region-sidebar-first">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="sidebar-no-style padded block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-mainnavigation-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/career-coaching/appointment-no-show-policy" title="Here is the appointment no-show policy." data-drupal-link-system-path="node/21">Appointment No-Show Policy</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/career-coaching/career-readiness-road-map" data-drupal-link-system-path="node/170">Career Readiness Road Map</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/career-coaching/interviewing" title="Here are some tips and tools to help you prepare for interviews." data-drupal-link-system-path="node/23">Interviewing</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/career-coaching/linkedin-profile" data-drupal-link-system-path="node/132">LinkedIn Profile</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/career-coaching/campus-interviews" data-drupal-link-system-path="node/134">On-Campus Interviews</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/career-coaching/practice-interview-program" data-drupal-link-system-path="node/133">Practice Interview Program</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/career-coaching/way-you-say-it" data-drupal-link-system-path="node/172">The Way You Say It</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     <div id="block-linkedinlearning" class="mb5 block block-block-content block-block-content83ef46f1-18e8-4f0f-9efd-4028fec27d92">
+
+     
+
+     <h2>LinkedIn Learning</h2>
+
+     
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Give your career a boost and build the career readiness skills employers are looking for! Explore our curated learning paths.</p>
+
+     
+
+     <p><a class="cta-button cta-button--standard" href="/resources/linkedin-learning">Learn More</a></p>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </aside>
+
+     
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col"><div class="grid__item"><div class="collapse-menu collapse-menu--collapsed"><div class="grid grid--2col"><div class="grid__item"><h2 class="collapse-menu__title title">Division of Student Life</h2><ul class="collapse-menu__list"><li class="collapse-menu__item"><a href="//career.uoregon.edu" target="_blank">University Career Center</a></li><li class="collapse-menu__item"><a href="//dos.uoregon.edu" target="_blank">Office of the Dean of Students</a></li><li class="collapse-menu__item"><a href="//emu.uoregon.edu" target="_blank">Erb Memorial Union</a></li><li class="collapse-menu__item"><a href="//holden.uoregon.edu" target="_blank">Holden Center for Leadership and Community Engagement</a></li><li class="collapse-menu__item"><a
+     href="//rec.uoregon.edu">Department of Physical Education and Recreation</a></li><li class="collapse-menu__item"><a href="//families.uoregon.edu">Parent and Family Programs</a></li></ul></div><div class="grid__item"><h2 class="collapse-menu__title title">Student Services</h2><ul class="collapse-menu__list"><li class="collapse-menu__item"><a href="//financialaid.uoregon.edu" target="_blank">Office of Financial Aid and Scholarships</a></li><li class="collapse-menu__item"><a href="//registrar.uoregon.edu" target="_blank">Office of the Registrar</a></li><li class="collapse-menu__item"><a href="//counseling.uoregon.edu" target="_blank">University Counseling Services</a></li><li class="collapse-menu__item"><a href="//health.uoregon.edu" target="_blank">University Health Services</a></li><li
+     class="collapse-menu__item"><a href="//housing.uoregon.edu" target="_blank">University Housing</a></li><li class="collapse-menu__item"><a href="//testing.uoregon.edu" target="_blank">University Testing Center</a></li></ul></div></div></div></div></div>
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong></strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">University Career Center<br />1030 East 13th Avenue</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3235</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     <p><div itemprop="email"><a href="mailto:career@uoregon.edu">career@uoregon.edu</a></div></p>
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.instagram.com/uocareercenter" aria-label="Visit us on Instagram">
+
+     <i class="fab fa-instagram" aria-hidden="true"></i> </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.linkedin.com/showcase/uocareercenter/" aria-label="Visit us on LinkedIn">
+
+     <i class="fab fa-linkedin" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//career.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/93","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-274503-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"4b747a986773e1163912c98c0cca028a7745dd4b82265e26d2d989a3e179c633"}}</script>
+
+     <script src="/sites/default/files/js/js_DsPChxjVMGHm8FLONZX3jJsntHgvJ-OJOOsalPB7ZEI.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFzsEKwzAMA9AfapZPCm6mBneJPWyH0r_fetlhDHaUeAKRO6Kw7Kihlne_kTGVOs0gsTTV1lFIqJ_B1fN3sUwtVQ15ajqwpjucm6TNaOBQeyQWjr-o6nh2BC74PjQ--gq_Jys5XoWVSY0"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_fIMuYdGVpEcBYV5fjhDsJtsvSOredvSAtc-3k_wNxv4.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFzsEKwzAMA9AfapZPCm6mBneJPWyH0r_fetlhDHaUeAKRO6Kw7Kihlne_kTGVOs0gsTTV1lFIqJ_B1fN3sUwtVQ15ajqwpjucm6TNaOBQeyQWjr-o6nh2BC74PjQ--gq_Jys5XoWVSY0"></script>
+
+     
+
+     </body>
+
+     </html>
+
+     
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

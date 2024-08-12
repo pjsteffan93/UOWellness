@@ -1,0 +1,4441 @@
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74277332-2"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-74277332-2", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});</script>
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     <link rel="canonical" href="https://hr.uoregon.edu/wellness-seminar-series-employees" />
+
+     <link rel="shortlink" href="https://hr.uoregon.edu/node/762" />
+
+     
+
+     <title>Wellness Seminar Series for Employees | Human Resources</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/core/assets/vendor/normalize-css/normalize.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/modules/contrib/uo_core/uo-web-design-framework/css/styles-drupal8.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/action-links.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/breadcrumb.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/button.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/collapse-processed.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/container-inline.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/details.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/exposed-filters.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/field.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/form.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/icons.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/inline-form.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/item-list.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/link.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/links.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/menu.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/more-link.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/pager.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/tabledrag.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/tableselect.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/tablesort.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/tabs.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/textarea.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/ui-dialog.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/messages.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/themes/contrib/uo_cosmic_theme/css/components/node.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/captionfixcosmic_uuissueonsetjulie-bd7acb2aabd3d0b70f9d1a0863000b9c.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/css_disable_uppercase-006caaa194a8f24093a87c3f03574a42.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/hide_jsonpara_templebyhouma-70fa22a3913358f2bb9e6358c4f91e32.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/main_menu_override-09d611f4045bcd67a1c7285603ce15ea.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/side_block_menu_overrides-006ae3084344b600de7ae96d83497b29.css?sgbwc8" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/uu245xinid_mumey_bugnag_cta_shibboleth_login-ef2d1b1436ea162a1a538f79eb0ff6d3.css?sgbwc8" />
+
+     
+
+     <script src="/sites/default/files/js/js_utbB-L9BveiYLKlXG35pV7POEomJq5IjOWucObvATLo.js?scope=header&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFyksKgDAMBcALGXqkUuszBNs86Yfi7d27cTuMkloQk6fyDMs96Ae2yZjZECZlYZcD3dTlbKlisV1ibuM3Zda7YOAFik0rTw"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled path-node page-node-type-page cosmic-hide-title uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: 1200px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <nav class="uoheader__audience-selector uowd-dropdown" id="audience-selector">
+
+     <button class="uoheader__audience-selector__button uowd-dropdown__button" id="uoheader__audience-selector__button" aria-label="Resources for:">Resources for:</button>
+
+     <ul class="uoheader__audience-selector__list uowd-dropdown__display" id="uoheader__audience-selector__list">
+
+     <li class="uoheader__audience-selector__link"><a href="/new-employees">New Employees</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/employees">Employees</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/supervisors-hr-partners">Supervisors &amp; HR Partners</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/careers-uo">Job Seekers</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/about-hr">About HR</a></li>
+
+     <li class="uoheader__audience-selector__link"><a href="/university-human-resources-directory">Contact HR</a></li>
+
+     </ul>
+
+     </nav>
+
+     
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-searchform" role="search">
+
+     
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">Human Resources Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Benefits</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/benefits" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/91">Benefits Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learn-about-your-benefits" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1399">Learn About Your Benefits</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">UO Group Insurance</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="12" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/uo-group-insurance" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/124">UO Group Insurance Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/medical-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/119">Medical</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/dental-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/118">Dental</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/vision-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/113">Vision Insurance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/life-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/112">Life Insurance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/plan-id-numbers" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/111">Plan ID Numbers</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-rates" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1329">Employee Rates</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Optional Insurance</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="13" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/optional-insurance" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/125">Optional Insurance Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/additional-life-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/126">Additional Life Insurance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/accidental-death-and-dismemberment-insurance-add" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/127">AD&amp;D Insurance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/disability-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/128">Disability Insurance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/long-term-care" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/129">Long Term Care</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Flexible Spending Accounts (FSA)</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="14" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/flexible-spending-accounts-fsa" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/132">Flexible Spending Accounts (FSA) Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/fsa-details" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/131">FSA Details</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/manage-your-fsa" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/130">Manage your FSA</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Retirement</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="15" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/retirement-plan-options" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/136">Retirement Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/uo-retirement-plans" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/135">UO Retirement Plans</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/voluntary-retirement-plans" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/134">Voluntary Retirement Plans</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/retirement-education" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/138">Retirement Education</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/retirement-planning-guide-and-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/378">Retirement Planning Guide</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/post-retirement-employment-uo" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/752">Post Retirement Employment at UO</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Legislative Updates</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="16" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/legislative-updates" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/142">Legislative Updates Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/legislative-updates-health-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/140">Health Insurance Updates</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/legislative-updates-pers" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/139">Legislative Updates: PERS</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Wellness Programs</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="17" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/wellness-programs" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/143">Wellness Programs Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-assistance-program" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/144">Employee Assistance Program</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/lifebalance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1179">LifeBalance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/ww-weight-watchers%25C2%25AE-reimagined" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/145">WW (Weight Watchers® Reimagined)</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/time" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/683">Time Off</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Employee Leaves</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="18" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-leaves" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/1143">Employee Leaves Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-leaves-faculty-and-staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/153">Employee Leaves For Faculty &amp; Staff</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Professional Development Opportunity Fund</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="19" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/professional-development-opportunity-fund" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/649">Professional Development Opportunity Fund Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/professional-development-fund-request-form" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1198">Professional Development Request Form</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Staff Tuition Benefit</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="20" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/staff-tuition-benefit" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/635">Staff Tuition Benefit Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/eligibility-requirements" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/641">Eligibility Requirements</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-enrollment" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/642">Employee Enrollment</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/forms" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/640">Forms and Deadlines</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/residency-status" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1199">Residency Status</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/staff-rates-tax-information" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/644">Staff Rates Tax information</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/transfer-benefit" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/645">Transfer the Benefit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/frequently-asked-questions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1205">FAQ</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">New Employee Benefits Resource Center</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="21" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/new-employee-benefits-resource-center" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/707">New Employee Benefits Resource Center Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/post-doc-insurance-options" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/710">Post-Doc Insurance Options</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/benefits-part-time-teaching-faculty" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1114">Benefits for Part Time Teaching Faculty</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/quick-summary-benefits" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/708">Quick Summary of Benefits</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/quick-summary-services" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/709">Quick Summary of Services</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Making Benefit Changes</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="22" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/making-benefit-changes" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/634">Making Benefit Changes Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/leave-without-pay-or-reduction-hoursfte" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/637">Leave without Pay or Reduction in Hours/FTE</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Resources</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="23" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/1126">Resources Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/affordable-care-act-aca" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/720">Affordable Care Act (ACA)</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/certificates-life-and-disability-insurance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1209">Certificates-Life and Disability Insurance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/public-service-loan-forgiveness-program" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1119">Public Service Loan Forgiveness Program</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/travel-benefits" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/718">Travel Benefits</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Open Enrollment</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="24" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/benefits-annual-open-enrollment" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/805">Open Enrollment Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/open-enrollment-2024-plan-changes" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/808">2024 Plan Changes</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/benefit-forms" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/711">Benefit Forms</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/university-human-resources-directory#benefits" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/887">Staff Directory: Benefits</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Classification &amp; Compensation</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="2" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/classification-compensation" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/178">Classification &amp; Compensation Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">SEIU</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="23" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/seiu-compensation-information" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/629">SEIU Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://fa.oregonstate.edu/classification-specifications" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Classification Specifications</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/classified-pay-actions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/662">Classified Pay Actions</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/differential-pay" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/663">Differential Pay</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/seiu-salary-schedule" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/197">SEIU Salary Schedule</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/seiu-it-positions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/973">IT Positions</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Teamsters</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="24" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/teamsters-compensation-information" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/630">Teamsters Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/teamster-classification-specifications-exclusive-uo" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/676">Classification Specifications</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/teamsters-monthly-salary-schedule" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/677">Monthly Salary Schedule</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Officers of Administration</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="25" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/officers-administration-compensation-information" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/603">Officers of Administration Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/position-and-pay-actions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/604">Position and Pay Actions</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/oa-compensation-structure" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/602">Compensation Structure</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/initial-position-placement-appeals-form" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1222">Appeals Form</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/organizational-chart-guidance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1216">Organizational Chart Guidance</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Career and Fixed Term Faculty Pay Actions</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="26" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-and-fixed-term-faculty-pay-actions" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/660">Career and Fixed Term Faculty Pay Actions Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-and-fixed-term-faculty-pay-actions-form" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1223">Form</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-and-fixed-term-faculty-pay-action-form-guidance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/880">Form Guidance</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/position-descriptions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/631">Position Descriptions</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Wage and Hour Laws and Guidelines</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="27" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/wage-and-hour-laws-and-guidelines" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/633">Wage and Hour Laws and Guidelines Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/meal-and-rest-periods" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/679">Meal and Rest Periods</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/travel-time-compensation-guidelines" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/680">Travel Time Compensation Guidelines</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Oregon Equal Pay Act Implementation</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="28" data-parent-menu-id="2">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/oregon-equal-pay-act-implementation" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/661">Oregon Equal Pay Act Implementation Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/oregon-equal-pay-act-overview" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/605">Oregon Equal Pay Act Overview</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/flsa-timesheets-and-work-week" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/678">Timesheets and Work Week</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Employee &amp; Labor Relations</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="3" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-and-labor-relations" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/93">Employee &amp; Labor Relations Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Policies, Guidance, &amp; Reporting</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="34" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/frequently-referenced-policies-guidance-and-reporting-options" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/483">Policies, Guidance, &amp; Reporting Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/bargaining-guidance-managers-and-supervisors" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1358">Bargaining: Guidance for Managers and Supervisors</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/flexible-work-arrangements-policy-and-guidance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/767">Flexible Arrangements Policy &amp; Guidance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/unionization-and-employee-supervision" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1338">Unionization and Employee Supervision</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Employee Groups &amp; CBAs</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="35" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-groups-cbas" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/485">Employee Groups &amp; CBAs Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/officers-administration-employment" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/494">Officers of Administration</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/graduate-teaching-fellows-federation" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/492">Graduate Teaching Fellows Federation</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/service-employees-international-union" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/490">Service Employees International Union</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/teamsters" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/489">Teamsters</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/united-academics" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/488">United Academics</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/university-oregon-police-association" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/487">University of Oregon Police Association</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/uo-student-workers" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/1340">UO Student Workers</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Representation Rights &amp; Grievances</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="36" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/representation-rights-grievances" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/528">Representation Rights &amp; Grievances Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/union-information-requests" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/529">Union Information Requests</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Accommodations</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="37" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/workplace-accommodations" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/535">Accommodations Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/interactive-disability-accommodation-process" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/537">Disability Accommodation</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/pregnancy-accommodation-notification" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1288">Pregnancy Accommodation Notification</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/religiousmoral-accommodation" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/536">Religious/Moral Accommodation</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Performance Management</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="38" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/performance-management" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/550">Performance Management Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/seiu-performance-management" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/551">Classified Staff</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-performance-review" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/556">Faculty</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/oa-performance-management" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/555">Officers of Administration</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Veterans</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="39" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/veterans" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/541">Veterans Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/veterans-definitions-and-eligibility" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/542">Definitions and Eligibility</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Supervisor Toolkit</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="40" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/supervisor-toolkit" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/543">Supervisor Toolkit Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/officers-administration-reference-request-and-personnel-file-request" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/548">OA Reference Request and Personnel File Request</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/seiu-steward-time-sheet" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/547">SEIU Steward Time Sheet</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/seiu-stewards-list" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/546">SEIU Stewards List</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/templatesforms" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/544">Templates/Forms</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">International Employee Relations</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="41" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/international-employee-relations" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/818">International Employee Relations Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/immigration-written-laws" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/825">Written Laws</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/immigration-designations-administrative-departments" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/826">Administrative Departments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/immigration-executive-orders" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/827">Executive Orders</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/immigration-security-checks-and-enforcement" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/828">Security Checks and Enforcement</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/international-employee-relations-department-information" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/829">Department Information</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/daca-or-tps-work-authorization-options-employees" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/819">DACA or TPS Work Authorization</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Life Events</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="42" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/life-events-0" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/571">Life Events Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/update-personal-information" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/572">Update Personal Information</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Separation Resources</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="43" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/separation-employee-action-and-resources" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/575">Separation Resources Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-transition-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/290">Career Transition Resources</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/holiday-guidelines" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/578">Holiday Guidelines</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Workplace Climate</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="44" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/workplace-climate" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/580">Workplace Climate Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/ombuds-program" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/584">Ombuds Program</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/respectful-workplace-notice" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/582">Respectful Workplace Notice</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Affirmative Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="45" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/affirmative-action" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/585">Affirmative Action Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/affirmative-action-plans" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/589">Affirmative Action Plans</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/uo-equal-opportunity-non-discrimination-and-affirmative-action-policy-statement" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/588">Equal Opportunity, Non-Discrimination, and Affirmative Action Policy Statement</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/laws-and-executive-orders" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/587">Laws and Executive Orders</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/affirmative-action-myths-and-realities" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/586">Myths and Realities</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/university-human-resources-directory#elr" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/887">Staff Directory: Employee &amp; Labor Relations</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">HR Operations</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="4" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hr-operations" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/94">HR Operations Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">University Appointments</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="45" data-parent-menu-id="4">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/university-appointments" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/203">University Appointments Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/new-appointments" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/204">New Appointments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/renewal-appointments" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/205">Renewal Appointments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/courtesy-campus-associate-and-other-unpaid-appointments" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/207">Courtesy, Campus Associate, and other Unpaid Appointments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/post-retirement-appointments" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/208">Post-Retirement Appointments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/temporary-faculty-appointments" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/210">Temporary Faculty Appointments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/summer-term-appointments" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/211">Summer Term Appointments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/duckweb-notice-appointment-process" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/216">DuckWeb: Notice of Appointment Process</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Personnel Actions and Instructions</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="46" data-parent-menu-id="4">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/personnel-actions-and-instructions" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/218">Personnel Actions and Instructions Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/request-offer-rto-resource-guide" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/217">Request To Offer (RTO)</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/leave-absence" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/261">Leave of Absence</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/overload-compensation" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/262">Overload Compensation</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/stipend-payroll-request-form-formatting-guide" title="How to submit Stipend Requests." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1390">Stipend Requests Guide</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/title-change" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/268">Title Change</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/separation-transfer" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/269">Separation &amp; Transfer</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/direct-appointments-ongoing-or-interim-positions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/260">Direct Appointments</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hr-document-submission-forms" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/916">HR Document Submission Forms</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">References</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="47" data-parent-menu-id="4">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/references" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/228">References Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/contract-types" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/230">Contract Types</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/eclass-codes" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/231">EClass Codes</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/time-and-attendance-records" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/233">Time and Attendance Records</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/job-change-and-separation-reason-code-guide" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/234">Job Change and Separation Reason Code Guide</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hr-document-submission-forms" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/916">HR Document Submission Forms</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/workers-compensation-ncci-class-code-guide" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/971">Workers Compensation NCCI Class Code Guide</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Faculty Specific Topics</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="48" data-parent-menu-id="4">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-specific-topics" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/296">Faculty Specific Topics Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/academic-classification-and-rank-0" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/297">Academic Classification and Rank</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/academic-titles-and-abbreviations" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/312">Academic Titles and Abbreviations</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-awards" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/314">Faculty Awards</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/emerit-status" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/315">Emerit Status</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-reclassification-process" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/316">Faculty Reclassification Process</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/postdoctoral-scholar-annual-nih-salary-increase" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/317">Postdoctoral NIH Minimums</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/guidance-rehiring-laid-or-non-renewed-career-faculty-positions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/318">Rehire of Laid off or Non- Renewed Career Faculty</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sabbatical-instructions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/321">Sabbatical</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/tenure-reduction-program-0" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/323">Tenure Reduction</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/career-appointment-percent-changes" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1019">Career Appointment Percent Changes</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/pro-tem-employment" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1040">Pro Tem Employment</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/united-academics-faculty-union-exclusion-list-guidance-hr-business-partners%25C2%25A0" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1361">United Academics Faculty Union Exclusion List Guidance for HR Business Partners </a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/deadlines-new-mytrack-offers-renewal-appointments-and-prfs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/381">Deadlines for Appointments &amp; PRFs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Records &amp; Data Management</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="49" data-parent-menu-id="4">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/records-data-management" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/382">Records &amp; Data Management Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/classified-employee-records-and-data" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/383">Classified Employee Records and Data</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-demographic-information" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/384">Employee Demographic Information</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-record-maintenance-guide-and-audit-process" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1315">Employee Record Maintenance Guide and Audit Process</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/personnel-records-retention-schedule" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/385">Personnel Records Retention Schedule</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/supervisor-record-maintenance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/386">Supervisor Record Maintenance</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/annual-salary-increases-process-and-procedures" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/388">Annual Salary Increases: Faculty and OAs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/university-human-resources-directory#operations" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/887">Staff Directory: HR Operations</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Learning &amp; Development</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="5" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learning-and-development" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/92">Learning &amp; Development Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learning-and-development-services" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/243">Services</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">MyTrack: Learning Module</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="56" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mytrack-learning-module" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/244">MyTrack: Learning Module Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mytrack-learning-tips-instructions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/246">Tips &amp; Instructions</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mytrack-learning-supervisors-guide" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/196">User Guide for Supervisors Tips &amp; Instructions</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/new-employee-orientation-programs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1127">New Employee Orientation Programs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/financial-stewardship-institute" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/250">Financial Stewardship Institute</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">LinkedIn Learning</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="57" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/linkedin-learning" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/978">LinkedIn Learning Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/linkedin-learning-create-your-account" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/983">Create your Account</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/linkedin-learning-custom-content-curators" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1016">Custom Content Curators</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/linkedin-learning-frequently-asked-questions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/982">Frequently Asked Questions</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Online and Self-Guided Learning</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="58" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/online-and-self-guided-learning-pathways-topic" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/1042">Online and Self-Guided Learning Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/learning-challenges" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1286">Learning Challenges</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://uosee.uoregon.edu/supervisortrainings/" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Training Resources for Student Supervisors</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/new-employees-get-started" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/202">New Employees: Get Started</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Respectful Workplace Trainings</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="59" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/respectful-workplace-trainings" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/1388">Respectful Workplace Trainings Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/workplace-harassment-discrimination-prevention" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/192">Workplace Harassment &amp; Discrimination Prevention</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/understanding-sexual-misconduct-resources-and-employee-responsibilities" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1387">Understanding Sexual Misconduct, Resources, and Employee Responsibilities</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">HR Community of Practice: Training and Resources</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="60" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hr-community-practice-training-and-resources" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/1305">HR Community of Practice: Training and Resources Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hrcp-foundational-training" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1307">Foundational Training</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hrcp-benefits-work-life-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1310">Benefits &amp; Work-Life Resources</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hrcp-employee-labor-relations" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1309">Employee &amp; Labor Relations</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hrcp-employee-engagement-development" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1312">Employee Engagement &amp; Development</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hrcp-leadership-strategy" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1313">Leadership &amp; Strategy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hrcp-operations" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1311">Operations</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hrcp-recruitment-hiring" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1308">Recruitment &amp; Hiring</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/university-human-resources-directory#learning" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/887">Staff Directory: Learning &amp; Development</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item active-trail has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Programs &amp; Services</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="6" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hr-programs-services" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/421">Programs &amp; Services Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Events and Recognition Programs</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="67" data-parent-menu-id="6">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/events-and-recognition-programs" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/721">Events and Recognition Programs Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/outstanding-employee-awards" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/727">Outstanding Employee Awards</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/uo-kids-campus-day" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1149">UO Kids on Campus Day</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/years-service-recognition" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1148">Years of Service Recognition</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/campus-and-community-resources-employees" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/969">Campus and Community Resources for Employees</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Work-Life Resources</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="68" data-parent-menu-id="6">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/work-life-resources" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/761">Work-Life Resources Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-wellness" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/794">Employee Wellness</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/family-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/764">Family Resources</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/life-events" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/795">Life Events</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/navigating-work-and-life" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/782">Navigating Work and Life</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/work-life-resources-index" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/797">Work-Life Resources Index</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/new-employee-orientation-program-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/796">YOU @ UO</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Youth Programs: Protecting Minors</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="69" data-parent-menu-id="6">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/youth-programs-protecting-minors" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/961">Youth Programs: Protecting Minors Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/youth-programs-frequently-asked-questions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1246">Frequently Asked Questions</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/virtual-youth-program-guidelines" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/963">Virtual Youth Program Guidelines</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/what-youth-program" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/962">What is a Youth Program?</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/youth-program-tool-kit-human-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/966">Youth Program Tool Kit: Human Resources</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/youth-programs-tool-kit-risk-management" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/965">Youth Programs Tool Kit: Risk Management</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/youth-programs-training-staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/964">Youth Programs: Training Staff</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Employee Engagement Guide</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="70" data-parent-menu-id="6">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-engagement-guide" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/1274">Employee Engagement Guide Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-engagement-employee-strategies" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1294">Employee Strategies</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-engagement-gallup-access" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1306">Gallup Access</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/employee-engagement-managers-toolkit" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/1293">Manager&#039;s Toolkit</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hr-service-center" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/737">HR Service Center</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/required-workplace-notices-and-posters" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/879">Required Workplace Notices and Posters</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/university-human-resources-directory#Programs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/887">Staff Directory: Programs &amp; Services</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Recruitment</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="7" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/talent-acquisition" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/95">Recruitment Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">MyTrack: Recruitment Module</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="78" data-parent-menu-id="7">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mytrack-recruitment-module" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/329">MyTrack: Recruitment Module Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/mytrack-user-guides-tools" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/330">MyTrack User Guides &amp; Tools</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mytrack-faqs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/364">MyTrack: FAQs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mytrack-user-roles-permissions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/365">User Roles &amp; Permissions</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/mytrack-applicant-support" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/369">Applicant Support</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Careers @ UO</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="79" data-parent-menu-id="7">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/careers-uo" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/90">Careers @ UO Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faq-mytrack-applicants" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/109">FAQ: MyTrack for Applicants</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/background-checks-information-candidates-employment" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/105">Background Check Information</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://hr.uoregon.edu/jobs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Employment Opportunities</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/veterans-and-uo" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1252">Veterans and UO</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/working-uo" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/106">Working @ UO</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Hiring Faculty and Staff</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="80" data-parent-menu-id="7">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/recruitment-and-hiring" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/167">Hiring Faculty and Staff Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/hiring-classified-staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/299">Hiring Classified Staff</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hiring-faculty" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/168">Hiring Faculty</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/hiring-officers-administration" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/311">Hiring Officers of Administration</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hiring-students" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/454">Hiring Students</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/recruitment-advertising-guide" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/459">Recruitment Advertising Guide</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/using-search-firm-guide-hiring-authorities-and-search-chairs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/458">Using a Search Firm</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/hiring-temporary-employees" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/446">Hiring Temporary Employees</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/recruitment-and-hiring-toolkit" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/465">Recruitment and Hiring Toolkit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/reorganizations" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/457">Reorganizations</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/remote-interviewing-guidance" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/627">Remote Interviewing Guidance</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/international-employee-recruitment-and-sponsorship" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/467">International Employee Recruitment &amp; Sponsorship</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Background Check Guidelines</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="81" data-parent-menu-id="7">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/background-check-guidelines-hiring-authorities" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/470">Background Check Guidelines Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/credit-bureau-report-authorization" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1267">Credit Bureau Report Authorization</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/oregon-veterans-preference-employment" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/471">Veterans&#039; Preference</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Orientation &amp; Onboarding</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="82" data-parent-menu-id="7">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/content/orientation-onboarding-new-employees" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/472">Orientation &amp; Onboarding Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/orientation-onboarding-guide-supervisors" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/473">Onboarding Guide for Supervisors</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Contact Talent Acquisition</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="83" data-parent-menu-id="7">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/contact-talent-acquisition" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/480">Contact Talent Acquisition Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/instant-messaging-guidelines" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/481">Instant Messaging Guidelines</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <div class="uowdf-mobile-menu__secondary-menus">
+
+     <nav class="audience-selector collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__audience-selector">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Resources for:</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999998">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/new-employees">New Employees</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/employees">Employees</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/supervisors-hr-partners">Supervisors &amp; HR Partners</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/careers-uo">Job Seekers</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/about-hr">About HR</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="/university-human-resources-directory">Contact HR</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h2 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="Human ResourcesHome" class="site-header__site-link" rel="home"><span>Human Resources</span></a>
+
+     </h2>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/benefits" data-drupal-link-system-path="node/91">Benefits</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/classification-compensation" data-drupal-link-system-path="node/178">Classification &amp; Compensation</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/employee-and-labor-relations" data-drupal-link-system-path="node/93">Employee &amp; Labor Relations</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/hr-operations" data-drupal-link-system-path="node/94">HR Operations</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/learning-and-development" data-drupal-link-system-path="node/92">Learning &amp; Development</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--active-trail menu-item--depth-0">
+
+     <a href="/hr-programs-services" data-drupal-link-system-path="node/421">Programs &amp; Services</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/content/talent-acquisition" data-drupal-link-system-path="node/95">Recruitment</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     <div class="region region-breadcrumb">
+
+     <div id="block-cosmic-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+
+     
+
+     
+
+     <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+
+     <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+     <ol>
+
+     <li>
+
+     <a href="/">Home</a>
+
+     </li>
+
+     </ol>
+
+     </nav>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Wellness Seminar Series for Employees</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article data-history-node-id="762" class="node node--type-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><p>Human Resources partners with the Public Employee Benefits Board, Canopy, our employee assistance provider, and campus departments to offer wellness seminars for faculty and staff. Each seminar focuses on a different aspect of personal well-being or an important campus topic and is free of charge.</p>
+
+     
+
+     <p>&nbsp;</p>
+
+     
+
+     <div class="grid__item">
+
+     <h2><strong><strong><strong>Additional Online Offerings</strong></strong></strong></h2>
+
+     
+
+     <div class="grid grid--4col">
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="https://www.oregon.gov/oha/PEBB/Pages/news.aspx" target="_blank">PEBB Webinars</a></strong></strong></p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="https://canopywell.com/Webinars">EAP Webinars</a></strong></strong></p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="https://www.care.com/business/care-talks/?utm_source=Client&amp;utm_medium=M-EMA&amp;utm_campaign=CFB_US_C-EMA_COM_P-ITE_LTS_V-CUS_ENG_BOF_T-UTL_L-ENG_21___CareTalksLaunch">Care Talks</a></strong></strong></p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="/wellness-presentations-library">UO Wellness Presentations</a></strong></strong></p>
+
+     </div>
+
+     </div>
+
+     
+
+     <hr>
+
+     <div class="grid grid--2col">
+
+     <h2><strong><strong><strong>Building Healthy Relationships</strong></strong></strong>&nbsp;</h2>
+
+     
+
+     <p>Tiffany Brown, Director of the Couples and Family Therapy (CFT) Program and a senior lecturer in the Department of Counseling Psychology and Human Services, with Day Hancock-Murphy and Aisha Nakrani, advanced CFT graduate students, detailed the College of Education’s Couples and Family Therapy program, which each year admits some 20 students pursuing a master’s degree that prepares them for licensure and a career in counseling. Keys to healthy relationships were reviewed along with current research evidence. The approach of the Center for Healthy Relationships, is built on communication theory, evidence-based emotionally-focused therapy, and evidence-based couples therapy model of John and Julie Gottman. These models and simple techniques were discussed with the hope folks could them to improve relationships
+     in their life.</p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><a class="cta-button cta-button--standard" href="/sites/default/files/Brown_Healthy_Relationships.pdf">PRESENTATION SLIDES</a><strong><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="https://uoregon-my.sharepoint.com/:v:/g/personal/mirabile_uoregon_edu/ES2m3hIs9eZFqQ_zesKNEqIBQsqpKQqGP9_36o8EUuuVhg?e=Gy5TmL" target="_blank">&nbsp;WATCH NOW</a></strong></strong></strong></p>
+
+     </div>
+
+     "</div>
+
+     
+
+     <div class="grid grid--2col">
+
+     <h2>&nbsp;</h2>
+
+     </div>
+
+     
+
+     <hr>
+
+     <div class="grid__item">
+
+     <h2><strong><strong><strong><a id="wellness-work" name="wellness-work"></a>Wellness at Work for UO Employees</strong></strong></strong></h2>
+
+     
+
+     <p>This webinar will focus on ways employees can incorporate personal wellness into the work day and why it is so important. Participants will learn tips on how to achieve wellness goals and integrate healthy habits in the workplace.</p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard" href="https://canopywell.box.com/s/o6gqqh4l53ltfu2x89j3sti2wduvorpz" target="_blank">Watch Now</a></strong></strong></p>
+
+     </div>
+
+     
+
+     <p>&nbsp;</p>
+
+     
+
+     <hr>
+
+     <p>&nbsp;</p>
+
+     
+
+     <h2><strong><strong><strong><a id="on-demand" name="on-demand"></a>On-Demand Videos</strong></strong></strong></h2>
+
+     
+
+     <div class="grid grid--2col">
+
+     <div class="grid__item">
+
+     <h3><strong><strong>Mental Health Experts Debunk 10 Stress Myths</strong></strong></h3>
+
+     
+
+     <p>Stephanie Cook is an assistant professor of biostatistics and social and behavioral science at NYU School of Global Public Health and Teresa Leyro is a clinical psychologist and assistant professor at Rutgers University. (13 minutes)</p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="https://www.youtube.com/watch?v=u8rYWQ4-u1E">Watch Now</a></strong></strong></p>
+
+     </div>
+
+     
+
+     <hr>
+
+     <div class="grid__item">
+
+     <h3><strong><strong>Healthy Mind, Healthy Heart</strong></strong></h3>
+
+     
+
+     <p>February is heart-health month and this prerecorded EAP video focuses how mental health affects our physical health. It will help you to identify your risk factor and mental stressors and discusses best practices for a healthy mindset to increase overall physical health. (60 minutes)</p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="https://www.youtube.com/watch?v=wOQrFn51LDo" target="_blank">Watch Now</a></strong></strong></p>
+
+     </div>
+
+     
+
+     <hr>
+
+     <div class="grid__item">
+
+     <h3><strong><strong>Cultivating a Gratitude Mindset</strong></strong></h3>
+
+     
+
+     <p>Watch this video hosted by Canopy, the university's employee assistance program, to understand how our belief systems and behaviors affect our mindset. Build your mindful muscles by learning to forgive and how to create your own personal foundation of beliefs to feel more grateful and satisfied with your life. (64 minutes)</p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <p><strong><strong><a class="cta-button cta-button--standard text--lowercase" href="http://www.youtube.com/watch?v=DmYdQuGXQhM" target="_blank">Watch Now</a></strong></strong></p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     <aside class="layout__sidebar-second layout__sidebar" role="complementary">
+
+     <div class="region region-sidebar-second">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-mainnavigation-menu" id="block-cosmic-mainnavigation" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 id="block-cosmic-mainnavigation-menu"><a href="/employee-wellness" class="menu-item--active-trail" data-drupal-link-system-path="node/794">Employee Wellness</a></h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/events-and-recognition-programs" data-drupal-link-system-path="node/721">Events and Recognition Programs</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/campus-and-community-resources-employees" data-drupal-link-system-path="node/969">Campus and Community Resources for Employees</a>
+
+     </li>
+
+     <li class="menu-item menu-item--expanded menu-item--active-trail menu-item--depth-0">
+
+     <a href="/work-life-resources" data-drupal-link-system-path="node/761">Work-Life Resources</a>
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--expanded menu-item--active-trail menu-item--depth-1">
+
+     <a href="/employee-wellness" data-drupal-link-system-path="node/794">Employee Wellness</a>
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--depth-2">
+
+     <a href="/wellness-events-campus" data-drupal-link-system-path="node/1245">Wellness Events On-Campus</a>
+
+     </li>
+
+     <li class="menu-item menu-item--active-trail menu-item--depth-2">
+
+     <a href="/wellness-seminar-series-employees" data-drupal-link-system-path="node/762" class="is-active" aria-current="page">Wellness Seminar Series for Employees</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-1">
+
+     <a href="/family-resources" data-drupal-link-system-path="node/764">Family Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-1">
+
+     <a href="/life-events" data-drupal-link-system-path="node/795">Life Events</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-1">
+
+     <a href="/navigating-work-and-life" data-drupal-link-system-path="node/782">Navigating Work and Life</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-1">
+
+     <a href="/work-life-resources-index" data-drupal-link-system-path="node/797">Work-Life Resources Index</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-1">
+
+     <a href="/new-employee-orientation-program-resources" data-drupal-link-system-path="node/796">YOU @ UO</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/youth-programs-protecting-minors" data-drupal-link-system-path="node/961">Youth Programs: Protecting Minors</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/employee-engagement-guide" data-drupal-link-system-path="node/1274">Employee Engagement Guide</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/hr-service-center" data-drupal-link-system-path="node/737">HR Service Center</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/required-workplace-notices-and-posters" data-drupal-link-system-path="node/879">Required Workplace Notices and Posters</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/university-human-resources-directory#Programs" data-drupal-link-system-path="node/887">Staff Directory: Programs &amp; Services</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </aside>
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: 1200px;">
+
+     <div class="site-footer__custom-content">
+
+     <div data-desc="site custom footer content" data-dmid="uu215footer1660259510" data-zznoop="000"><h2>Human Resources</h2><table style="border-top:1px solid #FFCE2D;"><tbody><tr><td style="padding-right:1em;vertical-align:top;"><div><h3>Resources</h3><!-- ##id="uu738mappe1648498" d="links" ## --><div class="view view-nodequeue-12 view-id-nodequeue_12 view-display-id-block view-dom-id-4c90a3c6fd65f6b22caa0e6041ae7206"><div class="view-content"><div class="item-list"><ul><li data-section="resource"><a href="https://hr.uoregon.edu/employee-and-labor-relations">Employee and Labor Relations</a></li><li data-section="resource"><a href="https://hr.uoregon.edu/hr-operations">HR Operations</a></li><li data-section="resource"><a href="https://hr.uoregon.edu/hr-programs-services">HR Programs and Services</a></li><li
+     data-section="resource"><a href="https://hr.uoregon.edu/content/talent-acquisition">Talent Acquisition</a></li><li data-section="resource"><a href="https://hr.uoregon.edu/classification-compensation">Classification &amp; Compensation</a></li><li data-section="resource"><a href="https://hr.uoregon.edu/employee-leaves-faculty-and-staff">Employee Leaves for Faculty and Staff</a></li><li data-section="resource"><a href="https://hr.uoregon.edu/work-life-resources">Work-Life Resources</a></li></ul></div></div></div><!-- ##uu738mappe1648498## --></div></td><td style="padding-right:1em;vertical-align:top;"><h3>University Partners</h3><!-- ##id="uu324paupe1648498" d="links" ## --><div><div class="view-content"><div class="item-list"><ul><li data-section="partner"><a href="https://provost.uoregon.edu/">Office of the
+     Provost</a></li><li data-section="partner"><a href="https://investigations.uoregon.edu/">Office of Investigations &amp; Civil Rights Compliance</a></li><li data-section="partner"><a href="https://safety.uoregon.edu/">Safety and Risk Services</a></li><li data-section="partner"><a href="https://inclusion.uoregon.edu/">Equity and Inclusion</a></li><li data-section="partner"><a href="https://graduatestudies.uoregon.edu/">Division of Graduate Studies</a></li><li data-section="partner"><a href="https://ba.uoregon.edu/payroll">Payroll Services Banner Guide</a></li><li data-section="partner"><a href="https://www.opurp.org/">Oregon Public Universities Retirement Plans</a></li></ul></div></div></div><!-- ##uu324paupe1648498## --></td></tr></tbody></table></div>
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>Human Resources</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">677 East 12th Ave.<br />5210 University of Oregon</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403-5210</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3159</span></div> <div class="site-footer__phone-fax">F: <span itemprop="faxNumber">541-346-2548</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     <p><a href="/contact-information">Contact Us</a></p> <p><div itemprop="email"><a href="mailto:hrinfo@uoregon.edu">hrinfo@uoregon.edu</a></div></p>
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//hr.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: 1200px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/762","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-74277332-2","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"e8d5fcd26f7f28b5ee29c8b2eeb36ffb82f967d38648c7eee554d22d6b5d0524"}}</script>
+
+     <script src="/sites/default/files/js/js_tU_9lr3qWcbi10Yr9ACmqRG0cUZBKA2EBvHRc01T6GU.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFyksKgDAMBcALGXqkUuszBNs86Yfi7d27cTuMkloQk6fyDMs96Ae2yZjZECZlYZcD3dTlbKlisV1ibuM3Zda7YOAFik0rTw"></script>
+
+     
+
+     </body>
+
+     </html>
+
+     
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,991 @@
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30837818-1"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-30837818-1", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});</script>
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     <link rel="canonical" href="https://basicneeds.uoregon.edu/food" />
+
+     <link rel="shortlink" href="https://basicneeds.uoregon.edu/node/10" />
+
+     
+
+     <title>Food | Basic Needs Program</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_tfnzV_n0qvWme2j3QO_6HqUkt7aja4AJ-_18og3ZOwg.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFj-EKwjAMhF-otY80Yncb0SaRJjL06Z0TB4rgv7vwXZIjd8TAekIN66W6F9bGioGFZniazeaGgZTaLbh6-R4kv3lAypEcqZoL1w8tcN82Vesoal2o8R3pasM2uVpecMwjnGfNUyfBYv2cWTl2aDKNTAvc5H-ymlwaYgPXerLTT_M7sj38gb9q5udhz6tafRKMTGXiFuiHSpdg03dNtREPjXeA2A" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.02/v1/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_9I2ocfCtMWzKeFvkgxaAvrbOUYRhYPs4xqquFdZY_Jk.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFj-EKwjAMhF-otY80Yncb0SaRJjL06Z0TB4rgv7vwXZIjd8TAekIN66W6F9bGioGFZniazeaGgZTaLbh6-R4kv3lAypEcqZoL1w8tcN82Vesoal2o8R3pasM2uVpecMwjnGfNUyfBYv2cWTl2aDKNTAvc5H-ymlwaYgPXerLTT_M7sj38gb9q5udhz6tafRKMTGXiFuiHSpdg03dNtREPjXeA2A" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_kdSP3EJZR9D_thXeodJ8_PDNNs7iNJAoxzil2BIE32E.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJyFj-EKwjAMhF-otY80Yncb0SaRJjL06Z0TB4rgv7vwXZIjd8TAekIN66W6F9bGioGFZniazeaGgZTaLbh6-R4kv3lAypEcqZoL1w8tcN82Vesoal2o8R3pasM2uVpecMwjnGfNUyfBYv2cWTl2aDKNTAvc5H-ymlwaYgPXerLTT_M7sj38gb9q5udhz6tafRKMTGXiFuiHSpdg03dNtREPjXeA2A" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_VAQHv1ohIDSfijatFZYR-ovQBB8yGrQYOLH4gjuf86g.css?delta=5&amp;language=en&amp;theme=cosmic&amp;include=eJyFj-EKwjAMhF-otY80Yncb0SaRJjL06Z0TB4rgv7vwXZIjd8TAekIN66W6F9bGioGFZniazeaGgZTaLbh6-R4kv3lAypEcqZoL1w8tcN82Vesoal2o8R3pasM2uVpecMwjnGfNUyfBYv2cWTl2aDKNTAvc5H-ymlwaYgPXerLTT_M7sj38gb9q5udhz6tafRKMTGXiFuiHSpdg03dNtREPjXeA2A" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_p9tx7W9D3JepCB_ypnQTg_iV4VmZBCiNwSsWzTrRWwM.css?delta=6&amp;language=en&amp;theme=cosmic&amp;include=eJyFj-EKwjAMhF-otY80Yncb0SaRJjL06Z0TB4rgv7vwXZIjd8TAekIN66W6F9bGioGFZniazeaGgZTaLbh6-R4kv3lAypEcqZoL1w8tcN82Vesoal2o8R3pasM2uVpecMwjnGfNUyfBYv2cWTl2aDKNTAvc5H-ymlwaYgPXerLTT_M7sj38gb9q5udhz6tafRKMTGXiFuiHSpdg03dNtREPjXeA2A" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.02/v1/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled menupull-right path-node page-node-type-page uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-search" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">Basic Needs Program Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item active-trail has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Services for Students</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/services-students" title="Learn about services available to students." class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/21">Services for Students Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/food" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf is-active" data-drupal-link-system-path="node/10">Food</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/housing" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/11">Housing</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/financial" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/17">Financial</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/technology" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/16">Technology</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/textbooks" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/12">Textbooks</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/health-and-wellness" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/13">Health and Wellness</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/childcare-and-family" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/14">Childcare and Family</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/transportation" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/15">Transportation</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/legal" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/18">Legal</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/snap" title="Learn more about the SNAP program." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/20">SNAP Benefits</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://dos.uoregon.edu/help" target="_blank" title="Find support and resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Emergency Resources</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/27">Faculty/Staff Resources</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/impact" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/26">Impact</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about-us" title="Lean more about the Basic Needs Program and staff." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/19">About Us</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://cm.maxient.com/reportingform.php?UnivofOregon=&amp;layout_id=70" title="Submit a request for assistance." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Request Assistance</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h2 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="Basic Needs ProgramHome" class="site-header__site-link" rel="home"><span>Basic Needs Program</span></a>
+
+     </h2>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--active-trail menu-item--depth-0">
+
+     <a href="/services-students" title="Learn about services available to students." data-drupal-link-system-path="node/21">Services for Students</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/snap" title="Learn more about the SNAP program." data-drupal-link-system-path="node/20">SNAP Benefits</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="https://dos.uoregon.edu/help" target="_blank" title="Find support and resources">Emergency Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/faculty-staff" data-drupal-link-system-path="node/27">Faculty/Staff Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/impact" data-drupal-link-system-path="node/26">Impact</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/about-us" title="Lean more about the Basic Needs Program and staff." data-drupal-link-system-path="node/19">About Us</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="https://cm.maxient.com/reportingform.php?UnivofOregon=&amp;layout_id=70" title="Submit a request for assistance.">Request Assistance</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Food</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article class="node node--type-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2 class>Student-Specific Resources</h2><p class>Please also see <a class href="/snap">SNAP Benefits</a>.&nbsp;</p><h3 class>The Student Food Pantry</h3><p class>The Student Food Pantry provides free supplemental food for college students in the greater Eugene area. Depending upon availability, this may include canned fruits and vegetables; frozen vegetables and fresh vegetables; bread, rice, pasta, and cereal; canned beans, soups, and other protein sources; dairy products; frozen meats and meat substitutes.&nbsp;</p><p class>Hours: Wednesdays and Thursdays, 4:00–6:00 p.m. (during fall, winter, and spring terms)<br>Summer hours: Wednesdays, 3:30–6:00 p.m.<br>Location: 710 E. 17th Ave.,
+     Eugene, OR 97401<br>Community resource<br>Bring: bag for food; a student ID card is not needed, but be sure to know your student ID number (95#).&nbsp;</p><h3 class>Trillium Produce Plus Produce Drop <img class="image-scale" alt="Resources available specifically for UO students" loading="lazy" src="/sites/default/files/2023-05/Basic-Needs_Webfoot.png" typeof="foaf:Image"></h3><p class>Trillium Produce Plus Produce Drops are like a weekly pop-up farmer’s stand, but everything is free to eligible students and their families. Just fill a bag with produce, bread, water bottles, toilet paper, and other supplies.&nbsp;</p><p class>Location: EMU Amphitheater<br>Phone: 541-346-4163<br><a class href="https://emu.uoregon.edu/food-security#produce">emu.uoregon.edu/food-security#produce</a><br>UO-only resource<br>Bring:
+     student ID; bag for your produce</p><h3 class>Ducks Feeding Ducks <img class="image-scale" alt="Resources available specifically for UO students" loading="lazy" src="/sites/default/files/2023-05/Basic-Needs_Webfoot.png" typeof="foaf:Image"></h3><p class>The Ducks Feeding Ducks program transfers $12 into a student’s Duck Bucks account if they meet specific criteria. You’ll have three days to use those funds at a campus eatery that accepts Duck Bucks including GrubHub. Students can receive up to two transfers per term.</p><p class>Phone: 541-346-3113<br><a class href="https://emu.uoregon.edu/ducks-feeding-ducks">emu.uoregon.edu/ducks-feeding-ducks</a><br>UO-only resource</p><h3 class>Leftover Textover <img class="image-scale" alt="Resources available specifically for UO students" loading="lazy"
+     src="/sites/default/files/2023-05/Basic-Needs_Webfoot.png" typeof="foaf:Image"></h3><p class>The Leftover Textover program alerts current UO students via text message when leftover, free food is available on campus. These leftover portions come from campus events where food was ordered from UO Catering, but not all of it was consumed.&nbsp;</p><p class><a class href="https://foodsecurity.uoregon.edu/s/signup">foodsecurity.uoregon.edu/s/signup</a><br>UO-only resource<br>Bring: container for food</p><h3 class>Duck Nest and Duck Rides Grocery Shuttle <img class="image-scale" alt="Resources available specifically for UO students" loading="lazy" src="/sites/default/files/2023-05/Basic-Needs_Webfoot.png" typeof="foaf:Image"></h3><p class>The Grocery Shuttle provides weekly rides to affordable grocery stores located
+     farther away from campus. The shuttle will go to WinCo Foods on odd weeks of the term and Trader Joe’s on even weeks. Participants must reserve their spots in advance.</p><p class>Location: EMU Amphitheater<br><a class href="https://calendly.com/grocery-shuttle">calendly.com/grocery-shuttle</a><br>UO-only resource&nbsp;</p><h3 class>Hearth and Table</h3><p class>Hearth and Table offers a free, chef-prepared, delicious, and nutritious weekly meal with two access points. There are often vegan and gluten-free options. Join other students for community-style dining at 6:30 p.m. or arrive between 6:45–7:30 p.m. to pick up a hot meal.&nbsp;</p><p class>Location: Central Lutheran Church, 1857 Potter St.<br>Phone: 541-345-0395<br><a class
+     href="https://www.begoodsoil.org/hearthandtable">www.begoodsoil.org/hearthandtable</a><br>Community resource</p><h3 class>International Students Lunch</h3><p class>International students and allies are invited to come to a free lunch every Friday from 11:30 a.m.–1:00 p.m. at the Alpha Omega House. Food is sponsored by local churches in Eugene.</p><p class>Location: Alpha Omega House, 1332 Kincaid St., Eugene, OR 97401<br><a class href="https://www.facebook.com/groups/InternationalStudentLunch/">www.facebook.com/groups/InternationalStudentLunch</a><br>Community resource</p><hr><h2 class>Additional Food Pantry Locations</h2><p class>The <a class href="https://foodfinder.oregonfoodbank.org/">Oregon Food Finder</a> is a database to search for free groceries, hot meals, and produce across Oregon. You can search by
+     location, day, and type of food resource.</p><p class><a class href="https://foodforlanecounty.org/find-a-food-pantry/">Food for Lane County</a> also maintains a pantry directory with locations and hours for local food pantries.&nbsp;</p><h3 class>Food Pantry Eligibility Requirements</h3><p class>(These eligibility requirements do not apply to the Student Food Pantry.)</p><p class>Food boxes are available at the listed pantries for those who meet USDA eligibility requirements (based on income or food stamp eligibility/proof of address). A food box is a 3–5 day supply of healthy groceries. It is possible to get up to 18 food boxes per year.</p><ul class><li class>If you have a permanent address, you will be asked for proof of this (such as a utility bill).&nbsp;</li><li class>If you do not have proof of a
+     permanent address or permanent residence, you can still receive food.&nbsp;</li><li class>You do not need to provide an ID, social security card, or any proof of income to receive food.&nbsp;</li><li class>You can still receive a monthly food box even if you already receive other benefits—such as food stamps or WIC.&nbsp;</li></ul><p class><a class href="https://foodforlanecounty.org/find-a-food-pantry/">Additional eligibility details can be found via Food for Lane County</a>.&nbsp;</p><hr><h2 class>Hot Meal Locations</h2><p class><a class href="https://foodforlanecounty.org/find-a-meal-site/">Hot meal sites</a> can be found in Eugene and beyond. You may visit meal sites as often as needed; identification is not required.</p><hr><h2 class>Additional Food Resources</h2><h3 class>The Dining Room</h3><p class>The
+     Dining Room serves free sack lunches to anyone over 18 or children accompanied by a parent or guardian. The meal consists of a meat or vegetarian entrée, a potato or rice dish, vegetables, salad, dessert, and a beverage.&nbsp;</p><p class>Location: 270 West Eighth Ave., Eugene (between Lincoln and Charnelton)<br>Phone: 541-343-2822<br><a class href="https://foodforlanecounty.org/get-help/fflcs-dining-room">foodforlanecounty.org/get-help/fflcs-dining-room</a><br>Community resource</p><h3 class>Eugene Community Fridges&nbsp;</h3><p class>Community Fridges are sites where people can share food to reduce waste. You can stop by the two fridges in Eugene anytime to pick up or drop off food.&nbsp;</p><p class>Locations: 1790 Alder St. and 870 W 16th Ave.<br><a class
+     href="https://www.instagram.com/eugenecommunityfridge">www.instagram.com/eugenecommunityfridge</a><br>Community resource</p><h3 class>Burrito Brigade&nbsp;</h3><p class>Burrito Brigade is a nonprofit whose mission is to feed the hungry and unhoused in Oregon by delivering vegan meals for free. They distribute meals every Saturday and Sunday, manage little free pantries across Eugene, and provide food boxes.&nbsp;</p><p class>Phone: 541-632-3239<br><a class href="https://burritobrigade.org">burritobrigade.org</a><br>Community resource</p><h3 class>86 Hunger Foundation Free Produce Boxes</h3><p class>86Hunger Foundation is a local nonprofit dedicated to ensuring food security by providing free produce to residents in the Eugene area. Through a collaboration with the Lane County Farmers Market, they distribute
+     leftover produce in healthy and organic produce boxes. These boxes can be ordered online through the 86Hunger Foundation's website or selected in person during the pick-up window. Pick-up is available on Sundays 4:00–6:00 p.m. at Acorn Cafe.</p><p class>Location: 769 Monroe St., Eugene (Acorn Cafe)&nbsp;<br><a class href="https://www.86hunger.org/">86hunger.org</a><br>Community resource</p><h3 class>Trillium Produce Plus</h3><p class>Trillium Produce Plus is a Food for Lane County program that provides fruits and vegetables at community and neighborhood locations. The produce is free for those living at or below 200 percent of the Federal Poverty Level. All who come can be served, as long as they sign the self-declaration statement that they meet the income requirement.</p><p class>Location: Bethel
+     Farm<br>Phone: 541-343-2822<br><a class href="https://foodforlanecounty.org/get-help/trillium-produce-plus">foodforlanecounty.org/get-help/trillium-produce-plus</a><br>Community resource</p><h3 class>Catholic Community Services&nbsp;</h3><p class>These pantries provide free food boxes for pick up three times a week for anyone who needs it. &nbsp;</p><p class>Locations: 1464 W 6th Ave. in Eugene; 1025 G St. in Springfield<br>Phone: 541-345-3628<br><a class href="https://www.ccslc.org/need-help">www.ccslc.org/need-help</a><br>Community resource<br>Bring: ID</p><h3 class>WIC (Women, Infants, and Children)</h3><p class>WIC provides finances for pregnant women, new mothers, young children, and others to purchase certain foods. Recipients must meet certain eligibility requirements. You can <a class
+     href="https://wic.fns.usda.gov/wps/pages/preScreenTool.xhtml">use a prescreening tool</a> to see if you are eligible.&nbsp;International students may qualify.</p><p class><a class href="https://www.oregon.gov/oha/PH/HEALTHYPEOPLEFAMILIES/WIC/Pages/index.aspx">www.oregon.gov/oha/PH/HEALTHYPEOPLEFAMILIES/WIC/Pages/index.aspx</a><br>Community resource</p><h3 class>Food Hero</h3><p class>Food Hero is a local collection of quick, tasty, healthy recipes and helpful tips on how to store different kinds of food and minimize food waste.&nbsp;</p><p class><a class href="http://foodhero.org">foodhero.org</a><br>Community resource&nbsp;</p><h3 class>School Lunch Program and Free Summer Meals&nbsp;</h3><p class>The School Lunch Program benefits children ages 1–18 across the state by providing a nutritionally balanced lunch.
+     Families can apply online or get paper applications at schools.&nbsp;</p><p class>Location: 255 Capitol Street NE, Salem, OR 97310-0203<br>Phone: 503-947-5600<br><a class href="http://www.summerfoodoregon.org">www.summerfoodoregon.org</a><br>Community resource</p></div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     <aside class="layout__sidebar-first layout__sidebar" role="complementary">
+
+     <div class="region region-sidebar-first">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="sidebar-no-style padded block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-mainnavigation-menu">Secondary navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--active-trail menu-item--depth-0">
+
+     <a href="/food" data-drupal-link-system-path="node/10" class="is-active">Food</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/housing" data-drupal-link-system-path="node/11">Housing</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/financial" data-drupal-link-system-path="node/17">Financial</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/technology" data-drupal-link-system-path="node/16">Technology</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/textbooks" data-drupal-link-system-path="node/12">Textbooks</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/health-and-wellness" data-drupal-link-system-path="node/13">Health and Wellness</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/childcare-and-family" data-drupal-link-system-path="node/14">Childcare and Family</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/transportation" data-drupal-link-system-path="node/15">Transportation</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/legal" data-drupal-link-system-path="node/18">Legal</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     <div id="block-keywebfooticon" class="block block-block-content block-block-content5bb053d5-eadf-46f3-86ed-e66f883969f9">
+
+     
+
+     
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><span class="align-left media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2023-05/Basic-Needs_Webfoot.png" width="50" height="54" alt="Resources available specifically for UO students">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     
+
+     <p>Resources provided by the University of Oregon</p>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </aside>
+
+     
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     <footer role="contentinfo">
+
+     <div class="region region-footer">
+
+     <div id="block-disclaimer" class="block block-block-content block-block-contentaa6eeedc-964f-41b6-a94a-15edf36c6d78">
+
+     
+
+     
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="envelope envelope--standard envelope--style-lightgray envelope--compress centered">
+
+     <p class="text-align-center">The external information and links on this website have been compiled to assist students and others in navigating and securing services and benefits external to the university. Eligibility for any benefit or service is determined by the agency or organization responsible for the benefit or service. The links are provided for information and do not represent an endorsement by the University of Oregon.</p>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </footer>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col"><div class="grid__item"><div class="collapse-menu collapse-menu--collapsed"><h3 class="collapse-menu__title title">Division of Student Life</h3><ul class="collapse-menu__list"><li class="collapse-menu__item"><a class href="http://studentlife.uoregon.edu">Division of Student Life</a></li><li class="collapse-menu__item"><a class href="http://career.uoregon.edu">University Career Center</a></li><li class="collapse-menu__item"><a class href="http://dos.uoregon.edu">Office of the Dean of Students</a></li><li class="collapse-menu__item"><a class href="http://emu.uoregon.edu">Erb Memorial Union</a></li><li class="collapse-menu__item"><a class href="http://holden.uoregon.edu">Holden Center for Leadership and Community Engagement</a></li><li
+     class="collapse-menu__item"><a class href="http://rec.uoregon.edu">Department of Physical Education and Recreation</a></li><li class="collapse-menu__item"><a class href="http://families.uoregon.edu">Parent and Family Programs</a></li></ul></div></div><div class="grid__item"><div class="collapse-menu collapse-menu--collapsed"><h3 class="collapse-menu__title title">Student Services</h3><ul class="collapse-menu__list"><li class="collapse-menu__item"><a class href="https://financialaid.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of Financial Aid and Scholarships</a></li><li class="collapse-menu__item"><a class href="https://registrar.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of the Registrar</a></li><li class="collapse-menu__item"><a class
+     href="http://counseling.uoregon.edu">University Counseling Services</a></li><li class="collapse-menu__item"><a class href="http://healthcenter.uoregon.edu">University Health Services</a></li><li class="collapse-menu__item"><a class href="http://housing.uoregon.edu">University Housing</a></li><li class="collapse-menu__item"><a class href="http://testing.uoregon.edu">University Testing Center</a></li></ul></div></div></div>
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>Office of the Dean of Students</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">5216 University of Oregon<br />185 Oregon Hall</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3216</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.instagram.com/uo_basicneeds/" aria-label="Visit us on Instagram">
+
+     <i class="fab fa-instagram" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//basicneeds.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/10","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-30837818-1","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"36906bdbdda3551f27943812f706b8b68d6e93162e2c185a9b30616b51a1472d"}}</script>
+
+     <script src="/sites/default/files/js/js_GXBi5YDYbKYj57L1ltaLuWtStJNXcXZaK9sMi9uyKdo.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFj-EKwjAMhF-otY80Yncb0SaRJjL06Z0TB4rgv7vwXZIjd8TAekIN66W6F9bGioGFZniazeaGgZTaLbh6-R4kv3lAypEcqZoL1w8tcN82Vesoal2o8R3pasM2uVpecMwjnGfNUyfBYv2cWTl2aDKNTAvc5H-ymlwaYgPXerLTT_M7sj38gb9q5udhz6tafRKMTGXiFuiHSpdg03dNtREPjXeA2A"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.02/v1/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_VjInLzUNNU7ol-6LIZekh1mW03822NM7ChD36OKQJr4.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFj-EKwjAMhF-otY80Yncb0SaRJjL06Z0TB4rgv7vwXZIjd8TAekIN66W6F9bGioGFZniazeaGgZTaLbh6-R4kv3lAypEcqZoL1w8tcN82Vesoal2o8R3pasM2uVpecMwjnGfNUyfBYv2cWTl2aDKNTAvc5H-ymlwaYgPXerLTT_M7sj38gb9q5udhz6tafRKMTGXiFuiHSpdg03dNtREPjXeA2A"></script>
+
+     
+
+     </body>
+
+     </html>
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

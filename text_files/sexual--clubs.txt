@@ -1,0 +1,1508 @@
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-16204660-22"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-16204660-22", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});</script>
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     <link rel="canonical" href="https://outdoorprogram.uoregon.edu/events-and-trips" />
+
+     <link rel="shortlink" href="https://outdoorprogram.uoregon.edu/node/11" />
+
+     
+
+     <title>Events and Trips | Outdoor Program</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_KG_GAo4msHHKhee3psBGZJ2WgEIQ2SRhCJfqsZAHq3c.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFUG2uwzAIu1DSHGmiCc3QCxCFRNV2-td16r40af9sYwtDVs0FTyBQLp2ihfwhOLtYRw4zGLqoxhTfMKMZZLSNNwyijaHQFd3Q064M9SvOPqFRFr80YFy1_XkS6g_TotI9rGjKv5NRuRbsu9EM-eG-ke-RvfCb_X6mvy02v6GNuwoNcoN6tpDaqFCmpzINqWMuZGdMe0MoKAlaeMHTseZleEDHmAjCQqVjmyLUTirHD0UT_gNMkpgc" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.01/v2/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_WWZljLQuP_rsP7MMfF2AYJ-wkD0RqSt6DFuXckOUoIY.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFUG2uwzAIu1DSHGmiCc3QCxCFRNV2-td16r40af9sYwtDVs0FTyBQLp2ihfwhOLtYRw4zGLqoxhTfMKMZZLSNNwyijaHQFd3Q064M9SvOPqFRFr80YFy1_XkS6g_TotI9rGjKv5NRuRbsu9EM-eG-ke-RvfCb_X6mvy02v6GNuwoNcoN6tpDaqFCmpzINqWMuZGdMe0MoKAlaeMHTseZleEDHmAjCQqVjmyLUTirHD0UT_gNMkpgc" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_FtRL2qJO35dbM__27x63Of8BLsPNgsIOuGrdav2uniM.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJyFUG2uwzAIu1DSHGmiCc3QCxCFRNV2-td16r40af9sYwtDVs0FTyBQLp2ihfwhOLtYRw4zGLqoxhTfMKMZZLSNNwyijaHQFd3Q064M9SvOPqFRFr80YFy1_XkS6g_TotI9rGjKv5NRuRbsu9EM-eG-ke-RvfCb_X6mvy02v6GNuwoNcoN6tpDaqFCmpzINqWMuZGdMe0MoKAlaeMHTseZleEDHmAjCQqVjmyLUTirHD0UT_gNMkpgc" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_hiS821__AjvOfIYC3u1SkUAc_X-1RoH5JwbObiwxtDY.css?delta=5&amp;language=en&amp;theme=cosmic&amp;include=eJyFUG2uwzAIu1DSHGmiCc3QCxCFRNV2-td16r40af9sYwtDVs0FTyBQLp2ihfwhOLtYRw4zGLqoxhTfMKMZZLSNNwyijaHQFd3Q064M9SvOPqFRFr80YFy1_XkS6g_TotI9rGjKv5NRuRbsu9EM-eG-ke-RvfCb_X6mvy02v6GNuwoNcoN6tpDaqFCmpzINqWMuZGdMe0MoKAlaeMHTseZleEDHmAjCQqVjmyLUTirHD0UT_gNMkpgc" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.01/v2/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled path-node page-node-type-marketing-page uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-search" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">Outdoor Program Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item active-trail has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Events and Trips</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/events-and-trips" class="uowdf-mobile-menu__link is-active" data-drupal-link-system-path="node/11">Events and Trips Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/become-trip-initiator" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/12">Become a Trip Initiator</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/common-adventure-trips" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/65">Common Adventure Trips</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/banff-film-festival" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/217">Banff Film Festival</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/redefining-outdoorsy" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/204">Redefining Outdoorsy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/past-events" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/24">Past Events</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Bike Program</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="2" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/bike-program" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/29">Bike Program Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/bike-rentals" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/25">Bike Rentals</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/biking-uo" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/49">Biking at UO</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/diy-workspace" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/31">DIY Workspace</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Rentals</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="3" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/rentals" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/32">Rentals Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/gear-rentals" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/19">Gear Rentals</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/bike-rentals" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/25">Bike Rentals</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/rentalrules" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/14">Rental Rules</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Resources</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="4" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/resources" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/28">Resources Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/allard-and-casey-memorial-safety-library" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/17">Allard and Casey Memorial Safety Library</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/current-conditions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/193">Current Conditions</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">About</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="5" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/20">About Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/student-jobs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/21">Student Jobs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/values-and-sustainability" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/23">Values and Sustainability</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/membership" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/15">Membership</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/staff" title="Learn more about the amazing Outdoor Program staff." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="staff">Staff Directory</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/history" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/223">History</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h2 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="Outdoor ProgramHome" class="site-header__site-link" rel="home"><span>Outdoor Program</span></a>
+
+     </h2>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--active-trail menu-item--depth-0">
+
+     <a href="/events-and-trips" data-drupal-link-system-path="node/11" class="is-active">Events and Trips</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/bike-program" data-drupal-link-system-path="node/29">Bike Program</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/rentals" data-drupal-link-system-path="node/32">Rentals</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/resources" data-drupal-link-system-path="node/28">Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/about" data-drupal-link-system-path="node/20">About</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <div class="region region-secondary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-mainmenu-menu" id="block-mainmenu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-mainmenu-menu">Secondary Menu</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/become-trip-initiator" data-drupal-link-system-path="node/12">Become a Trip Initiator</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/common-adventure-trips" data-drupal-link-system-path="node/65">Common Adventure Trips</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/banff-film-festival" data-drupal-link-system-path="node/217">Banff Film Festival</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/redefining-outdoorsy" data-drupal-link-system-path="node/204">Redefining Outdoorsy</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/past-events" data-drupal-link-system-path="node/24">Past Events</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Events and Trips</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article class="node node--type-marketing-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="field field--name-field-envelopes field--type-entity-reference-revisions field--label-hidden field__items">
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-black envelope--flush context--foreground-light">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-hero envelope-hero--text-center">
+
+     <div class="envelope-hero__container">
+
+     <div class="envelope-hero__photo">
+
+     <span class="align-center media media--type-image media--view-mode-feature-image-1440x550">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/styles/1440x550_center_crop/public/hero_images/adventure-hero.jpg?itok=sdJa9W08" width="1440" height="550" class="image-style-_440x550-center-crop">
+
+     
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     </div>
+
+     
+
+     <div class="envelope-hero__content">
+
+     <h2 class="envelope-hero__content__title">Events and Trips</h2>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-white envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="grid grid--2col-60-40">
+
+     <div class="grid__item">
+
+     <h2>Ducks Live for the Outdoors</h2>
+
+     
+
+     <p>Whether you are a newbie or an experienced explorer, the Outdoor Program is excited to introduce you to the many wonders in Oregon and beyond. We offer a variety of all-levels group outings, bike rides, classes and clinics, and service projects led by Outdoor Program student staff and trip initiators.</p>
+
+     
+
+     <p>OP Outing or Common Adventure Trip—what’s the difference? OP Outings are group outings led by knowledgeable Outdoor Program staff who are very familiar with the activity or area. OP Outings are entry-level, led instead of consensus-based, and do not last overnight. Common Adventure Trips are adventures planned and led by students who have taken our Trip Initiator Clinic. Common Adventure Trips operate on a group-consensus, decision-making process and tend to vary in difficulty. Some are easy and require little to no experience, while others are technical and require more experience.</p>
+
+     
+
+     <p>Students are automatically members of the Outdoor Program, so take advantage of our low-cost outings and trips and try out a new activity.</p>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <ul class="cta-list">
+
+     <li><a class="cta-button text--lowercase" href="/past-events">Where We've Been</a></li>
+
+     <li><a class="cta-button text--lowercase" href="/common-adventure-trips">Plan a Common Adventure Trip</a></li>
+
+     <li>&nbsp;</li>
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-yellow envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2 style="text-align: center;">Type of Events</h2>
+
+     
+
+     <div class="grid grid--3col grid--strict text-center card--group">
+
+     <div class="grid__item">
+
+     <div class="card-v2 b0" style="background-color: #fce675;">
+
+     <div class="card-v2__header p0">
+
+     <span class="align-center media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/clipboard.png" width="175" height="125">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     </div>
+
+     
+
+     <div class="card-v2__body">
+
+     <p style="text-align:center;"><a href="https://calendar.uoregon.edu/search/events?event_types%5B%5D=110727" target="_blank"><strong style="font-size: 16px;">CLINICS AND CLASSES</strong></a><br>
+
+     Learn a range of outdoor basics from raft guiding and snow shelters to mushroom picking.</p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="card-v2 b0" style="background-color: #fce675;">
+
+     <div class="card-v2__header p0">
+
+     <span class="align-center media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/compass.png" width="175" height="125">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     </div>
+
+     
+
+     <div class="card-v2__body">
+
+     <p style="text-align:center;"><a href="https://calendar.uoregon.edu/search/events?event_types%5B%5D=110732" target="_blank"><strong style="font-size: 16px;">OP OUTINGS</strong></a><br>
+
+     Outings include everything from hikes and bike rides to kayaking and visits to hot springs, led by our staff.</p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="card-v2 b0" style="background-color: #fce675;">
+
+     <div class="card-v2__header p0">
+
+     <span class="align-center media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/map.png" width="175" height="125">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     </div>
+
+     
+
+     <div class="card-v2__body">
+
+     <p style="text-align:center;"><a href="/common-adventure-trips"><strong style="font-size: 16px;">COMMON ADVENTURE TRIPS</strong></a><br>
+
+     Cooperative travel for outdoor enthusiasts of all skill levels—planned and led by students like you.</p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="card-v2 b0" style="background-color: #fce675;">
+
+     <div class="card-v2__header p0">
+
+     <span class="align-center media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/mountains-2.png" width="175" height="125">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     </div>
+
+     
+
+     <div class="card-v2__body">
+
+     <p style="text-align:center;"><a href="https://calendar.uoregon.edu/calendar/month?event_types%5B%5D=110728" target="_blank"><strong style="font-size: 16px;">OP EVENTS</strong></a><br>
+
+     Movie premiers, guest speakers, the annual Banff Mountain Film Festival, and more.</p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="card-v2 b0" style="background-color: #fce675;">
+
+     <div class="card-v2__header p0">
+
+     <span class="align-center media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/hand.png" width="175" height="125">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     </div>
+
+     
+
+     <div class="card-v2__body">
+
+     <p style="text-align:center;"><a href="https://calendar.uoregon.edu/search/events?event_types%5B%5D=110729" target="_blank"><strong style="font-size: 16px;">SERVICE PROJECTS</strong></a><br>
+
+     Environmental restoration such as beach clean-up, Hendricks Park trail restoration, and more.</p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="card-v2 b0" style="background-color: #fce675;">
+
+     <div class="card-v2__header p0">
+
+     <span class="align-center media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/bike-2.png" width="175" height="125">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     
+
+     </div>
+
+     
+
+     <div class="card-v2__body">
+
+     <p style="text-align:center;"><a href="https://calendar.uoregon.edu/search/events?event_types%5B%5D=110730" target="_blank"><strong style="font-size: 16px;">BIKE PROGRAM</strong></a><br>
+
+     Your hub for all things bike related—a DIY workspace, repair stations, classes, rides, and rentals.</p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <p style="text-align: center;">&nbsp;</p>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item"></div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-yellow envelope--narrow">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uo__calender-wrapper" tabindex="0" data-expiration="1721843000">
+
+     <p></p>
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     <!--<div>[uocalendar{types:15647,110730,110727,110731,110728,110732,110729;mintoshow:1;quantity:4;}]</div>--></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item"></div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col">
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Division of Student Life</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="http://studentlife.uoregon.edu">Division of Student Life</a></li>
+
+     <li class="collapse-menu__item"><a href="http://career.uoregon.edu">University Career Center</a></li>
+
+     <li class="collapse-menu__item"><a href="http://dos.uoregon.edu">Office of the Dean of Students</a></li>
+
+     <li class="collapse-menu__item"><a href="http://emu.uoregon.edu">Erb Memorial Union</a></li>
+
+     <li class="collapse-menu__item"><a href="http://holden.uoregon.edu">Holden Center for Leadership and Community Engagement</a></li>
+
+     <li class="collapse-menu__item"><a href="http://rec.uoregon.edu">Department of Physical Education and Recreation</a></li>
+
+     <li class="collapse-menu__item"><a href="http://families.uoregon.edu">Parent and Family Programs</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Student Services</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="https://financialaid.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of Financial Aid and Scholarships</a></li>
+
+     <li class="collapse-menu__item"><a href="https://registrar.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of the Registrar</a></li>
+
+     <li class="collapse-menu__item"><a href="http://counseling.uoregon.edu">University Counseling Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://healthcenter.uoregon.edu">University Health Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://housing.uoregon.edu">University Housing</a></li>
+
+     <li class="collapse-menu__item"><a href="http://testing.uoregon.edu">University Testing Center</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>Outdoor Program</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">1395 University St.</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403</span> <p>
+
+     <div class="site-footer__phone-fax">OP in EMU: <span itemprop="telephone">541-346-4365</span></div> <div class="site-footer__phone-fax">OP Rental Barn: <span itemprop="telephone">541-346-4371</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     <p><div itemprop="email"><a href="mailto:opwww@uoregon.edu">opwww@uoregon.edu</a></div></p>
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.facebook.com/uooutdoorprogram" aria-label="Visit us on Facebook">
+
+     <i class="fab fa-facebook-f" aria-hidden="true"></i>
+
+     </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.instagram.com/uo_outdoorprogram/" aria-label="Visit us on Instagram">
+
+     <i class="fab fa-instagram" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//outdoorprogram.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/11","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-16204660-22","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"31c567ea3ac68dbdcc80cbd99b537174e8658d9b8766f8e624e6aae022a23c7b"}}</script>
+
+     <script src="/sites/default/files/js/js_2ponCHp9sr0gZWE1wOHB-9mszNBgC6y7MFZpoLcI5I0.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFUG2uwzAIu1DSHGmiCc3QCxCFRNV2-td16r40af9sYwtDVs0FTyBQLp2ihfwhOLtYRw4zGLqoxhTfMKMZZLSNNwyijaHQFd3Q064M9SvOPqFRFr80YFy1_XkS6g_TotI9rGjKv5NRuRbsu9EM-eG-ke-RvfCb_X6mvy02v6GNuwoNcoN6tpDaqFCmpzINqWMuZGdMe0MoKAlaeMHTseZleEDHmAjCQqVjmyLUTirHD0UT_gNMkpgc"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.01/v2/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_mFiY4y6EiEzpggE8J_uDRL4YPRnCO-0bFVMC8c2_sUA.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFUG2uwzAIu1DSHGmiCc3QCxCFRNV2-td16r40af9sYwtDVs0FTyBQLp2ihfwhOLtYRw4zGLqoxhTfMKMZZLSNNwyijaHQFd3Q064M9SvOPqFRFr80YFy1_XkS6g_TotI9rGjKv5NRuRbsu9EM-eG-ke-RvfCb_X6mvy02v6GNuwoNcoN6tpDaqFCmpzINqWMuZGdMe0MoKAlaeMHTseZleEDHmAjCQqVjmyLUTirHD0UT_gNMkpgc"></script>
+
+     
+
+     </body>
+
+     </html>
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

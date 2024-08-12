@@ -1,0 +1,2539 @@
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1254336-5"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-1254336-5", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});gtag("config", "G-2P4EJPSFWK", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+
+     <meta name="description" content="Balance Ever feel like there’s an aspect of life that seems to be consuming a large portion of your time and energy? Yes? Welcome to being a human!" />
+
+     <link rel="canonical" href="https://counseling.uoregon.edu/copingstrategies" />
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     
+
+     <title>Coping Strategies | Counseling Services</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_2ULdecmtcySC3PGduKzzXvFmNGCvcBYgQU-Xs4y29Nc.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKwkAQQy_UoUeS6TYti52NbLYsenq1H2rBv7zwAtFdDTFOLgyJipxOOSD5Cr24Yiys4Vt-YNh5OZqFpZl3iPEtd1rHZDOU12JL9UBnvVpi3Da0Q5QQH_sN_ye_XwpnPAEoYUM_" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_6VSLLeHrmhawc1bBzyl9Gz3UCdGmbON2VBZPH6Gz0LM.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKwkAQQy_UoUeS6TYti52NbLYsenq1H2rBv7zwAtFdDTFOLgyJipxOOSD5Cr24Yiys4Vt-YNh5OZqFpZl3iPEtd1rHZDOU12JL9UBnvVpi3Da0Q5QQH_sN_ye_XwpnPAEoYUM_" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_afXrp5TBKrxQ6fBDi0UCBhYBCnb4UsuV7s5QJ1GV-40.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKwkAQQy_UoUeS6TYti52NbLYsenq1H2rBv7zwAtFdDTFOLgyJipxOOSD5Cr24Yiys4Vt-YNh5OZqFpZl3iPEtd1rHZDOU12JL9UBnvVpi3Da0Q5QQH_sN_ye_XwpnPAEoYUM_" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_yo9esGuC_pJQkySErGxvafOSuv96dTQNi1gb-24BO1Q.css?delta=5&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKwkAQQy_UoUeS6TYti52NbLYsenq1H2rBv7zwAtFdDTFOLgyJipxOOSD5Cr24Yiys4Vt-YNh5OZqFpZl3iPEtd1rHZDOU12JL9UBnvVpi3Da0Q5QQH_sN_ye_XwpnPAEoYUM_" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled menupull-right path-node page-node-type-page uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://google.com">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-search" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">Counseling Services Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Therapy and Services</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/services" title="Learn more about Counseling and Self-Support options at the University of Oregon" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/2">Therapy and Services Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/getting-started" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/222">Getting Started</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/individual-therapy" title="Learn more about Individual Therapy options available at the University of Oregon" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/7">Individual Therapy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Groups</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="12" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/group-therapy" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/29">Groups Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/group-therapy-faq" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/28">Group Therapy FAQ</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/groups-offered" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/27">Groups Offered</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/crisis-support" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/11">Crisis Support</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/letstalk" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/221">Let’s Talk</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://health.uoregon.edu/psychiatry" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Psychiatry</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/referralscase-management" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/30">Referrals</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/substance-use" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/247">Substance Use</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Events and Workshops</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="2" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/outreach" title="Learn more about Outreach programs at the University of Oregon" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/3">Events and Workshops Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/campaigns" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/230">Wellness Campaigns</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/suicide-prevention" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/145">Suicide Prevention</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mham" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/295">Mental Health Awareness Month</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Support a Student</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="3" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/support" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/229">Support a Student Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/helping-friend" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/32">Helping a Friend</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-staff-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/125">Faculty and Staff</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Parents and Families</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="34" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/parentsandfamilies" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/252">Parents and Families Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/how-families-can-support-students" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/269">How Families Can Support Students</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item active-trail has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Self-Care</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="4" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/selfcare" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/232">Self-Care Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/concerns" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/117">Common Concerns</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/copingstrategies" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf is-active" data-drupal-link-system-path="node/225" aria-current="page">Coping Strategies</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/well-being-tools" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/251">Well-being Tools</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Be Well Blog</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="45" data-parent-menu-id="4">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/be-well-blog" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/34">Be Well Blog Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/celebrating-women%E2%80%99s-history-month-ladies-psychology" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/294">Celebrating Women’s History Month: The Ladies of Psychology</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/dating-and-relationship-non-negotiables" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/293">Dating and Relationship Non-negotiables</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/effectively-managing-emotions-during-stressful-times" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/297">Effectively Managing Emotions During Stressful Times</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/maintaining-mental-wellness-while-studying-abroad" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/298">Maintaining Mental Wellness While Studying Abroad</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://dos.uoregon.edu/recovery" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Collegiate Recovery Center</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">APA Doctoral Internship</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="5" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/internship" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/8">APA Doctoral Internship Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">About Us</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="56" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/aboutus" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/91">About Us Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/apa-team" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/105">APA Team</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/service" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/98">Service and Administrative Activities</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/training" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/93">Training Activities</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/application" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/24">Application Information</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faq" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/21">FAQ</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">About</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="6" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about" title="Learn more about Counseling Services at the University of Oregon" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/5">About Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/confidentiality-and-privacy-policy" title="Learn more about the Counseling Center’s Confidentiality and Privacy Policy." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/6">Confidentiality and Privacy Policy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/documentation-requests" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/19">Documentation</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/team" title="Learn more about the Counseling Services Staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="team">Our Team</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/practicum" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/20">Practicum Program</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sab" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/22">Student Advisory Board</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/commitment-multiculturalism" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/55">Diversity</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/crisis-support" title="Get help now." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Get Help Now</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <div class="uowdf-mobile-menu__secondary-menus">
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://google.com">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h2 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="Counseling ServicesHome" class="site-header__site-link" rel="home"><span>Counseling Services</span></a>
+
+     </h2>
+
+     
+
+     <a href="https://health.uoregon.edu" class="site-header__site-title-after-link">
+
+     <div class="site-header__site-title-after site-header__site-subtitle" id="site-title-after">University Health Services</div>
+
+     </a>
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/services" title="Learn more about Counseling and Self-Support options at the University of Oregon" data-drupal-link-system-path="node/2">Therapy and Services</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/outreach" title="Learn more about Outreach programs at the University of Oregon" data-drupal-link-system-path="node/3">Events and Workshops</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/support" data-drupal-link-system-path="node/229">Support a Student</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--active-trail menu-item--depth-0">
+
+     <a href="/selfcare" data-drupal-link-system-path="node/232">Self-Care</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/internship" data-drupal-link-system-path="node/8">APA Doctoral Internship</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/about" title="Learn more about Counseling Services at the University of Oregon" data-drupal-link-system-path="node/5">About</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/crisis-support" title="Get help now.">Get Help Now</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <div class="region region-secondary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-mainmenu-menu" id="block-mainmenu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-mainmenu-menu">Secondary Menu</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/concerns" data-drupal-link-system-path="node/117">Common Concerns</a>
+
+     </li>
+
+     <li class="menu-item menu-item--active-trail menu-item--depth-0">
+
+     <a href="/copingstrategies" data-drupal-link-system-path="node/225" class="is-active" aria-current="page">Coping Strategies</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/well-being-tools" data-drupal-link-system-path="node/251">Well-being Tools</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/be-well-blog" data-drupal-link-system-path="node/34">Be Well Blog</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="https://dos.uoregon.edu/recovery">Collegiate Recovery Center</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Coping Strategies </span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article class="node node--type-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2><a id="balance" name="balance">Balance</a></h2>
+
+     
+
+     <p>Ever feel like there’s an aspect of life that seems to be consuming a large portion of your time and energy? Yes? Welcome to being a human!</p>
+
+     
+
+     <p>For example, for many students, responsibilities related to school can often take up a significant amount of the week and leave them feeling like there’s little time for other things that are also important. <i>Balance</i> can describe a feeling of being in control of multiple responsibilities or aspects of life, as well as the sense that important areas of life aren’t being neglected because of demands of only a few. There are two important ingredients to this:</p>
+
+     
+
+     <ol>
+
+     <li>Managing multiple aspects of a part of life</li>
+
+     <li>Not neglecting other important areas of life in service of focusing on just one or a few.</li>
+
+     </ol>
+
+     
+
+     <p>If this sounds little easier said than done, it is…but striving toward balance is not only possible, it’s within reach! Here are some ways you can increase balance in your life:</p>
+
+     
+
+     <ol>
+
+     <li><strong>Practice self-compassion.</strong> We all have moments when aspects of our life are imbalanced, and it is important to notice that without judgment. First thing’s first: allow yourself to be human and sometimes feel imbalanced in your life.</li>
+
+     <li><strong>Identify your values.</strong> When we notice areas of imbalance in our lives it can be helpful to take time to pause and reflect on our values. Values are the things in life that matter to us, what is truly important. Take some time to reflect on your values, what are the things that are most important to you in life? Family? Achievement? Love? Knowledge? Your values are yours and you don’t need to justify them to anybody!</li>
+
+     <li><strong>Incorporate values into everyday life.</strong> Once you’ve clarified some of your core values, check-in with yourself about how connected you feel to each of those values at this time in your life. There likely will be some you feel are very much a part of your life, and others that feel a bit distant. If your core but distant value is family, how might you engage in that value even if you moved away from home? If your core but distant value is health, what is a step you could take in service of that value? These steps do not necessarily have to be giant leaps, even seemingly small actions can make noticeable differences!</li>
+
+     </ol>
+
+     
+
+     <p>Remember back to the part about self-compassion. Even after you’ve clarified your values and have taken steps to lean into more distant values, there will likely be times when a value becomes distant again. That’s not only ok, it’s a natural part of life. When you notice this imbalance, do so in a non-judgmental way and try to see it as an opportunity to pause, check-in with your values, and practice connecting with them again or in new ways.</p>
+
+     
+
+     <h3>Additional Tips for Promoting Balance</h3>
+
+     
+
+     <ul>
+
+     <li>
+
+     <p><strong>Give your body good sleep and nutrients.&nbsp;</strong>Good sleep and nutritional hygiene is at the core of an optimally-functioning human being, so anything you can&nbsp;do to ensure you’re getting enough quality sleep and nutrition is a great first step.</p>
+
+     </li>
+
+     <li>
+
+     <p><strong>Think about self-care!&nbsp;</strong>Throughout the day, we expend energy doing the various things we need to do, and we need to recharge that energy somehow. Self-care is that opportunity to recharge and restore energy used up during the day or week. What self-care looks like really depends on the person and what they find to be energizing versus energy-depleting. Reflect on what gives you energy and think about how you could reasonably integrate some of that into your day or week, even in small doses.</p>
+
+     </li>
+
+     <li>
+
+     <p><strong>Moderation is your friend.&nbsp;</strong>Moderation, can be another way of saying balance. If there is a continuum with two extremes on either side, moderation is the middle ground between them. Oftentimes, the middle ground is the most helpful place to be. It helps us see the situation from a more balanced and holistic perspective. It also helps us determine how much investment of time, energy, or whatever else to put into a certain part of life. Are there areas in your life which might benefit from some moderation? Would moderating one aspect of your life make room for something else that’s important to you?</p>
+
+     </li>
+
+     <li>
+
+     <p><strong>Utilize available resources.&nbsp;</strong>There are several helpful resources on-campus to help promote balance in&nbsp;life.</p>
+
+     
+
+     <ul>
+
+     <li>
+
+     <p>Exhausted after a late-night doing homework? Find a nap spot on-campus with a student-created <a href="https://www.huffpost.com/entry/napping-the-underestimated-health-tip_b_8908760?guccounter=1" target="_blank">Nap Map</a>.</p>
+
+     </li>
+
+     <li>
+
+     <p>Drop-In <a href="https://health.uoregon.edu/ducknest" target="_blank">Wellness Workshops at the Duck Nest</a> (EMU 041)&nbsp;are offered each term and provide useful tools and strategies to help navigate various stressors and aspects of life.</p>
+
+     </li>
+
+     <li>Counseling Services provides resources and support for students experiencing mental health concerns.</li>
+
+     </ul>
+
+     </li>
+
+     </ul>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="http://jhsap.org/self_help_resources/school-life_balance/index.html" target="_blank">School-Life Balance </a>(5 minute read)</p>
+
+     
+
+     <p><a href="https://sps.columbia.edu/news/five-tips-achieve-your-optimal-work-school-life-balance" target="_blank">Five Tips to Achieve Your Optimal Work-School-Life Balance</a> (1 minute read)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=II_Qyf0Vw9g" target="_blank">How to turn busy into balance | Sara Cameron | TEDxTemecula</a> (12 minute watch)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="habits" name="habits">Building Healthy Habits</a></h2>
+
+     
+
+     <p>In rigorous academic environments, it can be difficult to take care of yourself while balancing school and the rest of life’s demands like relationships, finances and more. Building healthy habits is one way to make taking care of yourself sustainable. This can seem overwhelming but breaking it down into steps may help. Here’s how to <a href="https://newsinhealth.nih.gov/2018/03/creating-healthy-habits" target="_blank">get started</a>:</p>
+
+     
+
+     <ol>
+
+     <li><strong>Know yourself and your current habits.&nbsp;</strong>Do you stay up late when you wish you could get more sleep? Do you tend to leave assignments and studying to the last minute? Recognize these without judgment—many students have these habits. Knowing yourself is the first step in shifting habits.</li>
+
+     <li><strong>Make a plan.&nbsp;</strong>Be sure to include some specific, attainable steps to begin changing your habits.</li>
+
+     <li><strong>Keep track.&nbsp;</strong>Changing habits suddenly can be difficult. Keep track of the positive changes made and try to avoid negative self-talk if you stray from your plan. Reflect on small changes and view them as the accomplishments that they are. There are various apps to help track progress depending on your goals.</li>
+
+     <li><strong>Imagine future positive outcomes.&nbsp;</strong>Avoid small straying from your plan for small bouts of immediate gratification by thinking about the larger long-term rewards of delayed gratification.</li>
+
+     <li><strong>Give rewards.&nbsp;</strong>Give yourself a healthy reward for meeting small goals and achievements. Make them time oriented (i.e. stuck to the plan for one week), or task oriented (i.e. completed assignment ahead of time). Some people may reward themselves with some alone time, others by socializing, or maybe watching a show or movie.</li>
+
+     <li><strong>Be kind and patient with yourself.</strong>&nbsp;These changes won’t happen over-night. When setbacks happen, focus on the progress made and move on.</li>
+
+     </ol>
+
+     
+
+     <p><a href="https://eccountability.io/wp-content/uploads/2017/05/Habit-Formation-Worksheet.pdf?x30826" target="_blank">This worksheet</a> may help guide this process.&nbsp;</p>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p>Try the <a href="https://counseling.uoregon.edu/wellbeing-assessment">WellTrack app</a>&nbsp;and take advantage of the Activity Scheduler.</p>
+
+     
+
+     <p>Explore <a href="https://www.youtube.com/watch?v=O1zbvRsuSCU">this video</a> that helps clarify values and living a meaningful life. (17 minutes)</p>
+
+     
+
+     <p><a href="https://www.lifehack.org/668261/best-habit-tracking-apps" target="_blank">This article</a> gives several suggestions for apps to help with building habits. Here are a few we suggest:</p>
+
+     
+
+     <ol>
+
+     <li>Momentum Habit Tracker (Android &amp; iOS)</li>
+
+     <li>Productive Habit Tracker (iOS)</li>
+
+     <li>MindSet: The Good Habit App™ (Android &amp; iOS)</li>
+
+     <li>Habitify (iOS)</li>
+
+     <li>Way of Life (Android &amp; iOS)</li>
+
+     </ol>
+
+     
+
+     <p>Find more tips and tricks <a href="https://www.huffpost.com/entry/7-strategies-to-make-healthy-habits-stick_b_10220356">here</a>.</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="compassion" name="compassion">Compassion</a></h2>
+
+     
+
+     <p>Life confronts us with a series of challenges, but few, if any, challenges are not softened by the presence of compassion. A child falls on the sidewalk, and a few moments of loving attention from a parent quiets their tears. Just think of the effect of kind words from a professor or partner after you do poorly on an exam. Or a heartfelt apology from a friend who inadvertently hurts your feelings.</p>
+
+     
+
+     <p>Too often when we are hurting, we amplify the hurt by criticizing ourselves. We feel ashamed and unworthy for making a mistake or stupid for allowing our feelings to be injured. But what if we did the opposite? What if instead of attacking ourselves when we our down, we gently said to ourselves: <i>you are fine with all your imperfections. No one hits a homerun every day.</i></p>
+
+     
+
+     <p>Some people struggle with even knowing what compassion is. One way to think about it is the feelings of warmth and loving attention someone might have for a puppy—or a parent might have for a young child. It involves caring without conditions. Yes, it’s good to strive each day to be a better version of ourselves. But in the meantime, can we allow ourselves to be human and let in compassion when things are not going our way?</p>
+
+     
+
+     <p>It’s common to be critical of ourselves, especially among high achieving populations like college students. Shifting thinking towards a more compassionate approach can be difficult. You may begin by approaching it from a lens of: “<i>What would I say to a dear friend in this situation?"</i></p>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="https://positivepsychology.com/compassion-resources-books/" target="_blank">28 Compassion Books, Exercises &amp; Ted Talks</a></p>
+
+     
+
+     <p><a href="https://www.cci.health.wa.gov.au/Resources/Looking-After-Yourself/Self-Compassion" target="_blank">Self-Compassion Workbook</a></p>
+
+     
+
+     <p><a href="https://chrisgermer.com/meditations/" target="_blank">Compassion Meditations</a> by psychologist and author, Chris Germer (various lengths)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=-d_AA9H4z9U" target="_blank">Loving Kindness Meditation</a> (13 minutes)</p>
+
+     
+
+     <p><a href="https://self-compassion.org/category/exercises/" target="_blank">Self-Compassion Guided Meditations &amp; Exercises</a> by UT Austin Professor Kristin Neff (various lengths)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=RMEkQqK3oVk" target="_blank">Self-Love and Self-Care Meditation</a> (21 minutes)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="distress-tolerance" name="distress-tolerance">Distress Tolerance</a></h2>
+
+     
+
+     <p>What is Distress Tolerance? The ability to accept, in a non-evaluative and non-judgmental fashion, both oneself and the current situation.</p>
+
+     
+
+     <p>Why is this important? Pain and distress are a part of life. Distress tolerance skills are used to help individuals learn to bear pain. These skills can be helpful for tolerating painful events and emotions when you cannot make things better right away.</p>
+
+     
+
+     <p>Try some of these activities:</p>
+
+     
+
+     <ol>
+
+     <li>Distract with "Wise Mind ACCEPTS"&nbsp;
+
+     <p>A-activities. Engage in exercise or hobbies (clean, go to events, call or visit a friend, play games, go on a walk, play sports, watch a movie, listen to a podcast).</p>
+
+     
+
+     <p>C-contributing. Volunteer, do something nice for someone else, give something to someone.</p>
+
+     
+
+     <p>C-comparisons. Gain perspective by thinking about other people coping with similar struggles or those who are less fortunate. For some, this can elicit a sense of gratitude.</p>
+
+     
+
+     <p>E-emotions. Read a book or watch a movie that elicits different emotions (comedy, suspenseful movie).</p>
+
+     
+
+     <p>P-pushing away. Build an imaginary wall between yourself and the situation.</p>
+
+     
+
+     <p>T-thoughts. Count windows, work on puzzles as a way to distract yourself.</p>
+
+     
+
+     <p>S-sensations. Hold ice in your hand, squeeze a rubber ball, listen to loud music.</p>
+
+     </li>
+
+     <li>
+
+     <p>Self-Soothe with the five senses:&nbsp;</p>
+
+     
+
+     <p>Vision- Light a candle and watch the movement of the flame, look at a flower or plant, visit an art museum, observe nature around you.</p>
+
+     
+
+     <p>Hearing- Listen to relaxing music or a new kind of music, hum a tune, listen to the sound of rain or other nature sounds, observe sounds around you and let them go in one ear and out of the other.</p>
+
+     
+
+     <p>Smell- Take a moment to smell a scented candle, delicious meal, perfume or lotion, smell the fresh scents in nature.</p>
+
+     
+
+     <p>Taste- Have a good meal, sample flavors at an ice cream store, chew gum, eat one thing mindfully.</p>
+
+     
+
+     <p>Touch- Take a bubble bath, change the temperature of the water (warmer or colder), sit in a comfy chair, pet your dog/cat/other animal.</p>
+
+     </li>
+
+     </ol>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="https://www.sunrisertc.com/distress-tolerance-skills/" target="_blank">DBT Distress Tolerance Skills: Your 6-Skill Guide to Navigate Emotional Crises</a> (7 minute read)</p>
+
+     
+
+     <p><a href="https://www.therapistaid.com/therapy-worksheet/dbt-distress-tolerance-skills" target="_blank">DBT Distress Tolerance Skills</a> (worksheet)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=JD4O7ama3o8" target="_blank">Feelings: Handle them before they handle you</a> | Mandy Saligari | TEDxGuildford (18 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=9Imu7jCxWWY" target="_blank">DBT: Distress Tolerance Skills</a> (10 minutes)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="gratitude" name="gratitude">Gratitude</a></h2>
+
+     
+
+     <p>Gratitude, or focusing on what we do have in our lives with appreciation, has been associated with a number of positive mental health benefits. It is a perspective that may help to counter the tendency to highlight the negative in our lives.&nbsp;It also may help balance out the messages we receive through advertising that suggest that we need to acquire more to be happy or fulfilled.&nbsp; Incorporating gratitude as a coping strategy can be a relatively small change, but research shows there are many benefits. Gratitude:</p>
+
+     
+
+     <ul>
+
+     <li>Opens the door to more relationships</li>
+
+     <li>Improves physical and psychological health</li>
+
+     <li>Enhances empathy and reduces aggression</li>
+
+     <li>Improves self-esteem and resilience</li>
+
+     <li>Grateful people sleep better</li>
+
+     </ul>
+
+     
+
+     <p>Cultivating gratitude may also enable us to savor the positive experiences in our lives that much more. Some ways that we might incorporate gratitude in our lives include:</p>
+
+     
+
+     <ul>
+
+     <li>Beginning and/or ending your day by reflecting on 3 things that you are grateful for in your life</li>
+
+     <li>Sending thank you notes where you really communicate why you are grateful</li>
+
+     <li>Creating a space in any community that you are a part of where community members can express their gratitude (the UCC does this!)</li>
+
+     <li>Keeping a gratitude journal&nbsp;</li>
+
+     <li>If you meditate or pray, include gratitude in your practices.&nbsp;</li>
+
+     <li>Write a letter/email to someone who has really positive influenced you and send it!&nbsp;</li>
+
+     </ul>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="https://www.psychologytoday.com/us/blog/what-mentally-strong-people-dont-do/201504/7-scientifically-proven-benefits-gratitude" target="_blank">7 Scientifically Proven Benefits of Gratitude</a> (2 minute read)</p>
+
+     
+
+     <p><a href="https://www.lifehack.org/articles/communication/40-simple-ways-practice-gratitude.html">40 Simple Ways To Practice Gratitude</a> (4 minute read)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=JMd1CcGZYwU" target="_blank">The Science of Gratitude</a> (2 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=UtBsl3j0YRQ" target="_blank">Want to be happy? Be grateful</a> | David Steindl-Rast (14 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=gXDMoiEkyuQ" target="_blank">Gratitude</a> | Louie Schwartzberg | TEDxSF (10 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=ewi0qlqrshE" target="_blank">Discover the Three Keys of Gratitude to Unlock Your Happiest Life!: Jane Ransom at TEDxChennai </a>(20 minutes)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="growth-mindset" name="growth-mindset">Growth Mindset</a></h2>
+
+     
+
+     <p>A growth mindset is a belief that intelligence and other traits can be developed, that they are not static and predetermined. This concept can be applied to challenges you may face, academic, mental health or otherwise. To better understand growth mindset, it’s helpful to juxtapose it to fixed<i> </i>mindset.</p>
+
+     
+
+     <table border="1" cellpadding="1" cellspacing="1" style="width:500px;">
+
+     <tbody>
+
+     <tr>
+
+     <td><u>Growth Mindset</u>&nbsp;</td>
+
+     <td><u>Fixed Mindset</u></td>
+
+     </tr>
+
+     <tr>
+
+     <td>Belief abilities can be developed over time</td>
+
+     <td>Belief abilities are innate</td>
+
+     </tr>
+
+     <tr>
+
+     <td>Failure is viewed as an opportunity for growth</td>
+
+     <td>Failure is viewed as the worst possible outcome. Setbacks lead to a feeling of helplessness</td>
+
+     </tr>
+
+     </tbody>
+
+     </table>
+
+     
+
+     <p>&nbsp;</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=M1CHPnZfFmU" target="_blank">This video</a>&nbsp;outlines some more differences between a growth and fixed mindsets. Adopting a growth mindset can help you&nbsp;manage and work through challenges students will inevitably face in a stressful environment like higher education.</p>
+
+     
+
+     <p>Embracing a growth mindset is a process that will require intention and persistence. Here are some steps to help you on your journey:</p>
+
+     
+
+     <ol>
+
+     <li>Acknowledge and embrace your areas for growth</li>
+
+     <li>View challenges and missteps as opportunities</li>
+
+     <li>Remind yourself the brain has the ability to change and form new connections over time</li>
+
+     <li>Prioritize your own learning and development</li>
+
+     <li>Let go of need for approval</li>
+
+     <li>Focus on the process rather than the end result like test scores</li>
+
+     <li>Keep long term goals in mind, but reward smaller steps, effort, and actions</li>
+
+     <li>Avoid viewing areas of improvement as failures; learn to receive constructive feedback</li>
+
+     <li>Reflect on learning and growth everyday</li>
+
+     <li>Remember: you are resilient!</li>
+
+     </ol>
+
+     
+
+     <p>To learn more read <a href="https://www.developgoodhabits.com/fixed-mindset-vs-growth-mindset/" target="_blank">this article</a>, or watch <a href="https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en" target="_blank">Dr. Carol Dweck's TedTalk</a></p>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=M1CHPnZfFmU" target="_blank">Super brief overview of growth mindset</a> (2 minutes).</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=KUWn_TJTrnU" target="_blank">Slightly more in depth overview</a> (5 minutes).</p>
+
+     
+
+     <p><a href="https://www.timeshighereducation.com/blog/your-biggest-asset-academic-career-success-growth-mindset" target="_blank">Your biggest asset for academic career success? A growth mindset</a> (Clark &amp; Sousa, 2018)&nbsp;(3 minute read)</p>
+
+     
+
+     <p><a href="http://www.ascd.org/publications/educational-leadership/sept10/vol68/num01/Even-Geniuses-Work-Hard.aspx" target="_blank">Even Geniuses Work Hard</a> (Dweck, 2010)&nbsp;(5 minute read)</p>
+
+     
+
+     <p>Mindset: The New Psychology of Success by Carol S. Dweck (book)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="interpersonal-effectiveness" name="interpersonal-effectiveness">Interpersonal Effectiveness</a></h2>
+
+     
+
+     <p>Interpersonal effectiveness refers to our ability to interact with other people. These&nbsp;skills can help with&nbsp;attending to relationships, balancing our own priorities vs. the demands of others, and maintaining our self-respect.</p>
+
+     
+
+     <p>In general, the three main goals of interpersonal interactions are as follows (Linehan, 2015):</p>
+
+     
+
+     <ol>
+
+     <li>Gaining our objective</li>
+
+     <li>Maintaining relationships</li>
+
+     <li>Keeping self-respect</li>
+
+     </ol>
+
+     
+
+     <p>Working on keeping these goals in balance during our interactions is a good first step to becoming more effective. Dialectical Behavioral Therapy (DBT) groups focus on explicitly building these skills. The following are some handy acronyms derived from DBT to help remember specific skills for each goal (Linehan, 2015):</p>
+
+     
+
+     <ol>
+
+     <li><b>Gaining our objective: DEAR MAN&nbsp;</b>
+
+     
+
+     <p>D – Describe: use clear and concrete terms to describe what you want.</p>
+
+     
+
+     <p>E – Express: let others know how a situation makes you feel by clearly expressing your feelings; don’t expect others to read your mind.</p>
+
+     
+
+     <p>A – Assert: don’t beat around the bush­—say what you need to say.</p>
+
+     
+
+     <p>R – Reinforce: reward people who respond well and reinforce why your desired outcome is positive.</p>
+
+     
+
+     <p>M – Mindful: don’t forget the objective of the interaction; it can be easy to get sidetracked into harmful arguments and lose focus.</p>
+
+     
+
+     <p>A – Appear: appear confident; consider your posture, tone, eye contact, and body language.</p>
+
+     
+
+     <p>N – Negotiate: no one can have everything they want out of an interaction all the time; be open to negotiation.</p>
+
+     </li>
+
+     <li><b>Maintaining relationships: GIVE&nbsp;</b>
+
+     <p>G – Gentle: don’t attack, threaten, or express judgment during your interactions. Accept the occasional “no” for your requests.</p>
+
+     
+
+     <p>I – Interested: show interest by listening to the other person without interrupting.</p>
+
+     
+
+     <p>V – Validate: be outwardly validating to the other person’s thoughts and feelings. Acknowledge their feelings, recognize when your requests are demanding, and respect their opinions.</p>
+
+     
+
+     <p>E – Easy: have an easy attitude. Try to smile and act lighthearted.</p>
+
+     </li>
+
+     <li><b>Keeping self-respect: FAST&nbsp;</b>
+
+     <p>F – Fair: be fair; not only to others but also to yourself.</p>
+
+     
+
+     <p>A – Apologies: don’t apologize unless it’s warranted. Don’t apologize for making a request, having an opinion, or disagreeing.</p>
+
+     
+
+     <p>S – Stick to Values: don’t compromise your values just to be liked or to get what you want. Stand up for what you believe in.</p>
+
+     
+
+     <p>T – Truthful: avoid dishonesty such as exaggeration, acting helpless as a form of manipulation, or outright lying.</p>
+
+     </li>
+
+     </ol>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=vQSy5CnEvBk">Boundaries, Assertiveness, and Interpersonal Effectiveness</a> (45 minute video)</p>
+
+     
+
+     <p><a href="https://www.sunrisertc.com/interpersonal-effectiveness/" target="_blank">DBT Interpersonal Effectiveness Skills: The Guide to Healthy Relationships</a> (8 minute read)</p>
+
+     
+
+     <p><a href="https://www.mindfulnessmuse.com/dialectical-behavior-therapy/how-to-apply-interpersonal-effectiveness-skills" target="_blank">How to Apply Interpersonal Effectiveness Skills</a> (4 minute read)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=VRIY7F5A4u8&amp;feature=youtu.be" target="_blank">Interpersonal Skills</a> (1 minute)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=gCfzeONu3Mo" target="_blank">How miscommunication happens (and how to avoid it)</a> - Katherine Hampsten (4 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=R1vskiVDwl4" target="_blank">10 ways to have a better conversation</a> | Celeste Headlee (11 minutes)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="journaling" name="journaling">Journaling</a></h2>
+
+     
+
+     <p>Journaling is a therapeutic tool that can encourage self-reflection, clarity, personal growth, and greater self-awareness. Journaling can help with processing thoughts and feelings about many things in life, including:</p>
+
+     
+
+     <ul>
+
+     <li>Relationships</li>
+
+     <li>Identities</li>
+
+     <li>Interactions with peers</li>
+
+     <li>Work experiences</li>
+
+     <li>Impactful dreams</li>
+
+     <li>More artistic expression (i.e. poetry, song lyrics)</li>
+
+     </ul>
+
+     
+
+     <p>Journal entries can be any length. They can be structured or not. There are times when journaling can help with self-care and problem-solving. Sometimes it can be helpful simply having a place to “put” thoughts and feelings that feel too heavy to carry around inside.</p>
+
+     
+
+     <p>Some people choose to journal as a practice, setting aside time each day. Others simply pick up their journal whenever they feel the need. There is truly no “wrong” way to journal. It is a private, expressive space for you to cultivate your relationship with you and learn more about yourself.</p>
+
+     
+
+     <p>Your journal is your own private resource that can help you hear yourself and record how you are feeling or what you may be struggling with. This can be helpful to better understand what you may be going through or allow you to return to a problem later.</p>
+
+     
+
+     <p>There is no one way to keep a journal. You can write on and with whatever is most comfortable for you and will allow you to look back at it later. When you start journaling, try not to set expectations for yourself about what you should write about or what it should be like. Give yourself permission to write whatever you feel like and do not be critical of your writing.</p>
+
+     
+
+     <p>If the notion of free writing is intimidating or confusing, try starting with a prompt:</p>
+
+     
+
+     <ul>
+
+     <li><strong>Fill in the blank:&nbsp;</strong><em>Right now I feel challenged by ________. I feel supported by _______.</em></li>
+
+     <li><strong>Free writing:&nbsp;</strong><em>Without stopping, write down everything that is churning around in your mind. Once it is out of your head, give yourself permission to leave it.&nbsp;</em></li>
+
+     <li><strong>List making:</strong>&nbsp;<em>Write out a list of all the things you need to do, then rewrite the list in order of priority. Or try writting out all your emotions as a grocery list.</em></li>
+
+     <li><strong>Mind-body connection:&nbsp;</strong><em>Close your eyes and take three to five deep, centering breaths. Imagine you are in your favorite place in nature—a park, the redwoods, at the coast—strolling quietly and observing everything around you. When you can see the place clearly in your mind, and you feel calm, open your eyes and write about what you imagined. Focus on the details. What did you see? Did you imagine smells and sounds, or wildlife? How did it feel to be in this place? How do you feel now?</em></li>
+
+     </ul>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="mindfulness" name="mindfulness">Mindfulness</a></h2>
+
+     
+
+     <p>Mindfulness is an awareness that we can access through non-judgmentally and purposefully paying attention to the present moment. Each of these components (paying attention to the present moment, on purpose, no judgment) are essential to practicing mindfulness. In other words, mindfulness doesn’t happen by accident, without intention, or by focusing on the past or future rather than the present.&nbsp;</p>
+
+     
+
+     <p>Practicing mindfulness can take many different forms, from active and outward-focused to more inward-focused and meditative. Regardless of approach, mindfulness practice always involves directing our attention and awareness to:</p>
+
+     
+
+     <ul>
+
+     <li>thoughts</li>
+
+     <li>emotions</li>
+
+     <li>bodily sensations</li>
+
+     <li>environment</li>
+
+     </ul>
+
+     
+
+     <p>Mindfulness practice often involves two main ingredients: <em>curiosity</em> and <em>acceptance</em>.</p>
+
+     
+
+     <p><em>Curiosity&nbsp;</em>is important because it helps us notice the present moment with a sense of wonder and with the intention of gently and non-judgmentally understanding more about it, whatever it entails.&nbsp;</p>
+
+     
+
+     <p><em>Acceptance</em>&nbsp;is an important, and sometimes difficult, aspect of mindfulness because it asks us to take the present for what it is—whether pleasant or unpleasant—and to make room for it within ourselves. In this sense, acceptance can be viewed as the opposite of avoidance or dismissal. Instead of using our judgment to determine which parts of our experience are "good" and which parts are "bad" and then trying to keep out the "bad" parts, acceptance asks us to recognize that being a human involves both "good" and "bad" experiences, and to make space for all of it.&nbsp;</p>
+
+     
+
+     <p>There are several different ways to practice mindfulness, including more inward-focused exercises like noticing the process of breathing or paying attention to bodily sensations that are present, to more outward-focused exercises such as curiously connecting with one’s senses to mindfully eat or drink something. No one mindfulness practice is “better” than another, and how helpful we find them depends somewhat on our own preferences and ways we connect with the present moment.</p>
+
+     
+
+     <p>Practicing mindfulness is a skill, and so it becomes more natural and effective the more we practice. This is not to say that there is a “correct” way to practice mindfulness, in fact this would be counter to the key ingredient of being non-judgmental. So rather than thinking about the “right way” to practice mindfulness, just make sure you’re doing it “your way.”</p>
+
+     
+
+     <p>Wondering a little more about what this all looks like? Here’s an example of a fairly quick and simple mindfulness practice that involves focusing on the breath:</p>
+
+     
+
+     <p><em>Begin this exercise by finding a quiet place to sit or lay down, whatever you&nbsp;prefer.&nbsp;You can do this exercise with your eyes opened or closed, though closing your eyes may reduce distractions from the environment. Start by taking several rounds of slow and evenly paced breaths in…and out. The point here is to settle into a smooth and even rhythm of breathing, how long you inhale and exhale is less important. As you continue to settle into this calm and even way of breathing, begin to direct your attention to what it is like to be breathing in this moment…and see what you notice. You might notice what it feels like for your lungs to gently expand and make room for the breath, as well as what it’s like to gently exhale and push the breath out. You might notice the temperature of the air as it
+     enters and leaves your nose or mouth. Whatever you notice about the process of breathing, just simply make note of it and continue to breathe. If you find your mind wandering or becoming distracted, this is completely normal and expected,&nbsp;simply note that your mind wandered away from the exercise and then gently and without judgment bring your attention back to your breathing. Practice this exercise for 5 or more minutes. </em></p>
+
+     
+
+     <h3>Additional Resources&nbsp;</h3>
+
+     
+
+     <p>If you’re interested in learning more about mindfulness and opportunities for practicing mindfulness exercises, then you’re in luck because there are many resources out there.</p>
+
+     
+
+     <ul>
+
+     <li>University Counseling Services has created the <a href="https://www.youtube.com/playlist?list=PL6695xmI9I3qU2t3D_4re3E0T_5aqgTXk">Mindfulness Video Playlist</a>,&nbsp;a collection of instructional videos on how to incorporate mindfulness into your daily life. Topics include:
+
+     
+
+     <ul>
+
+     <li><a href="https://www.youtube.com/watch?v=HeuKuBcL4Rg&amp;list=PL6695xmI9I3qU2t3D_4re3E0T_5aqgTXk&amp;index=3">Introduction to Mindfulness</a> (2:10 minutes)</li>
+
+     <li><a href="https://www.youtube.com/watch?v=r25xaCV43QU&amp;list=PL6695xmI9I3qU2t3D_4re3E0T_5aqgTXk&amp;index=1">Grounding in the Breath</a> (7:37 minutes)</li>
+
+     <li><a href="https://www.youtube.com/watch?v=ni4DhAhBb6Y&amp;list=PL6695xmI9I3qU2t3D_4re3E0T_5aqgTXk&amp;index=2">Grounding in the Body</a> (9:17 minutes)</li>
+
+     <li><a href="https://www.youtube.com/watch?v=4gaCQ4BIuiM&amp;list=PL6695xmI9I3qU2t3D_4re3E0T_5aqgTXk&amp;index=4">Grounding in Gratitude</a> (9:34 minutes)</li>
+
+     </ul>
+
+     </li>
+
+     <li>The <a href="https://counseling.uoregon.edu/wellbeing-assessment">WellTrack app</a>&nbsp;has a tool called the The Zen Room designed to help you clear your mind and relax. In additon, there are many other free apps (e.g., Headspace; Stop, Breathe, &amp; Think; Calm), as well as audio and videos&nbsp;available online (e.g., Youtube) that can help guide you through some useful exercises.&nbsp;</li>
+
+     </ul>
+
+     
+
+     <p>There are also opportunities on campus to practice mindfulness:</p>
+
+     
+
+     <ul>
+
+     <li>The Duck Nest (EMU 041) offers free weekly workshops on a range of topics, some of which involve mindfulness practice. DuckNest workshops are drop-in, meaning students do not need to sign-up ahead of time or commit to attending a certain number of sessions.&nbsp;Students can view current list of workshops <a href="https://counseling.uoregon.edu/workshops">here</a>.</li>
+
+     </ul>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="positive-thinking" name="positive-thinking">Positive Thinking</a></h2>
+
+     
+
+     <p>“The mind takes the shape it rests upon.”&nbsp; Rick Hanson, Ph.D.</p>
+
+     
+
+     <p>Consider that everything that you can see and hear around you began as a thought or image in someone’s mind. The same is true about our lives. If you are confident and resilient, able to move through challenges without undue stress, you probably have a positive self-image. Thinking that things will go well for you is like gasoline in your engine (or wind power in a post-carbon world). Conversely, thinking that you will fail, that others won’t like you or your ideas, is like trying to get somewhere while dragging a hundred-pound weight behind you.</p>
+
+     
+
+     <p>Learning to make your thoughts work for you rather than against you is one way to build confidence and peace of mind. This is not to deny that some experiences are genuinely frustrating or upsetting. Sometimes we need to express our distressed thoughts and feelings to a compassionate other in order to heal and move on. At the same time, if we spend too much time dwelling in negative thoughts, they will become a self-fulfilling prophecy. We won’t try new activities for fear of failure, we will label challenging experiences as “bad” without understanding and growing through them, and others will tend to avoid us because we bring them down.</p>
+
+     
+
+     <p>Here is one more idea to consider. An approach called Acceptance and Commitment Therapy (ACT) takes the view that it’s fine to have negative thoughts from time to time. In fact, it’s often very hard to control the content of our minds. However, ACT therapists would advise us not to get too attached to thoughts that block us and keep us from living fully out of our cherished values. Instead, ask of your commonly recurring thoughts: are these thoughts life enhancing? Are they helping me move toward my goals? If not, then learn to relax your grip on such thoughts and not give them so much power.</p>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="https://jamesclear.com/positive-thinking" target="_blank">How Positive Thinking Builds Skills</a> (8 minute read)</p>
+
+     
+
+     <p><a href="https://www.psychologytoday.com/us/blog/click-here-happiness/201803/think-positive-11-ways-boost-positive-thinking" target="_blank">11 Ways to Boost Positive Thinking</a>&nbsp; (6 minute read)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=teVE3VGrBhM" target="_blank">Ted Youth Talk on Overcoming Negative Self Talk</a> (18 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=7XFLTDQ4JMk" target="_blank">Ted Talk on Overcoming Negative Thoughts</a> (10 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=jpuDyGgIeh0" target="_blank">Ted Talk on Hardwiring Happiness</a> (14 minutes)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=usRRkRPS6Lo" target="_blank">Power of Positive Thinking with Mitch Horowitz</a> (1 hour)</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=zTNNKUBDNsU" target="_blank">Getting Unstuck Motivational Talk by Less Brown</a> (45 minutes)</p>
+
+     
+
+     <p>Burns, David. M. Feeling Good&nbsp;(book)</p>
+
+     
+
+     <p>Hanson, Rick, Ph.D.&nbsp; Just One Thing (book)</p>
+
+     
+
+     <p>Horowitz, Mitch. One Simple Idea (book)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="radical-acceptance" name="radical-acceptance">Radical Acceptance</a></h2>
+
+     
+
+     <p>Radical acceptance is the idea of accepting things as they are, even when we don’t like them and they may not be what we would prefer.</p>
+
+     
+
+     <p>The central idea behind radical acceptance is that much of our suffering comes from resisting or fighting events, mood states, or relationships as they are. For example, say you make plans with a friend to go to coast, but then then your friend gets sick or the car won’t start. When this happens, you may become stressed or feel miserable, rather than making alternative plans that you could enjoy.</p>
+
+     
+
+     <p>A more profound example is what happens when your family isn’t the way you want it to be. Maybe your parents divorced, or maybe you feel that they don’t understand you. It’s easy to feel cheated or&nbsp;compare your life with friends who have a better relationship with their families. Getting to radical acceptance here may help you see how your family situation has also brought certain benefits, such us encouraging your independence or your compassion for others with similar backgrounds.</p>
+
+     
+
+     <p>Embracing radical acceptance is not to suggest that we should be completely passive or stop advocating for ourselves or trying to improve social conditions. Rather, it is a willingness to face reality as it is without blinders.</p>
+
+     
+
+     <p>You can start to practice radical acceptance with something small. The next time you are disappointed, ask yourself: What would happen if I fully accepted this situation as it is? How would that free me from these distressing emotions and allow me to move forward?</p>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="http://www.dbtselfhelp.com/html/radical_acceptance_part_1.html" target="_blank">Introduction to Radical Acceptance</a> (5 minute read)</p>
+
+     
+
+     <p><a href="https://psychcentral.com/blog/what-it-really-means-to-practice-radical-acceptance/" target="_blank">What it Really Means to Practice Radical Acceptance</a> (4 minute read)</p>
+
+     
+
+     <p>A <a href="https://www.youtube.com/watch?v=OTG7YEWkJFI" target="_blank">video with Marcia Linehan</a> on how she learned about radical acceptance and made it a part of her DBT approach to therapy. (4 minutes)</p>
+
+     
+
+     <p>A <a href="https://www.youtube.com/watch?v=vFr_zQCUMD4" target="_blank">lecture on radical acceptance by Tara Brach</a>, a psychologist and meditation and spiritual teacher. (55 minutes)</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <h1>&nbsp;</h1>
+
+     
+
+     <h2><a id="social-action" name="social-action">Social Action and Advocacy</a></h2>
+
+     
+
+     <p>Social action is a communal effort that involves people joining together to improve their lives and the lives of others. Social action focuses on solving the problems that are salient in various communities. This concept is generally defined as applied action in service of others, such as:</p>
+
+     
+
+     <ul>
+
+     <li>Collaboration between individuals or groups of people working together</li>
+
+     <li>Not for profit and not mandated</li>
+
+     <li>Altruistic</li>
+
+     <li>Working towards social change</li>
+
+     </ul>
+
+     
+
+     <p>Advocacy is a concept that encourages the promotion of the well-being of individuals or groups in our communities. Advocacy, as an action, removes barriers and obstacles that impede development, growth, and access.</p>
+
+     
+
+     <p>Being an advocate can look like organizing efforts to make change on a larger scale with many people involved, or it can be as simple as staying informed or attending a meeting of a student group with similar values. Taking action about things you’re passionate about can empower you to make changes to help your wellbeing, and can be an excellent form of self-care.</p>
+
+     
+
+     <p>Check out, novelist, <a href="https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story?language=en" target="_blank">Chimamanda Adichie’s take on social advocacy.</a></p>
+
+     
+
+     <p>Embracing a social action and advocacy identity is a process that will require time, intentionality, and self-compassion. Here are some steps to help you on your journey:</p>
+
+     
+
+     <ol>
+
+     <li>Identify the needs of your population.</li>
+
+     <li>Decide which needs are of the most important of your population (e.g., food security).</li>
+
+     <li>Ask yourself questions such as, “In what ways are this community’s needs not being met?” and “How could my interventions address the needs of the community?”</li>
+
+     <li>Collaborate and communicate your ideas with friends, colleagues, supervisors, gatekeepers, and collateral sources.</li>
+
+     <li>Develop an approach for employing the intervention.</li>
+
+     <li>Evaluate the outcome of your intervention (e.g., surveys)</li>
+
+     <li>Make adjustments as needed when implementing the intervention again.</li>
+
+     <li>Continue to be an ally to the population and return back to the population to continue building respectable and honest relationships with the community members.</li>
+
+     </ol>
+
+     
+
+     <h3>Additional Resources</h3>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=CH8OPz4WKE0" target="_blank">“How to Turn Advocacy into Action”</a> by Heidi Harmon (20 minutes).</p>
+
+     
+
+     <p><a href="https://www.youtube.com/watch?v=nIo31mMB4P8" target="_blank">“Five Steps to Becoming an Advocate”</a> by Joseph R Campbell (7 minutes).</p>
+
+     
+
+     <p>Remember that while this work can be nourishing, it can also be taxing. Check out this article on <a href="https://www.newtactics.org/conversation/self-care-activists-sustaining-your-most-valuable-resource" target="_blank">self-care for activists</a> (6 minute read).</p>
+
+     
+
+     <p>To learn more, check out this <a href="https://ct.counseling.org/2017/06/eight-step-process-implementing-social-justice-advocacy-interventions/" target="_blank">article</a> (5 minute read).</p>
+
+     
+
+     <p><a class="cta-button" href="/coping-strategies#top">Back to Top</a></p>
+
+     
+
+     <p>&nbsp;</p>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     <aside class="layout__sidebar-second layout__sidebar" role="complementary">
+
+     <div class="region region-sidebar-second">
+
+     <div id="block-selfcarekit" class="sidebar-style-white block block-block-content block-block-contentcfbe9445-d4bb-42df-8b10-51ae3938e08f">
+
+     
+
+     <h2>Self-Care Kit</h2>
+
+     
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><ul class="cta-list">
+
+     <li><a href="#balance">Balance</a></li>
+
+     <li><a href="#habits">Building Healthy Habits</a></li>
+
+     <li><a href="#compassion">Compassion</a></li>
+
+     <li><a href="#distress-tolerance">Distress Tolerance</a></li>
+
+     <li><a href="#gratitude">Gratitude</a></li>
+
+     <li><a href="#growth-mindset">Growth Mindset</a></li>
+
+     <li><a href="#interpersonal-effectiveness">Interpersonal Effectiveness</a></li>
+
+     <li><a href="#journaling">Journaling</a></li>
+
+     <li><a href="#mindfulness">Mindfulness</a></li>
+
+     <li><a href="#positive-thinking">Positive Thinking</a></li>
+
+     <li><a href="#radical-acceptance">Radical Acceptance</a></li>
+
+     <li><a href="#social-action">Social Action and Advocacy</a></li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </aside>
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col">
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Division of Student Life</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="http://studentlife.uoregon.edu">Division of Student Life</a></li>
+
+     <li class="collapse-menu__item"><a href="http://career.uoregon.edu">University Career Center</a></li>
+
+     <li class="collapse-menu__item"><a href="http://dos.uoregon.edu">Office of the Dean of Students</a></li>
+
+     <li class="collapse-menu__item"><a href="http://emu.uoregon.edu">Erb Memorial Union</a></li>
+
+     <li class="collapse-menu__item"><a href="http://holden.uoregon.edu">Holden Center for Leadership and Community Engagement</a></li>
+
+     <li class="collapse-menu__item"><a href="http://rec.uoregon.edu">Department of Physical Education and Recreation</a></li>
+
+     <li class="collapse-menu__item"><a href="http://families.uoregon.edu">Parent and Family Programs</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Student Services</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="https://financialaid.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of Financial Aid and Scholarships</a></li>
+
+     <li class="collapse-menu__item"><a href="https://registrar.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of the Registrar</a></li>
+
+     <li class="collapse-menu__item"><a href="http://counseling.uoregon.edu">University Counseling Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://healthcenter.uoregon.edu">University Health Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://housing.uoregon.edu">University Housing</a></li>
+
+     <li class="collapse-menu__item"><a href="http://testing.uoregon.edu">University Testing Center</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>Counseling Services</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">1590 E 13th Ave</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3227</span></div> <div class="site-footer__phone-fax">F: <span itemprop="faxNumber">541-346-2842</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.facebook.com/UOCounseling" aria-label="Visit us on Facebook">
+
+     <i class="fab fa-facebook-f" aria-hidden="true"></i>
+
+     </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.youtube.com/channel/UCQkWa7hdt1HMDr6Nn8UCG0g/featured" aria-label="Visit us on Youtube">
+
+     <i class="fab fa-youtube" aria-hidden="true"></i> </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.instagram.com/uocounselingservices" aria-label="Visit us on Instagram">
+
+     <i class="fab fa-instagram" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//counseling.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/225","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-1254336-5","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"5f4d64093cf3c8293963c30a662315b79f20cc6a3cb3c079ab1b1ea7412b2428"}}</script>
+
+     <script src="/sites/default/files/js/js_g5IYBlEkERe1uncAc6s2t5BkxTifpxiKJWMef5ri1z0.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFy1EKgCAQhOELtXQkWW1aJHXDVaTbhy89RNDj_HwjqpLguHC6Wgy2yissXV3QirUrDXjaYFEK7ZUzhtaDYontFwXNZ0LDhGbIj57j--LZcAMs0z1L"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_zic6n4aXLc-fvnTrLItjuT2dDT4PmarijF9227ODpUQ.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFy1EKgCAQhOELtXQkWW1aJHXDVaTbhy89RNDj_HwjqpLguHC6Wgy2yissXV3QirUrDXjaYFEK7ZUzhtaDYontFwXNZ0LDhGbIj57j--LZcAMs0z1L"></script>
+
+     
+
+     </body>
+
+     </html>
+
+     
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

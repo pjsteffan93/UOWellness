@@ -1,0 +1,14 @@
+version: '3.9'
+
+services:
+  uowellness:
+    build:
+      context: .
+      dockerfile: dockerfile
+    stdin_open: true
+    tty: true
+    container_name: uowellness1
+    volumes:
+      - ./:/app
+    network_mode: "host" 
+

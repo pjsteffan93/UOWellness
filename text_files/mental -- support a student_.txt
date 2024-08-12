@@ -1,0 +1,1418 @@
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1254336-5"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-1254336-5", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});gtag("config", "G-2P4EJPSFWK", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+
+     <link rel="canonical" href="https://counseling.uoregon.edu/support" />
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     
+
+     <title>Support a Student | Counseling Services</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_2ULdecmtcySC3PGduKzzXvFmNGCvcBYgQU-Xs4y29Nc.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKgzAQRC9k9EhlNaOGZrNhxyDt6dsKVgr9m3m8geGDG3QYhegmo6bpJytIWcB3dwzFXCWnJ7pmt4PMVrYgO2h6wWZhxxgimJYSZhfFbn4Pk2nN2A6RhH7tT_k_Ob5UcVlc6sohequS-4v0rdQ25sQV8TxdLOIFRslTcw" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_6VSLLeHrmhawc1bBzyl9Gz3UCdGmbON2VBZPH6Gz0LM.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKgzAQRC9k9EhlNaOGZrNhxyDt6dsKVgr9m3m8geGDG3QYhegmo6bpJytIWcB3dwzFXCWnJ7pmt4PMVrYgO2h6wWZhxxgimJYSZhfFbn4Pk2nN2A6RhH7tT_k_Ob5UcVlc6sohequS-4v0rdQ25sQV8TxdLOIFRslTcw" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_S5tPliLOKTD5rI_s4QWq1ayPcZep651aFL4KfWVK2DQ.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKgzAQRC9k9EhlNaOGZrNhxyDt6dsKVgr9m3m8geGDG3QYhegmo6bpJytIWcB3dwzFXCWnJ7pmt4PMVrYgO2h6wWZhxxgimJYSZhfFbn4Pk2nN2A6RhH7tT_k_Ob5UcVlc6sohequS-4v0rdQ25sQV8TxdLOIFRslTcw" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_yo9esGuC_pJQkySErGxvafOSuv96dTQNi1gb-24BO1Q.css?delta=5&amp;language=en&amp;theme=cosmic&amp;include=eJxtjlEKgzAQRC9k9EhlNaOGZrNhxyDt6dsKVgr9m3m8geGDG3QYhegmo6bpJytIWcB3dwzFXCWnJ7pmt4PMVrYgO2h6wWZhxxgimJYSZhfFbn4Pk2nN2A6RhH7tT_k_Ob5UcVlc6sohequS-4v0rdQ25sQV8TxdLOIFRslTcw" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled menupull-right path-node page-node-type-marketing-page uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://google.com">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-search" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">Counseling Services Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Therapy and Services</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/services" title="Learn more about Counseling and Self-Support options at the University of Oregon" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/2">Therapy and Services Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/getting-started" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/222">Getting Started</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/individual-therapy" title="Learn more about Individual Therapy options available at the University of Oregon" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/7">Individual Therapy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Groups</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="12" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/group-therapy" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/29">Groups Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/group-therapy-faq" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/28">Group Therapy FAQ</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/groups-offered" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/27">Groups Offered</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/crisis-support" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/11">Crisis Support</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/letstalk" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/221">Let’s Talk</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://health.uoregon.edu/psychiatry" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Psychiatry</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/referralscase-management" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/30">Referrals</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/substance-use" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/247">Substance Use</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Events and Workshops</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="2" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/outreach" title="Learn more about Outreach programs at the University of Oregon" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/3">Events and Workshops Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/campaigns" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/230">Wellness Campaigns</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/suicide-prevention" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/145">Suicide Prevention</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mham" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/295">Mental Health Awareness Month</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item active-trail has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Support a Student</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="3" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/support" class="uowdf-mobile-menu__link is-active" data-drupal-link-system-path="node/229" aria-current="page">Support a Student Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/helping-friend" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/32">Helping a Friend</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-staff-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/125">Faculty and Staff</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Parents and Families</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="34" data-parent-menu-id="3">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/parentsandfamilies" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/252">Parents and Families Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/how-families-can-support-students" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/269">How Families Can Support Students</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Self-Care</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="4" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/selfcare" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/232">Self-Care Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/concerns" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/117">Common Concerns</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/copingstrategies" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/225">Coping Strategies</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/well-being-tools" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/251">Well-being Tools</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Be Well Blog</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="45" data-parent-menu-id="4">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/be-well-blog" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/34">Be Well Blog Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/celebrating-women%E2%80%99s-history-month-ladies-psychology" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/294">Celebrating Women’s History Month: The Ladies of Psychology</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/dating-and-relationship-non-negotiables" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/293">Dating and Relationship Non-negotiables</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/effectively-managing-emotions-during-stressful-times" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/297">Effectively Managing Emotions During Stressful Times</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/maintaining-mental-wellness-while-studying-abroad" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/298">Maintaining Mental Wellness While Studying Abroad</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://dos.uoregon.edu/recovery" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Collegiate Recovery Center</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">APA Doctoral Internship</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="5" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/internship" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/8">APA Doctoral Internship Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">About Us</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="56" data-parent-menu-id="5">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/aboutus" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/91">About Us Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/apa-team" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/105">APA Team</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/service" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/98">Service and Administrative Activities</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/training" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/93">Training Activities</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/application" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/24">Application Information</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faq" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/21">FAQ</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">About</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="6" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about" title="Learn more about Counseling Services at the University of Oregon" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/5">About Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/confidentiality-and-privacy-policy" title="Learn more about the Counseling Center’s Confidentiality and Privacy Policy." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/6">Confidentiality and Privacy Policy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/documentation-requests" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/19">Documentation</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/team" title="Learn more about the Counseling Services Staff" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="team">Our Team</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/practicum" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/20">Practicum Program</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sab" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/22">Student Advisory Board</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/commitment-multiculturalism" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/55">Diversity</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/crisis-support" title="Get help now." class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Get Help Now</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <div class="uowdf-mobile-menu__secondary-menus">
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://google.com">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h2 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="Counseling ServicesHome" class="site-header__site-link" rel="home"><span>Counseling Services</span></a>
+
+     </h2>
+
+     
+
+     <a href="https://health.uoregon.edu" class="site-header__site-title-after-link">
+
+     <div class="site-header__site-title-after site-header__site-subtitle" id="site-title-after">University Health Services</div>
+
+     </a>
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/services" title="Learn more about Counseling and Self-Support options at the University of Oregon" data-drupal-link-system-path="node/2">Therapy and Services</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/outreach" title="Learn more about Outreach programs at the University of Oregon" data-drupal-link-system-path="node/3">Events and Workshops</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--active-trail menu-item--depth-0">
+
+     <a href="/support" data-drupal-link-system-path="node/229" class="is-active" aria-current="page">Support a Student</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/selfcare" data-drupal-link-system-path="node/232">Self-Care</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/internship" data-drupal-link-system-path="node/8">APA Doctoral Internship</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/about" title="Learn more about Counseling Services at the University of Oregon" data-drupal-link-system-path="node/5">About</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/crisis-support" title="Get help now.">Get Help Now</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <div class="region region-secondary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-mainmenu-menu" id="block-mainmenu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-mainmenu-menu">Secondary Menu</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/helping-friend" data-drupal-link-system-path="node/32">Helping a Friend</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/faculty-staff-resources" data-drupal-link-system-path="node/125">Faculty and Staff</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/parentsandfamilies" data-drupal-link-system-path="node/252">Parents and Families</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Support a Student</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article class="node node--type-marketing-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="field field--name-field-envelopes field--type-entity-reference-revisions field--label-hidden field__items">
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope--compress centered envelope envelope--style-white envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h1 class="text-align-center uo-text-header-1">Together we can create a community of care.</h1><p class="text-align-center"><span class="uo-text-header-5">If you know a student who is struggling and aren't sure how to help, we can offer advice, support, and interventions with a phone consultation.</span></p><p class="text-align-center">Counseling Services provides phone consultation&nbsp;to faculty, staff, family, friends or others with concerns about UO students. Our therapists can&nbsp;suggest ways to approach options and resources available to students, and help identify next steps. Additionally, phone consultation is a good way to learn about available services&nbsp;and how to
+     proceed if you would like to start therapy or join a therapy group through Counseling Services.&nbsp;To schedule a consultation, call our main office line and ask to speak with a therapist. Your consultation will be scheduled as soon as possible.</p><p class="text-align-center">While many&nbsp;consultations about students may be kept confidential, there are times when University policy or state and&nbsp;federal statutes require Counseling Services staff to disclose information to other university officials. For more information about confidentiality, see our&nbsp;<a href="https://counseling.uoregon.edu/confidentiality-and-privacy-policy">confidentiality policy</a>.</p><h4 class="text-align-center"><span class="title feature-text">Schedule a phone consultation</span></h4><center><p><a
+     href="tel:541-346-3227"><span class="cta-button cta-style-white" itemprop="telephone">541-346-3227</span></a></p></center></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-green envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope--compress centered"><h2 class="text-align-center">Offering Help</h2><p class="text-align-center">There are many other ways to support a UO student in need.&nbsp;Family members, professors, supervisors, and peers are often in a position to encourage someone to connect to resources on campus.&nbsp;If you're looking for ways to talk about mental health, suggestions for a struggling student, or information on dealing with specific mental health concerns, the pages linked below can help guide you.</p></div><div class="grid grid--3col mt4"><div class="grid__item"><a class="cta-button cta-style-clearwhite" href="/faculty-staff-resources">Resources for Faculty and
+     Staff</a></div><div class="grid__item"><a class="cta-button cta-style-clearwhite" href="https://families.uoregon.edu/wellness" target="_blank">Resources for Families</a></div><div class="grid__item"><a class="cta-button cta-style-clearwhite" href="/helping-friend">Resources for Students</a></div></div><h4 class="text-align-center"><span class="title feature-text">Other Campus Resources</span></h4><div class="grid grid--3col text-center"><div class="grid__item py0"><div class="resource-listing__item"><a href="https://dos.uoregon.edu/concern">Report a Concern</a></div></div><div class="grid__item py0"><div class="resource-listing__item"><a href="https://dos.uoregon.edu/">Dean of Students</a></div></div><div class="grid__item py0"><div class="resource-listing__item"><a href="/crisis-support">Crisis
+     Support</a></div></div><div class="grid__item py0"><div class="resource-listing__item"><a href="https://safe.uoregon.edu/">SAFE Website</a></div></div><div class="grid__item py0"><div class="resource-listing__item"><a href="/selfcare">Self Help</a></div></div><div class="grid__item py0"><div class="resource-listing__item"><a href="https://health.uoregon.edu/ducknest">Duck Nest</a></div></div></div></div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col">
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Division of Student Life</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="http://studentlife.uoregon.edu">Division of Student Life</a></li>
+
+     <li class="collapse-menu__item"><a href="http://career.uoregon.edu">University Career Center</a></li>
+
+     <li class="collapse-menu__item"><a href="http://dos.uoregon.edu">Office of the Dean of Students</a></li>
+
+     <li class="collapse-menu__item"><a href="http://emu.uoregon.edu">Erb Memorial Union</a></li>
+
+     <li class="collapse-menu__item"><a href="http://holden.uoregon.edu">Holden Center for Leadership and Community Engagement</a></li>
+
+     <li class="collapse-menu__item"><a href="http://rec.uoregon.edu">Department of Physical Education and Recreation</a></li>
+
+     <li class="collapse-menu__item"><a href="http://families.uoregon.edu">Parent and Family Programs</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Student Services</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="https://financialaid.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of Financial Aid and Scholarships</a></li>
+
+     <li class="collapse-menu__item"><a href="https://registrar.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of the Registrar</a></li>
+
+     <li class="collapse-menu__item"><a href="http://counseling.uoregon.edu">University Counseling Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://healthcenter.uoregon.edu">University Health Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://housing.uoregon.edu">University Housing</a></li>
+
+     <li class="collapse-menu__item"><a href="http://testing.uoregon.edu">University Testing Center</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>Counseling Services</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">1590 E 13th Ave</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3227</span></div> <div class="site-footer__phone-fax">F: <span itemprop="faxNumber">541-346-2842</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.facebook.com/UOCounseling" aria-label="Visit us on Facebook">
+
+     <i class="fab fa-facebook-f" aria-hidden="true"></i>
+
+     </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.youtube.com/channel/UCQkWa7hdt1HMDr6Nn8UCG0g/featured" aria-label="Visit us on Youtube">
+
+     <i class="fab fa-youtube" aria-hidden="true"></i> </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.instagram.com/uocounselingservices" aria-label="Visit us on Instagram">
+
+     <i class="fab fa-instagram" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//counseling.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/229","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-1254336-5","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"5f4d64093cf3c8293963c30a662315b79f20cc6a3cb3c079ab1b1ea7412b2428"}}</script>
+
+     <script src="/sites/default/files/js/js_g5IYBlEkERe1uncAc6s2t5BkxTifpxiKJWMef5ri1z0.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFy1EKgCAQhOELtXQkWW1aJHXDVaTbhy89RNDj_HwjqpLguHC6Wgy2yissXV3QirUrDXjaYFEK7ZUzhtaDYontFwXNZ0LDhGbIj57j--LZcAMs0z1L"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_zic6n4aXLc-fvnTrLItjuT2dDT4PmarijF9227ODpUQ.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFy1EKgCAQhOELtXQkWW1aJHXDVaTbhy89RNDj_HwjqpLguHC6Wgy2yissXV3QirUrDXjaYFEK7ZUzhtaDYontFwXNZ0LDhGbIj57j--LZcAMs0z1L"></script>
+
+     
+
+     </body>
+
+     </html>
+
+     
+  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

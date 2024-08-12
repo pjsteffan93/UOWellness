@@ -1,0 +1,1934 @@
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q15C3RFXR5"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-Q15C3RFXR5", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});gtag("config", "UA-1254336-21", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path"});</script>
+
+     <meta name="description" content="Free contraceptive services for UO students who qualify! Most UO students are eligible!The Oregon ContraceptiveCare Program (CCare) provides free contraceptive management services, birth control, and reproductive healthcare to students. How to EnrollComplete the CCare enrollment form in the myUOHealth portal under the “Forms” tab." />
+
+     <link rel="canonical" href="https://health.uoregon.edu/oregon-contraceptivecare-ccare" />
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     
+
+     <title>Oregon ContraceptiveCare (CCare) | University Health Services</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_dxu8c0qxAEc5boc1zie-IU0iW2l8OgDyPUi4o0Y8aVs.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJxtjksOwjAMRC_U0CNFbjJtA3GMMqkqOD0lCz6Cnd_MszRCovlUzgjN6hjIUxSuiD4nNn_wIL_KCslt7S1vbNBxEmIIRk3h61aQsoAHV4zFqkpOdwyb-Z7MVpqTHTR9h5u5HZOLYFqKm6sodqsXF0yvGa2Lxyh92U_4__K5pVjEAwupXOc" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_wS2qgueN3P88mbsVS8-4EKaYtbsa2zBFDAAUbKMSYTM.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJxtjksOwjAMRC_U0CNFbjJtA3GMMqkqOD0lCz6Cnd_MszRCovlUzgjN6hjIUxSuiD4nNn_wIL_KCslt7S1vbNBxEmIIRk3h61aQsoAHV4zFqkpOdwyb-Z7MVpqTHTR9h5u5HZOLYFqKm6sodqsXF0yvGa2Lxyh92U_4__K5pVjEAwupXOc" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_VoHmmkIYbJitb2PEw_TjFwz-oC3hd4qix3FCSqdatJw.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJxtjksOwjAMRC_U0CNFbjJtA3GMMqkqOD0lCz6Cnd_MszRCovlUzgjN6hjIUxSuiD4nNn_wIL_KCslt7S1vbNBxEmIIRk3h61aQsoAHV4zFqkpOdwyb-Z7MVpqTHTR9h5u5HZOLYFqKm6sodqsXF0yvGa2Lxyh92U_4__K5pVjEAwupXOc" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_MdjxP4whlhEksF3MZgP8n1FT4tcxrkXR_f7zDmp7hjo.css?delta=5&amp;language=en&amp;theme=cosmic&amp;include=eJxtjksOwjAMRC_U0CNFbjJtA3GMMqkqOD0lCz6Cnd_MszRCovlUzgjN6hjIUxSuiD4nNn_wIL_KCslt7S1vbNBxEmIIRk3h61aQsoAHV4zFqkpOdwyb-Z7MVpqTHTR9h5u5HZOLYFqKm6sodqsXF0yvGa2Lxyh92U_4__K5pVjEAwupXOc" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_OBw4deLesGi-9ctq7ezmx7o_U4NQ_tZUH2sZHiPaDa0.css?delta=6&amp;language=en&amp;theme=cosmic&amp;include=eJxtjksOwjAMRC_U0CNFbjJtA3GMMqkqOD0lCz6Cnd_MszRCovlUzgjN6hjIUxSuiD4nNn_wIL_KCslt7S1vbNBxEmIIRk3h61aQsoAHV4zFqkpOdwyb-Z7MVpqTHTR9h5u5HZOLYFqKm6sodqsXF0yvGa2Lxyh92U_4__K5pVjEAwupXOc" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled path-node page-node-type-page uowdf--mobile-menu drupal-8">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <nav class="uoheader__audience-selector uowd-dropdown" id="audience-selector">
+
+     <button class="uoheader__audience-selector__button uowd-dropdown__button" id="uoheader__audience-selector__button" aria-label="myUOHealth">myUOHealth</button>
+
+     <ul class="uoheader__audience-selector__list uowd-dropdown__display" id="uoheader__audience-selector__list">
+
+     <li class="uoheader__audience-selector__link"><a href="https://uoregon.medicatconnect.com/Shibboleth.sso/Login?entityID=https%3A//shibboleth.uoregon.edu/idp/shibboleth">Login</a></li>
+
+     </ul>
+
+     </nav>
+
+     
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-cosmic-search" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     
+
+     
+
+     
+
+     <h1 class="uowdf-mobile-menu__title">University Health Services Menu</h1>
+
+     <nav class="uowdf-mobile-menu__menu uowdf-mobile-menu--accordions">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Medical Care</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="1" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/medical-care" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/5">Medical Care Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Primary Care</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="12" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/primary-care" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/98">Primary Care Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/allergy-and-asthma" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/48">Allergy and Asthma</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/anxiety-disorders" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/268">Anxiety Disorders</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/adhd" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/55">Attention-Deficit/Hyperactivity Disorder</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/communicable-disease-support" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/269">Communicable Disease Support</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/depression-other-mood-disorders" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/270">Depression and Other Mood Disorders</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/eating-disorders" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/257">Eating Disorders</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/emotional-support-animals" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/271">Emotional Support Animals</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faculty-and-staff-services" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/23">Faculty and Staff Services</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/immunizations" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/53">Immunizations, Titers, and Tuberculosis Screening</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/lgbtqia-services" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/49">LGBTQIA+ Services</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sexual-assault-medical-support" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/52">Sexual Assault Medical Support</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sexual-health-contraception" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/43">Sexual Health: Contraception and Pregnancy</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sexual-health-hiv" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/275">Sexual Health: HIV, PrEP, and PEP</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sexual-health-stis" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/274">Sexual Health: Sexually Transmitted Infections</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/telemedicine" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/272">Telemedicine</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/transgender-care" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/86">Transgender Care</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/travel-medicine" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/50">Travel Medicine</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Acute Care</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="13" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/acute-care" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/87">Acute Care Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/self-care-viral-illness" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/263">Colds, Flu, Sore Throats</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/guidance-covid-19-cases" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/264">Guidance for COVID-19 Cases</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Sports Medicine</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="14" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sports-medicine-clinic" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/41">Sports Medicine Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/athletic-shoes-and-footwear" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/279">Athletic Shoes and Footwear</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/athletic-well-being" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/278">Athletic Well-Being</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/concussions" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/262">Concussions</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/covid-19-and-exercise" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/265">COVID-19 and Exercise</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/durable-medical-equipment" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/277">Durable Medical Equipment</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/athletic-trainer" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/280">Rehabilitation and Athletic Trainer Evaluation and Treatment</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sports-injuries" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/281">Sports Injuries</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sports-injury-prevention" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/282">Sports Injury Prevention</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sports-medicine-imaging-services" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/283">Sports Medicine Imaging Services</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Specialty Care</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="15" data-parent-menu-id="1">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/specialty-care" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/285">Specialty Care Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/endocrinology" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/286">Endocrinology</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/gynecology" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/287">Gynecology</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/lab-xray" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/37">Lab and X-ray</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Mental Health</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="2" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mental-health" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/20">Mental Health Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/psychiatry" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/13">Psychiatry</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://counseling.uoregon.edu/" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Counseling</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Pharmacy</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="3" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/pharmacy" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/12">Pharmacy Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://oregon.qualtrics.com/jfe/form/SV_ahpAKU4Ooonfsu9" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Refill Your UO Prescription</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://oregon.qualtrics.com/jfe/form/SV_3g8UlpaVRDjV79z" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Request a Prescription Transfer</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/dental" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/39">Dental</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Physical Therapy</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="5" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/physicaltherapy" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/40">Physical Therapy Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/acupuncture" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/47">Acupuncture</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/massage" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/46">Massage</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">New to UO?</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="6" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/new-to-uo" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/4">New to UO? Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/immunization-requirements-students" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/21">Immunization Requirements</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/tuberculosis-screening-questionnaire" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/22">TB Risk Assessment</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Insurance Requirements</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="67" data-parent-menu-id="6">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/insurance-requirements-international-students" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/54">Insurance Requirements Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/uo-international-student-health-insurance-requirement-procedure" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/69">UO International Student Health Insurance Requirement Procedure</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Billing</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="7" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/billing" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/6">Billing Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/costs-services" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/26">Costs for Services</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/billing-options" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/27">Billing Options</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/fees" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/25">Fees</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item active-trail has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Insurance</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="8" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/health-insurance" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/7">Insurance Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">UO Student Insurance</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="89" data-parent-menu-id="8">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/uo-student-insurance" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/14">UO Student Insurance Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/domestic-student-plan" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/64">Domestic Student Plan</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/federal-tax-information" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/67">Federal Tax Information</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/insurance-special-situations" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/63">Insurance for Special Situations</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/international-student-insurance-waivers" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/59">International Student Insurance Waivers</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/international-student-plan" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/65">International Student Plan</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/law-student-plan" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/66">Law Student Plan</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/network-plans" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/24">In-Network Plans</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Understanding Insurance</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="90" data-parent-menu-id="8">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/understanding-health-insurance" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/28">Understanding Insurance Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/how-insurance-works" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/29">How Insurance Works</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/insurance-requirements-international-students" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/54">Insurance Compliance</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/oregon-contraceptivecare-ccare" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf is-active" data-drupal-link-system-path="node/82" aria-current="page">Oregon ContraceptiveCare (CCare)</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Well-Being</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="9" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/well-being" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/9">Well-Being Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/duck-nest" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/258">Duck Nest</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/mental-well-being" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/259">Mental Well-Being</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/physical-well-being" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/260">Physical Well-Being</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Sexual Well-Being</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="100" data-parent-menu-id="9">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/sexual-well-being" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/261">Sexual Well-Being Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/protection-connection-safer-sex-guide" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/72">Protection Connection Safer Sex Guide</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item has-submenu is-leaflet">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">About</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="10" data-parent-menu-id="0">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/about" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/10">About Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/faqs" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/34">FAQs</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/what-my-fee-pays" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/300">What My Fee Pays For</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/get-involved" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/61">Get Involved</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/events" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/62">Events</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="1">Forms</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="111" data-parent-menu-id="10">
+
+     
+
+     
+
+     
+
+     
+
+     <ul class="uowdf-mobile-menu__list uowdf-mobile-menu--depth-2">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/forms" class="uowdf-mobile-menu__link" data-drupal-link-system-path="node/32">Forms Overview</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/notice-privacy-practices" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/94">Notice of Privacy Practices</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/your-rights-and-responsibilities" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/97">Your Rights and Responsibilities</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/team" title="Learn more about the University Health Services team" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="team">Our Team</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/our-mission" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/304">Our Mission</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/myuohealth" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/15">myUOHealth</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     <div class="uowdf-mobile-menu__secondary-menus">
+
+     <nav class="audience-selector collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__audience-selector">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">myUOHealth</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999998">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.medicatconnect.com/Shibboleth.sso/Login?entityID=https%3A//shibboleth.uoregon.edu/idp/shibboleth">Login</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     
+
+     <h2 class="site-header__site-name" id="site-name">
+
+     <a href="/" title="University Health ServicesHome" class="site-header__site-link" rel="home"><span>University Health Services</span></a>
+
+     </h2>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-main-menu-menu" id="block-cosmic-main-menu" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-main-menu-menu">Main navigation</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/medical-care" data-drupal-link-system-path="node/5">Medical Care</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/mental-health" data-drupal-link-system-path="node/20">Mental Health</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/pharmacy" data-drupal-link-system-path="node/12">Pharmacy</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/dental" data-drupal-link-system-path="node/39">Dental</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/physicaltherapy" data-drupal-link-system-path="node/40">Physical Therapy</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/new-to-uo" data-drupal-link-system-path="node/4">New to UO?</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/billing" data-drupal-link-system-path="node/6">Billing</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--active-trail menu-item--depth-0">
+
+     <a href="/health-insurance" data-drupal-link-system-path="node/7">Insurance</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/well-being" data-drupal-link-system-path="node/9">Well-Being</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/about" data-drupal-link-system-path="node/10">About</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <div class="region region-secondary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-mainnavigation-menu" id="block-mainnavigation" class="block block-menu navigation menu--main">
+
+     
+
+     <h2 class="visually-hidden" id="block-mainnavigation-menu">Secondary Menu</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/uo-student-insurance" data-drupal-link-system-path="node/14">UO Student Insurance</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/network-plans" data-drupal-link-system-path="node/24">In-Network Plans</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/understanding-health-insurance" data-drupal-link-system-path="node/28">Understanding Insurance</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/insurance-requirements-international-students" data-drupal-link-system-path="node/54">Insurance Compliance</a>
+
+     </li>
+
+     <li class="menu-item menu-item--active-trail menu-item--depth-0">
+
+     <a href="/oregon-contraceptivecare-ccare" data-drupal-link-system-path="node/82" class="is-active" aria-current="page">Oregon ContraceptiveCare (CCare)</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Oregon ContraceptiveCare (CCare)</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-cosmic-content" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article class="node node--type-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><h3>Free contraceptive services for UO students who qualify! Most UO students are eligible!</h3><p>The Oregon ContraceptiveCare Program (CCare) provides free contraceptive management services, birth control, and reproductive healthcare to students. &nbsp;</p><h3>How to Enroll</h3><p>Complete the CCare enrollment form in the <a href="https://uoregon.medicatconnect.com/Shibboleth.sso/Login?entityID=https%3A%2F%2Fshibboleth.uoregon.edu%2Fidp%2Fshibboleth">myUOHealth portal</a> under the “Forms” tab.</p><h3>CCare Services</h3><p>CCare services are related to contraceptive management and preventing unintended pregnancy. Services covered include:</p><ul><li>Annual reproductive health exams and
+     follow-up visits;</li><li>Lab tests when provided during a contraceptive visit such as STI testing, Pap smears, and pregnancy testing;</li><li>Counseling associated with contraceptive methods and pregnancy prevention; and</li><li>Your choice of birth control supplies including pills, IUDs, implants, rings, injections, emergency contraception, spermicides, and barrier devices.</li></ul><h3>Eligibility</h3><p>In order to utilize CCare, you must:</p><ul><li>Be a U.S. citizen/national or have an "eligible immigration status"</li><li>Meet <a href="https://www.oregon.gov/oha/ph/HealthyPeopleFamilies/ReproductiveSexualHealth/OregonContraceptiveCare/Pages/index.aspx">federal monthly income levels</a></li></ul><p>Note: If you are on the <a href="https://www.oregon.gov/oha/hsd/ohp/pages/index.aspx">Oregon Health
+     Plan</a>, you are already part of the program!</p><h3>CCare Appointments</h3><p>UHS provides CCare visits to guide you to the best contraceptive methods to fit your needs. Call 541-346-2770 to schedule a contraceptive consultation.</p><h3>Billing Information</h3><ul><li>Private insurance will first be billed and any balance remaining will be billed to CCare. Services not covered by either private insurance or CCare will be billed to the student’s account and the student is responsible for these charges.</li><li>Students should consult with the CCare coordinator to learn what is covered and what is not covered.</li></ul></div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col">
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Division of Student Life</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="http://studentlife.uoregon.edu">Division of Student Life</a></li>
+
+     <li class="collapse-menu__item"><a href="http://career.uoregon.edu">University Career Center</a></li>
+
+     <li class="collapse-menu__item"><a href="http://dos.uoregon.edu">Office of the Dean of Students</a></li>
+
+     <li class="collapse-menu__item"><a href="http://emu.uoregon.edu">Erb Memorial Union</a></li>
+
+     <li class="collapse-menu__item"><a href="http://holden.uoregon.edu">Holden Center for Leadership and Community Engagement</a></li>
+
+     <li class="collapse-menu__item"><a href="http://rec.uoregon.edu">Department of Physical Education and Recreation</a></li>
+
+     <li class="collapse-menu__item"><a href="http://families.uoregon.edu">Parent and Family Programs</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="grid__item">
+
+     <div class="collapse-menu collapse-menu--collapsed">
+
+     <h3 class="collapse-menu__title title">Student Services</h3>
+
+     
+
+     <ul class="collapse-menu__list">
+
+     <li class="collapse-menu__item"><a href="https://financialaid.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of Financial Aid and Scholarships</a></li>
+
+     <li class="collapse-menu__item"><a href="https://registrar.uoregon.edu" title="Office of Financial Aid and Scholarships">Office of the Registrar</a></li>
+
+     <li class="collapse-menu__item"><a href="http://counseling.uoregon.edu">University Counseling Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://healthcenter.uoregon.edu">University Health Services</a></li>
+
+     <li class="collapse-menu__item"><a href="http://housing.uoregon.edu">University Housing</a></li>
+
+     <li class="collapse-menu__item"><a href="http://testing.uoregon.edu">University Testing Center</a></li>
+
+     
+
+     </ul>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>University Health Services</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">1590 E 13th Ave</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-2770</span></div> <div class="site-footer__phone-fax">P: <span itemprop="telephone">844-965-9250</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.facebook.com/HealthyUO" aria-label="Visit us on Facebook">
+
+     <i class="fab fa-facebook-f" aria-hidden="true"></i>
+
+     </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://twitter.com/HealthCenterUO" aria-label="Visit us on Twitter">
+
+     <i class="fab fa-x-twitter" aria-hidden="true"></i>
+
+     </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.youtube.com/channel/UCJU8QMZOQ1II7W6oGi2U09w" aria-label="Visit us on Youtube">
+
+     <i class="fab fa-youtube" aria-hidden="true"></i> </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.instagram.com/HealthyUO" aria-label="Visit us on Instagram">
+
+     <i class="fab fa-instagram" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//health.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/82","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"G-Q15C3RFXR5","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"fa3d5839e537484463d02c6edcc076919dd94f17b0590053f024eb1ac4ad61bb"}}</script>
+
+     <script src="/sites/default/files/js/js_v1erAv9ydGSlAwKCv4tH7_WdeURo0zWe3AFWQn1vEdc.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFy1EKgCAQhOELtXQkWW1aJHXDVaTbhy89RNDj_HwjqpLguHC6Wgy2yissXV3QirUrDXjaYFEK7ZUzhtaDYontFwXNZ0LDhGbIj57j--LZcAMs0z1L"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.07/v1/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_PTSwnhOr144Z_EBY-V95dD4G2CW1HtGA2w4_iyA38yA.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFy1EKgCAQhOELtXQkWW1aJHXDVaTbhy89RNDj_HwjqpLguHC6Wgy2yissXV3QirUrDXjaYFEK7ZUzhtaDYontFwXNZ0LDhGbIj57j--LZcAMs0z1L"></script>
+
+     
+
+     </body>
+
+     </html>
+
+     
+  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

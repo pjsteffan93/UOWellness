@@ -1,0 +1,984 @@
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# schema: http://schema.org/ sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# ">
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1254336-3"></script>
+
+     <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "UA-1254336-3", {"groups":"default","anonymize_ip":true,"page_placeholder":"PLACEHOLDER_page_path","allow_ad_personalization_signals":false});gtag("config", "G-3ZB9LT1JNB", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location","allow_ad_personalization_signals":false});ga('create', 'UA-1072795-66', 'auto', 'clientTracker');
+
+     ga('clientTracker.send', 'pageview');</script>
+
+     <link rel="canonical" href="https://financialaid.uoregon.edu/financial-wellness" />
+
+     <meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+
+     <meta name="MobileOptimized" content="width" />
+
+     <meta name="HandheldFriendly" content="true" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+     <meta name="msapplication-config" content="/modules/contrib/uo_core/browserconfig.xml" />
+
+     <link rel="icon" href="/themes/contrib/uo_cosmic_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-32x32.png" />
+
+     <link rel="icon" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/favicon-16x16.png" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/modules/contrib/uo_core/uo-web-design-framework/images/favicons/apple-touch-icon.png" />
+
+     <link rel="manifest" href="/modules/contrib/uo_core/manifest.json" />
+
+     
+
+     <title>Financial Wellness | Financial Aid &amp; Scholarships</title>
+
+     <meta name="theme-color" content="#154733">
+
+     <meta name="msapplication-navbutton-color" content="#154733">
+
+     <meta name="apple-mobile-web-app-status-bar-style" content="#154733">
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_4M4i20FAPonjeD9cSQvt54Yf2kDn3iqFeSiof64WrjM.css?delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFUNFuAyEM-yE4PumUgxzNBglKYKfu60dvaqdOlfrmWE5sB8ywr8QfGLtoiGZLLrJBWeULVSmhuSySC67AUK6dooX_hLOrdaxhA0MXxSrFJ1zRDPK8FEUxsGiFQt_ohqwnM8QfuPnpRZn9rlDxEP30xNQfol24ezjQpL7fjFJbwX4KZ8P6UN-G1ytn4Cf5b01_MzY_0ZxdA4Ws0C4Wko4GZfljlsFtbIXsgulMCAU5gU7fO3QVE0HYqXTUJULrJHx_E0vCHxbQm1A" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.06/v1/css/styles-drupal8.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_fIVs-BiM-xOYEEvKR2axB51LSFgFNUjlmBhCuaQoJEY.css?delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFUNFuAyEM-yE4PumUgxzNBglKYKfu60dvaqdOlfrmWE5sB8ywr8QfGLtoiGZLLrJBWeULVSmhuSySC67AUK6dooX_hLOrdaxhA0MXxSrFJ1zRDPK8FEUxsGiFQt_ohqwnM8QfuPnpRZn9rlDxEP30xNQfol24ezjQpL7fjFJbwX4KZ8P6UN-G1ytn4Cf5b01_MzY_0ZxdA4Ws0C4Wko4GZfljlsFtbIXsgulMCAU5gU7fO3QVE0HYqXTUJULrJHx_E0vCHxbQm1A" />
+
+     <link rel="stylesheet" media="all" href="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Universal/stable-assets/fontawesome-free-6.5.1-web/css/all.min.css" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_25qS7RgwGVnkObjtJgIWUzWgPHZ6r6y20tnjzQJ_oLM.css?delta=4&amp;language=en&amp;theme=cosmic&amp;include=eJyFUNFuAyEM-yE4PumUgxzNBglKYKfu60dvaqdOlfrmWE5sB8ywr8QfGLtoiGZLLrJBWeULVSmhuSySC67AUK6dooX_hLOrdaxhA0MXxSrFJ1zRDPK8FEUxsGiFQt_ohqwnM8QfuPnpRZn9rlDxEP30xNQfol24ezjQpL7fjFJbwX4KZ8P6UN-G1ytn4Cf5b01_MzY_0ZxdA4Ws0C4Wko4GZfljlsFtbIXsgulMCAU5gU7fO3QVE0HYqXTUJULrJHx_E0vCHxbQm1A" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_cto-B16ZQTQOs20gsudWbj_7QatJg7MfxRJh2iWOLSo.css?delta=5&amp;language=en&amp;theme=cosmic&amp;include=eJyFUNFuAyEM-yE4PumUgxzNBglKYKfu60dvaqdOlfrmWE5sB8ywr8QfGLtoiGZLLrJBWeULVSmhuSySC67AUK6dooX_hLOrdaxhA0MXxSrFJ1zRDPK8FEUxsGiFQt_ohqwnM8QfuPnpRZn9rlDxEP30xNQfol24ezjQpL7fjFJbwX4KZ8P6UN-G1ytn4Cf5b01_MzY_0ZxdA4Ws0C4Wko4GZfljlsFtbIXsgulMCAU5gU7fO3QVE0HYqXTUJULrJHx_E0vCHxbQm1A" />
+
+     <link rel="stylesheet" media="all" href="/sites/default/files/css/css_0YDh1Z2RFraV-WIbgXGGlVyPfD10chh6cpJ5rQ5C5MU.css?delta=6&amp;language=en&amp;theme=cosmic&amp;include=eJyFUNFuAyEM-yE4PumUgxzNBglKYKfu60dvaqdOlfrmWE5sB8ywr8QfGLtoiGZLLrJBWeULVSmhuSySC67AUK6dooX_hLOrdaxhA0MXxSrFJ1zRDPK8FEUxsGiFQt_ohqwnM8QfuPnpRZn9rlDxEP30xNQfol24ezjQpL7fjFJbwX4KZ8P6UN-G1ytn4Cf5b01_MzY_0ZxdA4Ws0C4Wko4GZfljlsFtbIXsgulMCAU5gU7fO3QVE0HYqXTUJULrJHx_E0vCHxbQm1A" />
+
+     
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.06/v1/js/uowdf-init.js"></script>
+
+     
+
+     </head>
+
+     <body class="licensed-fonts-enabled menupull-right path-node page-node-type-marketing-page uowdf--mobile-menu drupal-8 cosmic-promoted-section cosmic-promoted-section-frontpage">
+
+     <a href="#main-content" class="visually-hidden focusable skip-link">
+
+     Skip to main content
+
+     </a>
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="uoheader uowdf-search-dialog--enabled">
+
+     <div class="uoheader__container" style="max-width: px;">
+
+     
+
+     <div class="uoheader__logo-container">
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner" rel="home">
+
+     <img src="/modules/contrib/uo_core/uo-web-design-framework/images/uo-logo.svg" alt="University of Oregon" />
+
+     </a>
+
+     </div>
+
+     
+
+     <div class="uoheader__links-container">
+
+     <div class="uoheader__links-background">
+
+     <nav id="banner-links">
+
+     <ul class="uoheader__links">
+
+     <li class="uoheader__link">
+
+     <a href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uoheader__link">
+
+     <a href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </nav>
+
+     <div class="uoheader__search">
+
+     <a class="uoheader__search__button" id="uobanner-search" href="/search">Search</a>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uowdf-search-dialog" role="search">
+
+     <button class="uowdf-search-dialog__close" id="seach-close-button" aria-label="Close Search"></button>
+
+     <div class="uowdf-search-dialog__search-region">
+
+     <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-searchform" role="search">
+
+     
+
+     <h2>Search this site</h2>
+
+     
+
+     <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+
+     <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+
+     <label for="edit-keys" class="visually-hidden">Search</label>
+
+     <input title="Enter the terms you wish to search for." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+     
+
+     </div>
+
+     <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Search" class="button js-form-submit form-submit" />
+
+     </div>
+
+     
+
+     </form>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uoheader__mobile">
+
+     <a class="uowdf-mobile-search-button" id="uowdf-mobile-search-button" href="/search">Search</a>
+
+     <button class="uowdf-mobile-menu__button__new" id="uowdf-mobile-menu__button" aria-label="Navigation" aria-expanded="false" aria-haspopup="true" aria-controls="uobanner-sidebar">
+
+     <div class="uowdf-mobile-menu__button__new-bar-1"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-2"></div>
+
+     <div class="uowdf-mobile-menu__button__new-bar-3"></div>
+
+     <div class="uowdf-mobile-menu__button__text">Menu</div>
+
+     </button>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     <div class="uowdf-mobile-menu__container">
+
+     <div class="uowdf-mobile-menu" id="uowdf-mobile-menu" data-menu-id="0">
+
+     <a href="/" class="uowdf-mobile-menu__link">Back to Financial Aid &amp; Scholarships</a>
+
+     
+
+     
+
+     
+
+     <a href="/financial-wellness"><h1 class="uowdf-mobile-menu__title">Financial Wellness Menu</h1></a>
+
+     <nav class="uowdf-mobile-menu__menu">
+
+     <ul class="uowdf-mobile-menu__list" id="uowdf-mobile-menu__list">
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/financial-wellness/workshops" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1207">Workshops and Events</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/financial-wellness/tools-and-resources" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/1208">Tools and Resources</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/financial-wellness/appointments-and-scheduling" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf" data-drupal-link-system-path="node/1209">Appointments and Scheduling</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="/financial-wellness/about-us" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--expandable uowdf-mobile-menu__link--collapsed" data-drupal-link-system-path="node/1210">About Us</a>
+
+     </li>
+
+     
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a href="https://calendly.com/uo-financial-wellness" class="uowdf-mobile-menu__link uowdf-mobile-menu__link--leaf">Schedule a Coaching Session</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     </nav>
+
+     
+
+     
+
+     <div class="uowdf-mobile-menu__secondary-menus">
+
+     
+
+     <nav class="utility-nav collapse-menu collapse-menu--collapsed context--foreground-light" id="uowdf-mobile-menu__utility-links">
+
+     <button class="uowdf-mobile-menu__accordion-button" data-depth="0">Take Action</button>
+
+     <div class="uowdf-mobile-menu__submenu" data-menu-id="99999999">
+
+     <ul class="uowdf-mobile-menu__list">
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://www.uoregon.edu/onestop?utm_source=banner-module&amp;utm_campaign=banner">One Stop</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://uoregon.edu/apply?utm_source=banner-module&amp;utm_campaign=banner">Apply</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="https://visit.uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">Visit</a>
+
+     </li>
+
+     <li class="uowdf-mobile-menu__list-item">
+
+     <a class="uowdf-mobile-menu__link" href="http://giving.uoregon.edu/s/1540/development/start.aspx?gid=2&amp;pgid=61?utm_source=banner-module&amp;utm_campaign=banner">Give</a>
+
+     </li>
+
+     </ul>
+
+     </div>
+
+     </nav>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+
+     <div class="page">
+
+     
+
+     <header class="site-header" role="banner">
+
+     <div class="site-header__content">
+
+     
+
+     
+
+     
+
+     <a href="/" class="site-header__site-title-before-link">
+
+     <div class="site-header__site-title-before site-header__site-subtitle" id="site-title-before">Financial Aid &amp; Scholarships</div>
+
+     </a>
+
+     
+
+     <h1 class="site-header__site-name" id="site-name">
+
+     <a href="/financial-wellness" title="Financial WellnessHome" class="site-header__site-link" rel="home"><span>Financial Wellness</span></a>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </header> <div id="stickynav-waypoint"></div>
+
+     
+
+     <div class="navigation-bar">
+
+     <div class="region region-primary-menu">
+
+     
+
+     <nav role="navigation" aria-labelledby="block-cosmic-highlightedsubsections-menu" id="block-cosmic-highlightedsubsections" class="block block-menu navigation menu--highlighted-subsections">
+
+     
+
+     <h2 class="visually-hidden" id="block-cosmic-highlightedsubsections-menu">Highlighted Subsections</h2>
+
+     
+
+     
+
+     
+
+     <ul class="menu">
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/financial-wellness/workshops" data-drupal-link-system-path="node/1207">Workshops and Events</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/financial-wellness/tools-and-resources" data-drupal-link-system-path="node/1208">Tools and Resources</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="/financial-wellness/appointments-and-scheduling" data-drupal-link-system-path="node/1209">Appointments and Scheduling</a>
+
+     </li>
+
+     <li class="menu-item menu-item--collapsed menu-item--depth-0">
+
+     <a href="/financial-wellness/about-us" data-drupal-link-system-path="node/1210">About Us</a>
+
+     </li>
+
+     <li class="menu-item menu-item--depth-0">
+
+     <a href="https://calendly.com/uo-financial-wellness">Schedule a Coaching Session</a>
+
+     </li>
+
+     </ul>
+
+     
+
+     
+
+     
+
+     
+
+     </nav>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <main role="main">
+
+     <a id="main-content" tabindex="-1"></a>
+
+     <div class="region region-highlighted">
+
+     <div data-drupal-messages-fallback class="hidden"></div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     
+
+     
+
+     <div class="layout">
+
+     <div class="layout__content">
+
+     <div class="region region-breadcrumb">
+
+     <div id="block-cosmic-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+
+     
+
+     
+
+     <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+
+     <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+
+     <ol>
+
+     <li>
+
+     <a href="/">Home</a>
+
+     </li>
+
+     </ol>
+
+     </nav>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     <div class="region region-content">
+
+     <div id="block-cosmic-page-title" class="block block-core block-page-title-block">
+
+     
+
+     
+
+     
+
+     <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Financial Wellness</span>
+
+     </h1>
+
+     
+
+     
+
+     </div>
+
+     <div id="block-aurora-system-main" class="block block-system block-system-main-block">
+
+     
+
+     
+
+     
+
+     <article about="/financial-wellness" class="node node--type-marketing-page node--view-mode-full">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     <div class="node__content">
+
+     
+
+     <div class="field field--name-field-envelopes field--type-entity-reference-revisions field--label-hidden field__items">
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-black envelope--flush context--foreground-light">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="envelope-hero envelope-hero--text-left"><div class="envelope-hero__container"><div class="envelope-hero__photo"><span class="media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2024-04/uo-financial-wellness-center-02.jpg" width="1440" height="651" alt="Student pulling money out of a wallet." typeof="foaf:Image">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div><div class="envelope-hero__content"><h2 class="envelope-hero__content__title">Get a Head Start on Your Financial Future</h2><div class="envelope-hero__content__body">&nbsp;</div></div></div></div></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="bg-green-2 envelope envelope--style-green envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h3 class="text-align-center">At the Financial Wellness Center, our goal is to help you gain the confidence and knowledge you need to make smart financial decisions during and after college. We want you to get a head start on your future.</h3><div class="grid grid--3col"><div class="grid__item"><p class="text-align-center"><a class="cta-button cta-button--standard" href="https://calendly.com/uo-financial-wellness/financial-coaching">Schedule a Coaching<br>Session</a></p></div><div class="grid__item"><p class="text-align-center"><a class="cta-button cta-button--standard" href="/financial-wellness/workshops">Check out Workshops and Events</a></p></div><div class="grid__item"><p
+     class="text-align-center"><a class="cta-button cta-button--standard" href="/financial-wellness/financially-free-ducks">Listen to Financially Free Ducks Podcast</a></p></div></div><p style="padding-left:15%;padding-right:15%;">&nbsp;</p></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="bg-yellow-2 pt0 envelope envelope--style-yellow envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h3 class="text-align-center uo-text-header-1">We're Here to Help</h3><p>Many students have little to no financial experience after graduation. It can take five to seven years for graduates to build credit, make sound money habits, and invest in their futures. The Financial Wellness Center exists to get you financially prepared before you take your next steps off campus. Interact with educators online, attend upcoming events, and/or schedule an individual coaching appointment to start tackling your finances. We want to make your transition into the real world as smooth as possible.</p></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-darkgray envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><h2 class="text-align-center">Resources</h2><div class="grid grid--2col"><div class="grid__item"><div style="float:left;height:9rem;margin-right:0.5rem;padding-top:2.5rem;width:120px;"><span class="media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2024-04/budgeting-120_0.png" width="120" height="83" alt="Outline image of a mobile phone showing a bar chart with trending upward line and a yellow dollar sign in the middle" typeof="foaf:Image">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div><h3>Budgeting</h3><p>Budgeting is a great place to start your financial wellness journey. Learn how to manage your income expenses, daily spending, and establish a long-term budgeting plan. <a href="/financial-wellness/budgeting">Learn more</a></p></div><div class="grid__item"><div style="float:left;height:9rem;margin-right:0.5rem;padding-top:2.5rem;width:120px;"><span class="media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2024-04/student-loans-120.png" width="120" height="83" alt="Outline image of a graduation cap with a tassel on the right, three yellow dollar signs floating above" typeof="foaf:Image">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div><h3>Obtaining Scholarships</h3><p>Scholarships can significantly lower your educational costs. Gain helpful tools, resources, and strategies on scholarship applications so you can get as much financial aid as possible. <a href="/financial-wellness/obtaining-scholarships">Learn more</a></p></div></div><hr><div class="grid grid--2col"><div class="grid__item"><div style="float:left;height:9rem;margin-right:0.5rem;padding-top:2.5rem;width:120px;"><span class="media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2024-04/paying-off-120.png" width="120" height="83" alt="Outline of a partially folded map showing a route with a yellow dollar sign at the end" typeof="foaf:Image">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div><h3>Student Loans</h3><p>Student loan debt can be a pain after graduation. Start creating a plan for student loan debt now to reduce stress and avoid unforeseen financial issues down the road. <a href="/financial-wellness/student-loans">Learn more</a></p></div><div class="grid__item"><div style="float:left;height:9rem;margin-right:0.5rem;padding-top:2.5rem;width:120px;"><span class="media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2024-04/credit-card-120.png" width="120" height="83" alt="Outline of two credit cards, one stacked on top of the other" typeof="foaf:Image">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div><h3>Credit Management</h3><p>Start building your credit and <strong>protecting your identity</strong> now to save thousands of dollars in the future. We can show you some easy steps to help you establish credit and get a jumpstart on investments. <a href="/financial-wellness/credit">Learn more</a></p></div></div><hr><div class="grid grid--2col"><div class="grid__item"><div style="float:left;height:9rem;margin-right:0.5rem;padding-top:2.5rem;width:120px;"><span class="media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2024-04/investing-120.png" width="120" height="83" alt="Outline of three pie-chart segments, with the middle segment highlighted in yellow" typeof="foaf:Image">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div><h3>Saving and Investing</h3><p>Save up for the future and make smart investments. We'll teach you the fundamentals of saving and investing so you can make the most out of your dollar. <a href="/financial-wellness/saving-investing">Learn more</a></p></div><div class="grid__item"><div style="float:left;height:9rem;margin-right:0.5rem;padding-top:2.5rem;width:120px;"><span class="media media--type-image media--view-mode-default">
+
+     
+
+     
+
+     <span class="field field--name-field-media-image field--type-image field--label-hidden field__item"> <img loading="lazy" src="/sites/default/files/2024-04/post-grad-120.png" width="120" height="83" alt="Outline of a round compass with a yellow dollar sign in the north position, and yellow pointer offset to the northeast position" typeof="foaf:Image">
+
+     
+
+     </span>
+
+     
+
+     </span>
+
+     </div><h3>Preparing for Post-Grad Life</h3><p>Jumping into the real world can be intimidating. We can help you master salary negotiations, wages, taxes, car buying, and other important financial processes so you'll be prepared after graduation. <a href="/financial-wellness/post-grad">Learn more</a></p></div></div></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-yellow envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item"><div class="grid grid--3col grid--strict"><div class="grid__item"><div class="uo-text-header-5">Financial Wellness Center</div><div class="grid--address"><a href="https://map.uoregon.edu/fbb97eb4c" target="_blank">Global Scholars Hall 117</a><br>1710 East 15th Avenue<br>Eugene, OR 97403</div></div><div class="grid__item grid--flex-center"><ul class="grid--hours list--label"><li><label>M </label><span>8:00 a.m.–5:00 p.m.</span></li><li><label>T </label><span>8:00 a.m.–5:00 p.m.</span></li><li><label>W </label><span>8:00 a.m.–5:00 p.m.</span></li><li><label>TH </label><span>8:00 a.m.–5:00 p.m.</span></li><li><label>F </label><span>8:00 a.m.–5:00 p.m.</span></li></ul></div><div
+     class="grid__item"><div class="uo-text-header-5">Connect With Us</div><div class="grid--address"><strong>Email</strong>: <a href="mailto:financialwellness@uoregon.edu">financialwellness@uoregon.edu</a></div><div class="grid--address">Please allow 1–2 business days for email responses.</div><div class="grid--address mt1"><strong>Mailing Address:</strong><br>1278 University of Oregon<br>Eugene, OR 97403-1278</div></div></div></div>
+
+     </div>
+
+     </div>
+
+     <div class="field__item">
+
+     
+
+     <div class="envelope envelope--style-white envelope--standard">
+
+     <div class="clearfix text-formatted field field--name-field-envelope-content field--type-text-long field--label-hidden field__item">
+
+     
+
+     
+
+     
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </article>
+
+     
+
+     </div>
+
+     
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </div>
+
+     
+
+     </main>
+
+     
+
+     
+
+     </div>
+
+     </div>
+
+     
+
+     
+
+     <footer>
+
+     <div class="site-footer">
+
+     <div class="site-footer__container" style="max-width: px;">
+
+     <div class="site-footer__custom-content">
+
+     <div class="footer-collapsable-grid grid grid--2col"><div class="grid__item"><div class="collapse-menu collapse-menu--collapsed"><h3 class="collapse-menu__title title">RESOURCES</h3><ul class="collapse-menu__list"><li class="collapse-menu__item"><a href="/consumer_information" target="_blank">Consumer Information</a></li><li class="collapse-menu__item"><a href="/forms_and_worksheets" target="_blank">Forms and Worksheets</a></li><li class="collapse-menu__item"><a href="/financial-wellness" target="_blank">Financial Wellness Center</a></li><li class="collapse-menu__item"><a href="/net_price_calculator" target="_blank">Net Price Calculator</a></li><li class="collapse-menu__item"><a href="/summer_aid">Summer Aid</a></li><li class="collapse-menu__item"><a href="https://financialaid.uoregon.edu/scholarships/eRAR">eRAR
+     <em>(Department use only)</em></a></li></ul></div></div><div class="grid__item"><div class="collapse-menu collapse-menu--collapsed"><h3 class="collapse-menu__title title">DEPARTMENTS</h3><ul class="collapse-menu__list"><li class="collapse-menu__item"><a href="//continue.uoregon.edu" target="_blank">Continuing and Professional Education</a></li><li class="collapse-menu__item"><a href="//admissions.uoregon.edu" target="_blank">Office of Admissions</a></li><li class="collapse-menu__item"><a href="//registrar.uoregon.edu" target="_blank">Office of the Registrar</a></li><li class="collapse-menu__item"><a href="//ssem.uoregon.edu/communications">Strategic Communications and Marketing</a></li><li class="collapse-menu__item"><a href="//orientation.uoregon.edu" target="_blank">Student Orientation Programs</a></li><li
+     class="collapse-menu__item"><a href="//counseling.uoregon.edu/" target="_blank">University Counseling Services</a></li><li class="collapse-menu__item"><a href="//health.uoregon.edu/" target="_blank">University Health Services</a></li><li class="collapse-menu__item"><a href="//housing.uoregon.edu/" target="_blank">University Housing</a></li><li class="collapse-menu__item"><a href="//testing.uoregon.edu" target="_blank">University Testing Center</a></li></ul></div></div></div>
+
+     </div>
+
+     <div class="site-footer__contact-info-container">
+
+     <div class="site-footer__contact-info">
+
+     
+
+     <div itemscope="" itemtype="http://schema.org/Organization">
+
+     <span itemprop="name"><strong>Financial Aid &amp; Scholarships</strong></span><br>
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     <div itemprop="streetAddress">1278 University of Oregon</div> <span itemprop="addressLocality">Eugene</span>, <span itemprop="addressRegion">OR </span> <span itemprop="postalCode">97403-1278</span> <p>
+
+     <div class="site-footer__phone-fax">P: <span itemprop="telephone">541-346-3221</span></div> <div class="site-footer__phone-fax">F: <span itemprop="faxNumber">541-346-1175</span></div> </p>
+
+     </div>
+
+     
+
+     <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+
+     </div>
+
+     
+
+     
+
+     <p><a href="/contact">Contact Us</a></p>
+
+     <p>
+
+     <ul class="site-footer__social-links">
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.facebook.com/universityoforegon" aria-label="Visit us on Facebook">
+
+     <i class="fab fa-facebook-f" aria-hidden="true"></i>
+
+     </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.twitter.com/uoregon" aria-label="Visit us on Twitter">
+
+     <i class="fab fa-x-twitter" aria-hidden="true"></i>
+
+     </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://www.youtube.com/user/UOregon" aria-label="Visit us on Youtube">
+
+     <i class="fab fa-youtube" aria-hidden="true"></i> </a>
+
+     </li>
+
+     <li itemprop="sameAs">
+
+     <a href="https://vimeo.com/uoregon" aria-label="Visit us on Vimeo">
+
+     <i class="fab fa-vimeo" aria-hidden="true"></i> </a>
+
+     </li>
+
+     </ul>
+
+     
+
+     <link itemprop="url" style="visibility:hidden;" itemscope="//financialaid.uoregon.edu">
+
+     </p>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </div>
+
+     
+
+     <div class="uofooter">
+
+     <div class="uofooter__container" style="max-width: px;">
+
+     <div class="uofooter__links-and-logo-container">
+
+     
+
+     <ul class="uofooter__links-container">
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/reportaconcern?utm_source=banner-module&amp;utm_campaign=banner">Report a Concern</a></li>
+
+     <li class="uofooter__link"><a href="https://investigations.uoregon.edu/nondiscrimination?utm_source=banner-module&amp;utm_campaign=banner">Nondiscrimination and Title IX</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/accessibility?utm_source=banner-module&amp;utm_campaign=banner">Accessibility</a></li>
+
+     <li class="uofooter__link"><a href="https://registrar.uoregon.edu/records-privacy?utm_source=banner-module&amp;utm_campaign=banner">Privacy Policy</a></li>
+
+     <li class="uofooter__link"><a href="https://hr.uoregon.edu/jobs/available-positions?utm_source=banner-module&amp;utm_campaign=banner">Careers</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/about?utm_source=banner-module&amp;utm_campaign=banner">About</a></li>
+
+     <li class="uofooter__link"><a href="https://uoregon.edu/findpeople?utm_source=banner-module&amp;utm_campaign=banner">Find People</a></li>
+
+     </ul>
+
+     
+
+     <div class="uofooter__copyright-container">
+
+     <span class="copyright">
+
+     <span class="copyright-symbol">©</span>
+
+     <a href="https://uoregon.edu?utm_source=banner-module&amp;utm_campaign=banner">University of Oregon</a>.
+
+     </span>
+
+     <span class="all-rights-reserved">All Rights Reserved.</span>
+
+     </div>
+
+     
+
+     </div>
+
+     </div>
+
+     </div>
+
+     </footer>
+
+     <script type="application/json"
+     data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/1206","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"UA-1254336-3","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"ajaxTrustedUrl":{"\/search\/node":true},"user":{"uid":0,"permissionsHash":"40def2a8d6018877d66ba2ebebe4805d32248b2b69a34fbb2a97c3e1d2486271"}}</script>
+
+     <script src="/sites/default/files/js/js_pxzoOevhzXKLZ046GvRnAoYjk_hS5A0DBiP-N3Xe1VQ.js?scope=footer&amp;delta=0&amp;language=en&amp;theme=cosmic&amp;include=eJyFUNFuAyEM-yE4PumUgxzNBglKYKfu60dvaqdOlfrmWE5sB8ywr8QfGLtoiGZLLrJBWeULVSmhuSySC67AUK6dooX_hLOrdaxhA0MXxSrFJ1zRDPK8FEUxsGiFQt_ohqwnM8QfuPnpRZn9rlDxEP30xNQfol24ezjQpL7fjFJbwX4KZ8P6UN-G1ytn4Cf5b01_MzY_0ZxdA4Ws0C4Wko4GZfljlsFtbIXsgulMCAU5gU7fO3QVE0HYqXTUJULrJHx_E0vCHxbQm1A"></script>
+
+     <script src="https://cdn.uoregon.edu/uocdn1/uo-web-design-framework/Releases/24.06/v1/js/uowdf-jscore-d8.min.js"></script>
+
+     <script src="/sites/default/files/js/js_wsR38Z86rfXM6qXzlV-571T83DoEbRMBFLVeZVIbPQo.js?scope=footer&amp;delta=2&amp;language=en&amp;theme=cosmic&amp;include=eJyFUNFuAyEM-yE4PumUgxzNBglKYKfu60dvaqdOlfrmWE5sB8ywr8QfGLtoiGZLLrJBWeULVSmhuSySC67AUK6dooX_hLOrdaxhA0MXxSrFJ1zRDPK8FEUxsGiFQt_ohqwnM8QfuPnpRZn9rlDxEP30xNQfol24ezjQpL7fjFJbwX4KZ8P6UN-G1ytn4Cf5b01_MzY_0ZxdA4Ws0C4Wko4GZfljlsFtbIXsgulMCAU5gU7fO3QVE0HYqXTUJULrJHx_E0vCHxbQm1A"></script>
+
+     
+
+     </body>
+
+     </html>
+
+     
+  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

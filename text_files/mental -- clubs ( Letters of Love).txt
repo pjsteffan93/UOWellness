@@ -1,0 +1,157 @@
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <!DOCTYPE html>
+  -- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+     <html lang="en">
+
+     
+
+     <head>
+
+     <meta charset="utf-8" />
+
+     <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+     <link rel="apple-touch-icon" sizes="180x180" href="/engage/icons/apple-touch-icon.png?v=zXryopmz8G" />
+
+     <link rel="icon" type="image/png" sizes="32x32" href="/engage/icons/favicon-32x32.png?v=zXryopmz8G" />
+
+     <link rel="icon" type="image/png" sizes="16x16" href="/engage/icons/favicon-16x16.png?v=zXryopmz8G" />
+
+     <link rel="manifest" href="/engage/icons/manifest.json?v=zXryopmz8G" />
+
+     <link rel="mask-icon" href="/engage/icons/safari-pinned-tab.svg?v=zXryopmz8G" color="#5bbad5" />
+
+     <link rel="shortcut icon" href="/engage/icons/favicon.ico?v=zXryopmz8G" />
+
+     <meta name="description"
+
+     content="Discover unique opportunities at Engage! Find and attend events, browse and join organizations, and showcase your involvement." />
+
+     <meta name="msapplication-config" content="/engage/icons/browserconfig.xml?v=zXryopmz8G" />
+
+     <meta name="theme-color" content="#ffffff" />
+
+     
+
+     <title> - Engage</title>
+
+     
+
+     
+
+     
+
+     <script type="text/javascript">!function(T,l,y){var S=T.location,k="script",D="instrumentationKey",C="ingestionendpoint",I="disableExceptionTracking",E="ai.device.",b="toLowerCase",w="crossOrigin",N="POST",e="appInsightsSDK",t=y.name||"appInsights";(y.name||T[e])&&(T[e]=t);var n=T[t]||function(d){var g=!1,f=!1,m={initialize:!0,queue:[],sv:"5",version:2,config:d};function v(e,t){var n={},a="Browser";return n[E+"id"]=a[b](),n[E+"type"]=a,n["ai.operation.name"]=S&&S.pathname||"_unknown_",n["ai.internal.sdkVersion"]="javascript:snippet_"+(m.sv||m.version),{time:function(){var e=new Date;function t(e){var t=""+e;return 1===t.length&&(t="0"+t),t}return
+     e.getUTCFullYear()+"-"+t(1+e.getUTCMonth())+"-"+t(e.getUTCDate())+"T"+t(e.getUTCHours())+":"+t(e.getUTCMinutes())+":"+t(e.getUTCSeconds())+"."+((e.getUTCMilliseconds()/1e3).toFixed(3)+"").slice(2,5)+"Z"}(),iKey:e,name:"Microsoft.ApplicationInsights."+e.replace(/-/g,"")+"."+t,sampleRate:100,tags:n,data:{baseData:{ver:2}}}}var h=d.url||y.src;if(h){function a(e){var t,n,a,i,r,o,s,c,u,p,l;g=!0,m.queue=[],f||(f=!0,t=h,s=function(){var e={},t=d.connectionString;if(t)for(var n=t.split(";"),a=0;a<n.length;a++){var i=n[a].split("=");2===i.length&&(e[i[0][b]()]=i[1])}if(!e[C]){var r=e.endpointsuffix,o=r?e.location:null;e[C]="https://"+(o?o+".":"")+"dc."+(r||"services.visualstudio.com")}return e}(),c=s[D]||d[D]||"",u=s[C],p=u?u+"/v2/track":d.endpointUrl,(l=[]).push((n="SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for
+     details)",a=t,i=p,(o=(r=v(c,"Exception")).data).baseType="ExceptionData",o.baseData.exceptions=[{typeName:"SDKLoadFailed",message:n.replace(/\./g,"-"),hasFullStack:!1,stack:n+"\nSnippet failed to load ["+a+"] -- Telemetry is disabled\nHelp Link: https://go.microsoft.com/fwlink/?linkid=2128109\nHost: "+(S&&S.pathname||"_unknown_")+"\nEndpoint: "+i,parsedStack:[]}],r)),l.push(function(e,t,n,a){var i=v(c,"Message"),r=i.data;r.baseType="MessageData";var o=r.baseData;return o.message='AI (Internal): 99 message:"'+("SDK LOAD Failure: Failed to load Application Insights SDK script (See stack for details) ("+n+")").replace(/\"/g,"")+'"',o.properties={endpoint:a},i}(0,0,t,p)),function(e,t){if(JSON){var n=T.fetch;if(n&&!y.useXhr)n(t,{method:N,body:JSON.stringify(e),mode:"cors"});else if(XMLHttpRequest){var a=new
+     XMLHttpRequest;a.open(N,t),a.setRequestHeader("Content-type","application/json"),a.send(JSON.stringify(e))}}}(l,p))}function i(e,t){f||setTimeout(function(){!t&&m.core||a()},500)}var e=function(){var n=l.createElement(k);n.src=h;var e=y[w];return!e&&""!==e||"undefined"==n[w]||(n[w]=e),n.onload=i,n.onerror=a,n.onreadystatechange=function(e,t){"loaded"!==n.readyState&&"complete"!==n.readyState||i(0,t)},n}();y.ld<0?l.getElementsByTagName("head")[0].appendChild(e):setTimeout(function(){l.getElementsByTagName(k)[0].parentNode.appendChild(e)},y.ld||0)}try{m.cookie=l.cookie}catch(p){}function t(e){for(;e.length;)!function(t){m[t]=function(){var e=arguments;g||m.queue.push(function(){m[t].apply(m,e)})}}(e.pop())}var
+     n="track",r="TrackPage",o="TrackEvent";t([n+"Event",n+"PageView",n+"Exception",n+"Trace",n+"DependencyData",n+"Metric",n+"PageViewPerformance","start"+r,"stop"+r,"start"+o,"stop"+o,"addTelemetryInitializer","setAuthenticatedUserContext","clearAuthenticatedUserContext","flush"]),m.SeverityLevel={Verbose:0,Information:1,Warning:2,Error:3,Critical:4};var s=(d.extensionConfig||{}).ApplicationInsightsAnalytics||{};if(!0!==d[I]&&!0!==s[I]){var c="onerror";t(["_"+c]);var u=T[c];T[c]=function(e,t,n,a,i){var r=u&&u(e,t,n,a,i);return!0!==r&&m["_"+c]({message:e,url:t,lineNumber:n,columnNumber:a,error:i}),r},d.autoExceptionInstrumented=!0}return m}(y.cfg);function a(){y.onInit&&y.onInit(n)}(T[t]=n).queue&&0===n.queue.length?(n.queue.push(a),n.trackPageView({})):a()}(window,document,{
+
+     src: "https://js.monitor.azure.com/scripts/b/ai.2.min.js", // The SDK URL Source
+
+     crossOrigin: "anonymous",
+
+     cfg: { // Application Insights Configuration
+
+     instrumentationKey: '52218977-e6e6-461a-9579-7a3e21973b4b'
+
+     }});</script>
+
+     <link defer rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css" />
+
+     <link defer rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+     <link defer rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700,700i" />
+
+     <link rel="stylesheet" href="https://unpkg.com/react-select@1.2.1/dist/react-select.css" />
+
+     <link rel="stylesheet" href="https://static.campuslabsengage.com/discovery/2024.7.16.1/client.css" />
+
+     <script src="https://cdn.jsdelivr.net/npm/systemjs/dist/system.min.js"></script>
+
+     <script src="https://cdn.jsdelivr.net/npm/systemjs/dist/extras/amd.min.js"></script>
+
+     <script src="https://cdn.jsdelivr.net/npm/systemjs/dist/extras/named-exports.min.js"></script>
+
+     <script type="text/javascript">
+
+     (function (c, l, a, r, i, t, y) {
+
+     c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+
+     t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+
+     y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+
+     })(window, document, "clarity", "script", "3xldl8atnn");
+
+     </script>
+
+     
+
+     
+
+     <script src="/engage/globalcontext"></script>
+
+     <script src="/engage/topbar/context?path=%2Forganization%2Flettersoflove"></script>
+
+     
+
+     </head>
+
+     
+
+     <body>
+
+     <noscript>This application requires JavaScript to be enabled.</noscript>
+
+     <div id="discovery-bar"></div>
+
+     <div class="engage-application">
+
+     <div id="react-app"></div>
+
+     <script>window.initialAppState = {"institution":null,"coverPhoto":{"id":112880,"imageId":"7e33235b-5c79-463f-a657-fb23fb0f038d","imagePath":"7e221ff5-fe47-4393-83dc-c17a25755ca0ef9506ca-68fc-4482-b73c-d2d4cebf0fdd.png","url":"https://se-images-blob.campuslabs.com/communities/3768/coverphotos/7e33235b-5c79-463f-a657-fb23fb0f038d.jpg","thumbnailUrl":"https://se-images-blob.campuslabs.com/communities/3768/coverphotos/7e33235b-5c79-463f-a657-fb23fb0f038d-thumbnail.jpg","caption":"Students gathered on the steps of Johnson Hall","dateCreated":"2018-11-26T10:42:15-05:00","institutionId":3768},"user":null,"preFetchedData":{"event":null,"loadAdditionalEventDetails":false,"organization":{"id":375372,"communityId":1034,"institutionId":3768,"name":"Letters of
+     Love","shortName":"LOL","nameSortKey":"L","websiteKey":"lettersoflove","email":"lettersofloveoregon@gmail.com","description":"<div class=\"\">\r\n<div>\r\n<div class=\"x_V5AUxf\">\r\n<div id=\"x_comp-kf6cwvk61\" class=\"x_comp-kf6cwvk61 x_YzqVVZ x_wixui-column-strip__column\">\r\n<div class=\"\">\r\n<div>\r\n<div id=\"x_comp-kf6cwvk64\" class=\"x_KcpHeO x_tz5f0K x_comp-kf6cwvk64 x_wixui-rich-text\">\r\n<h2 class=\"x_font_2 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">How&nbsp;Letters of Love&nbsp;B</span><span class=\"x_wixui-rich-text__text\">egan</span></h2>\r\n<h2 class=\"x_font_2 x_wixui-rich-text__text\"><span class=\"x_color_33 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">A message from our Founder &amp; President, Grace Berbig</span></span></h2>\r\n</div>\r\n<div id=\"x_comp-kf6cwvk65\" class=\"x_KcpHeO x_tz5f0K
+     x_comp-kf6cwvk65 x_wixui-rich-text\">\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">Hello! My name is Grace Berbig, I am the Founder &amp; President of Letters of Love- an International 501(c)3 Non-Profit organization that provides emotional support for patients in Children&rsquo;s Hospitals across the world.</span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\">&nbsp;</p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">First of all, I want to thank you (yes you!) for supporting my organization. Letters of Love means the absolute world to me, and I cannot explain how deeply grateful I am for all of the support we have received, and for each wonderful person that is a part of our growing family. Thank you for being a part of the team who fights to put smiles on the faces of children who
+     are fighting a battle that no kid ever should.</span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\">&nbsp;</p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">Lots of people ask what inspired me to start Letters of Love. My answer, in short, is my mom. She is, and forever will be, to thank for every accomplishment Letters of Love has made and will continue making. When I was about eight years old, my mom was diagnosed with leukemia, a cancer located in the blood. Of course at such a young age I had no idea what cancer was, or why my mom was suddenly living in the hospital.</span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\">&nbsp;</p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">I did know, however, that I was going to make sure she knew that even though my family and I
+     couldn&rsquo;t be there with her, we were always thinking of her, supporting her, and loving her every second of her journey. Almost every day, my two little sisters and I would make piles of cards to plaster on my moms bland hospital walls, filling them with love and support.</span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\">&nbsp;</p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">She always loved those notes and cards more than anything, and my sisters and I loved making them. When I was ten, my beautiful, strong, brave mother lost her battle with cancer. After she passed away, I vowed to myself that I would devote my life to helping people who were fighting battles similar to my mom. I was inspired to create good and help people who are going through something similar as my mom did, and it has become my dream and
+     passion to give back and change the world with kindness.&nbsp;</span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\"><span class=\"x_wixGuard x_wixui-rich-text__text\">​</span></span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">My junior year of high school, I decided I wanted there to be a way for everyone to be able to make a difference without having to worry about their personal financial situation; a way for young people to help without having to worry about money. In October of 2018, I got the idea to start a club where students have the opportunity to emotionally support children battling cancer and other serious illnesses. Students could come and make cards, tie-blankets, friendship bracelets, and other support items for patients at the Children&rsquo;s Hospital of
+     Minnesota.</span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\">&nbsp;</p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">I officially began Letters of Love as a club in October 2018 at Orono High School. Since then, we have grown more than I ever could have imagined. We now donate to 30+ hospitals, and have&nbsp;<span class=\"x_color_12 x_wixui-rich-text__text\">over 68 high schools and 55 colleges across the nation actively participating in Letters of Love. We have received cards from over 17 different countries.</span></span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\"><span class=\"x_wixGuard x_wixui-rich-text__text\">​</span></span></p>\r\n<p class=\"x_font_9 x_wixui-rich-text__text\"><span class=\"x_wixui-rich-text__text\">There are thousands of Letters of Love members
+     across the world, spreading positivity and kindness one card and a time. I am so proud to say that Letters of Love has had the honor of&nbsp;providing emotional support to over 175,000 patients in Children&rsquo;s Hospitals around the world.&nbsp;I am so thrilled to see how far this organization goes, as we continue to work towards our goal of providing emotional support for each and every patient in every Children&rsquo;s Hospital across the world.</span></p>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div id=\"x_bgLayers_comp-l6qz77g8\" class=\"x_MW5IWV\">&nbsp;</div>","summary":"Letters of Love is a growing nonprofit organization across U.S. universities with the sole purpose to spread kindness. LOL holds monthly meetings where attendees will make \"letters of love\" that will then be sent to kids in children's hospitals.
+     ","status":"Active","comment":null,"showJoin":true,"statusChangeDateTime":null,"startDate":"2023-08-07T00:00:00-04:00","endDate":null,"parentId":224756,"wallId":56625959,"discussionId":56625959,"groupTypeId":null,"organizationTypeId":23720,"cssConfigurationId":null,"deleted":false,"enableGoogleCalendar":false,"modifiedOn":"2023-08-07T15:56:11-04:00","socialMedia":{"externalWebsite":"https://www.lettersofloveglobal.com","flickrUrl":"","googleCalendarUrl":"","googlePlusUrl":"","instagramUrl":"","linkedInUrl":"","pinterestUrl":"","tumblrUrl":"","vimeoUrl":"","youtubeUrl":"","facebookUrl":null,"twitterUrl":null,"twitterUserName":""},"profilePicture":"be30b04a-6692-432e-adee-5540a65c459638f4868f-0339-4572-bd71-bbe503ee326d.jpeg","organizationType":{"id":23720,"name":"Independent Student
+     Organization","autoApproveRequests":false,"showMembersToPublic":false,"showOfficersToPublic":true,"eventsEnabled":true,"serviceHoursEnabled":true,"financeEnabled":true,"financeRequestsEnabled":true,"fundingRequestsEnabled":true,"purchaseRequestsEnabled":true,"budgetingEnabled":true,"budgetingRequestsEnabled":true,"reRegistrationAvailabilty":null,"electionsEnabled":true,"formsEnabled":true,"galleryEnabled":true,"outcomesEnabled":true,"rosterEnabled":true,"shownInPublicDirectory":true,"documentsEnabled":true,"isSystemType":false,"adminOnly":false},"primaryContact":{"id":"2442ae3b-f2a4-4653-9221-b57f3cc49346","firstName":"Liam","preferredFirstName":null,"lastName":"Baird","primaryEmailAddress":"Lbaird@uoregon.edu","profileImageFilePath":null,"institutionId":3768,"privacy":"Unselected"},"isBranch":false,"contactInfo":[{"id":427145,"addressType":0,"city":null,"country":"United
+     States","deleted":false,"extension":null,"faxNumber":null,"organizationId":375372,"phoneNumber":null,"state":null,"street1":null,"street2":null,"zip":null}],"legacyKey":null,"parentLegacyKey":null,"legacyPrimaryContactKey":null,"showFacebookWall":false,"showTwitterFeed":false,"submissions":[],"visibility":"Public","isShownInPublicDirectory":true,"isAdminOnly":false,"categories":[]},"article":null},"imageServerBaseUrl":"https://se-images.campuslabs.com/clink/images/","baseUrl":"https://uoregon.campuslabs.com","serverSideContextRoot":"/engage","serviceOpportunitiesEnabled":true,"xsrfToken":"CfDJ8Az9GcAD4TpIm2NmyW6ywWG2RKuj2lh-tNdlNLvfh8T8-q3QKTiuRWgBHHM_1gt9nzDoolauic2WZ1znBlsy-v3F8vmdCH7XqWTKUdCWFLnTY754m_1ZcDANAsCh4ahVuZsOLLMbJj7a_2bb263QUEw","reCaptchaPublicKey":"6LdlpB0TAAAAAJ25ETYC1pRiwGiT7clzxta-HGH0","returnUrl":"","launchDarkly":null};</script>
+
+     
+
+     
+
+     
+
+     </div>
+
+     <div id="engage-footer"></div>
+
+     
+
+     <script crossorigin="anonymous" src="https://static.campuslabsengage.com/discovery/2024.7.16.1/client.js"></script>
+
+     
+
+     
+
+     
+
+     <script src="/engage/topbar/standalone"></script>
+
+     
+
+     </body>
+
+     
+
+     </html>
+
+     
+  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
