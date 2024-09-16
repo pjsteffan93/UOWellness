@@ -1,0 +1,31 @@
+Health Updates https://health.uoregon.edu/ en Important Notice About Pertussis https://health.uoregon.edu/important-notice-about-pertussis-0 <span class="field field--name-title field--type-string field--label-hidden">Important Notice About Pertussis</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-07-09T16:13:18-07:00" title="Tuesday, July 9, 2024 - 16:13" class="datetime">Tue, 07/09/2024 - 16:13</time>
+</span> Tue, 09 Jul 2024 23:13:18 +0000 colleens 307 at https://health.uoregon.edu Missing Class Due to Illness or Injury https://health.uoregon.edu/missing-class-due-illness-or-injury <span class="field field--name-title field--type-string field--label-hidden">Missing Class Due to Illness or Injury</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-20T09:09:30-07:00" title="Monday, May 20, 2024 - 09:09" class="datetime">Mon, 05/20/2024 - 09:09</time>
+</span> Mon, 20 May 2024 16:09:30 +0000 colleens 306 at https://health.uoregon.edu Experience Quality Care at UHS https://health.uoregon.edu/experience-quality-care-uhs <span class="field field--name-title field--type-string field--label-hidden">Experience Quality Care at UHS</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2024-05-13T16:13:26-07:00" title="Monday, May 13, 2024 - 16:13" class="datetime">Mon, 05/13/2024 - 16:13</time>
+</span> Mon, 13 May 2024 23:13:26 +0000 colleens 305 at https://health.uoregon.edu UHS Offers Physical Therapy https://health.uoregon.edu/uhs-offers-physical-therapy <span class="field field--name-title field--type-string field--label-hidden">UHS Offers Physical Therapy</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-12-01T11:00:47-08:00" title="Friday, December 1, 2023 - 11:00" class="datetime">Fri, 12/01/2023 - 11:00</time>
+</span> Fri, 01 Dec 2023 19:00:47 +0000 colleens 290 at https://health.uoregon.edu Mental Health Access Team https://health.uoregon.edu/mental-health-access-team <span class="field field--name-title field--type-string field--label-hidden">Mental Health Access Team</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-11-13T09:36:57-08:00" title="Monday, November 13, 2023 - 09:36" class="datetime">Mon, 11/13/2023 - 09:36</time>
+</span> Mon, 13 Nov 2023 17:36:57 +0000 colleens 288 at https://health.uoregon.edu Fight the Flu and COVID-19 https://health.uoregon.edu/fight-flu-and-covid-19 <span class="field field--name-title field--type-string field--label-hidden">Fight the Flu and COVID-19</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-10-04T14:31:58-07:00" title="Wednesday, October 4, 2023 - 14:31" class="datetime">Wed, 10/04/2023 - 14:31</time>
+</span> Wed, 04 Oct 2023 21:31:58 +0000 colleens 273 at https://health.uoregon.edu Welcome to University Health Services https://health.uoregon.edu/welcome-university-health-services <span class="field field--name-title field--type-string field--label-hidden">Welcome to University Health Services</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2023-09-12T13:25:09-07:00" title="Tuesday, September 12, 2023 - 13:25" class="datetime">Tue, 09/12/2023 - 13:25</time>
+</span> Tue, 12 Sep 2023 20:25:09 +0000 colleens 117 at https://health.uoregon.edu Statement on Reproductive Care https://health.uoregon.edu/statement-reproductive-care <span class="field field--name-title field--type-string field--label-hidden">Statement on Reproductive Care</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>lemiller</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2022-08-25T09:50:14-07:00" title="Thursday, August 25, 2022 - 09:50" class="datetime">Thu, 08/25/2022 - 09:50</time>
+</span> Thu, 25 Aug 2022 16:50:14 +0000 lemiller 120 at https://health.uoregon.edu Addressing Disparities in Healthcare https://health.uoregon.edu/addressing-disparities-healthcare <span class="field field--name-title field--type-string field--label-hidden">Addressing Disparities in Healthcare</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>george</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2020-06-19T11:23:30-07:00" title="Friday, June 19, 2020 - 11:23" class="datetime">Fri, 06/19/2020 - 11:23</time>
+</span> Fri, 19 Jun 2020 18:23:30 +0000 george 118 at https://health.uoregon.edu UHS Adopts Clinical Chaperone Program https://health.uoregon.edu/uhc-adopts-clinical-chaperone-program <span class="field field--name-title field--type-string field--label-hidden">UHS Adopts Clinical Chaperone Program</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>colleens</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2019-09-19T10:58:15-07:00" title="Thursday, September 19, 2019 - 10:58" class="datetime">Thu, 09/19/2019 - 10:58</time>
+</span> Thu, 19 Sep 2019 17:58:15 +0000 colleens 112 at https://health.uoregon.edu
