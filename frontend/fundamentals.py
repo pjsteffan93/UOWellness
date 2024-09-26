@@ -19,7 +19,7 @@ if "chat_history" not in st.session_state:
 
 # Title
 st.title("Beta: Ask Puddles Anything!")
-st.subheader("With our thanks to the OpenAI community for helpful examples")
+st.subheader("Enter your question below. Please verify the accuracy of the response with the official University of Oregon websites.")
 
 # Display messages in chat history
 for message in st.session_state.chat_history:
