@@ -91,7 +91,7 @@ if user_query := st.chat_input("Ask me a question"):
     # Stream the assistant's reply
     with st.chat_message("assistant"):
         with client.beta.threads.runs.stream(
-            thread_id=thread.id,
+            thread_id=st.session_state.thread.id,
             assistant_id=assistant.id,
             event_handler=EventHandler(),
         ) as stream:
