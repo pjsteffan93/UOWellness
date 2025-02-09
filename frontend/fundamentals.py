@@ -3,6 +3,7 @@ import streamlit as st
 
 import streamlit as st
 from openai import AssistantEventHandler, OpenAI
+from typing_extensions import override
 from openai.types.beta.assistant_stream_event import ThreadMessageDelta
 from openai.types.beta.threads.text_delta_block import TextDeltaBlock 
 import os
