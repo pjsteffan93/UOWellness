@@ -92,7 +92,6 @@ if user_query := st.chat_input("Ask me a question"):
         with client.beta.threads.runs.stream(
             thread_id=thread.id,
             assistant_id=assistant.id,
-            instructions="Please address the user as Jane Doe. The user has a premium account.",
             event_handler=EventHandler(),
         ) as stream:
             stream.until_done()
