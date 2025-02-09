@@ -21,7 +21,7 @@ def get_asst_by_name(client,name):
         
 # Initialise the OpenAI client, and retrieve the assistant
 client = OpenAI(api_key=OPENAI_API_KEY)
-assistant = client.beta.assistants.retrieve(assistant_id=get_asst_by_name(client,"Ask Puddles"))
+assistant = client.beta.assistants.retrieve(assistant_id=get_asst_by_name(client,"Puddles_v2"))
 
 # Initialise session state to store conversation history locally to display on UI
 if "chat_history" not in st.session_state:
