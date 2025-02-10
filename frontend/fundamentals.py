@@ -69,6 +69,7 @@ if user_query := st.chat_input("Ask me a question"):
             thread_id=st.session_state.thread_id,
             assistant_id=ASSISTANT_ID,
             stream=True,
+            tool_choice='required'
             )
         
         # Empty container to display the assistant's reply
