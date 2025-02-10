@@ -3,7 +3,6 @@ import streamlit as st
 
 import streamlit as st
 from openai import AssistantEventHandler, OpenAI
-from typing_extensions import override
 from openai.types.beta.assistant_stream_event import ThreadMessageDelta
 from openai.types.beta.threads.text_delta_block import TextDeltaBlock 
 import os
@@ -90,12 +89,12 @@ if user_query := st.chat_input("Ask me a question"):
 
     # Stream the assistant's reply
     with st.chat_message("assistant"):
-        with client.beta.threads.runs.stream(
-            thread_id=st.session_state.thread.id,
-            assistant_id=assistant.id,
-            event_handler=EventHandler(),
-        ) as stream:
-            stream.until_done()
+        stream = client.beta.threads.runs.create(
+            thread_id=st.session_state.thread_id,
+            assistant_id=ASSISTANT_ID,
+            stream=True,
+            tool_choice={"type":"file_search"}
+            )
         
         # Empty container to display the assistant's reply
         assistant_reply_box = st.empty()
