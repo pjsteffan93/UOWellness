@@ -1,4 +1,4 @@
-FROM python:3.9-slim-buster
+FROM python:3.10-bookworm
 #changed to 11.7.1 from 11.7.0 PJS 2024-01-04
 
 ARG PYTHON_VERSION=3.9

@@ -4,3 +4,4 @@ pyyaml
 python-dotenv
 pydantic-ai
 validators
+tqdm
