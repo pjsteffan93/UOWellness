@@ -67,8 +67,8 @@ def stream_modified_response(response):
 
 
 
-scrape_path = '/app/Store/dataframe.pkl'
-asst_path = '/app/Store/assistant_files.csv'
+scrape_path = '/app/appdata/dataframe.pkl'
+asst_path = '/app/appdata/assistant_files.csv'
 
 # Initialise the OpenAI client, and retrieve the assistant
 client = OpenAI(api_key=OPENAI_API_KEY)
