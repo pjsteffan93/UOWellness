@@ -143,7 +143,7 @@ if user_query := st.chat_input("Ask me a question"):
         # A blank string to store the assistant's reply
         assistant_reply = ""
 
-        for event in stream_modified_response():
+        for event in stream_modified_response(formatted_response):
             assistant_reply_box.empty()
             assistant_reply += event
             assistant_reply_box.markdown(assistant_reply)
