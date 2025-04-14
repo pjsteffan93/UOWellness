@@ -53,7 +53,7 @@ def modify_citations(df_merge, message):
         citations.append(f'[{index+1}] {citation}')
 
     # Add footnotes to the end of the message before displaying to user
-    message_content.value += '\n' + '\n'.join(citations)
+    message_content.value += '\n' + '\n' + 'Sources' + '\n' + '\n'.join(citations)
     return message_content.value
 
 
