@@ -50,7 +50,7 @@ def modify_citations(df_merge, message):
         citation = get_name_by_file_id(df_merge,file_id)
 
         # Add the citation to the list
-        citations.append(f'[{index+1}] {citation}')
+        citations.append(f'\n \n [{index+1}] {citation}')
 
     # Add footnotes to the end of the message before displaying to user
     message_content.value += '\n' + '\n' + 'Sources' + '\n' + '\n'.join(citations)
