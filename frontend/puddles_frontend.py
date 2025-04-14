@@ -109,12 +109,13 @@ if user_query := st.chat_input("Ask me a question"):
     
     #Send the User's Query to the model
     run = client.beta.threads.create_and_run_poll(
-    assistant_id="asst_WvxFY77dyhKaV6ei809wTfye",
-    thread={
-        "messages": [
-        {"role": "user", "content": user_query}
-        ]
-    },
+        assistant_id="asst_WvxFY77dyhKaV6ei809wTfye",
+        thread={
+            "messages": [
+            {"role": "user", "content": user_query}
+            ]
+        },
+        tool_choice="required"
     )
 
     #Pre-process the Assistant's Response
