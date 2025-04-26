@@ -28,7 +28,7 @@ def create_merged_df(scrape_path,asst_path,class_path):
 
     df_class = pd.read_csv(class_path)
 
-    pd.concat([df_merge,df_class], axis=0)
+    df_merge = pd.concat([df_merge,df_class], axis=0)
 
     return df_merge
 
