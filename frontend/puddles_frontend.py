@@ -4,6 +4,7 @@ import streamlit as st
 import os
 import pandas as pd
 import time
+import re
 
 OPENAI_API_KEY = os.environ["OPENAI_API_KEY"]
 ASSISTANT_ID = os.environ["ASSISTANT_ID"]
@@ -31,6 +32,35 @@ def get_name_by_file_id(df_merge,file_id):
     result = df_merge[df_merge["file_id"]==file_id]
     citation_url = result['url'].values[0]
     return citation_url
+
+def remove_adjacent_duplicate_links(markdown_string):
+    # Define a regex pattern for markdown links
+    markdown_link_pattern = r'\[.*?\]\(.*?\)'
+
+    # Find all markdown links in the string
+    all_links = re.findall(markdown_link_pattern, markdown_string)
+
+    # Initialize an empty list to hold the processed links
+    processed_links = []
+
+    previous_link = None
+
+    for link in all_links:
+        if link != previous_link:
+            processed_links.append(link)
+        previous_link = link
+
+    # Reconstruct the string with the processed links
+    # Split the original text by the markdown pattern
+    parts = re.split(markdown_link_pattern, markdown_string)
+
+    # Interleave the text parts with the processed links
+    result = parts[0]
+    for link, part in zip(processed_links, parts[1:]):
+        result += link + part
+
+    return result
+
 
 def modify_citations(df_merge, message):
     # Extract the message content
@@ -67,6 +97,8 @@ def modify_citations(df_merge, message):
         message_content.value = message_content.value.replace(original, f' [Source {numeric}]({this_url})')
             
 
+    message_content.value = remove_adjacent_duplicate_links(message_content.value)
+    
     return message_content.value
 
 
