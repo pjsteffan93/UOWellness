@@ -1,0 +1,70 @@
+Psychology:
+* PSY 201: Mind and Brain
+Introduction to the science and application of psychology. Emphasis will be placed on psychological concepts, theories, and principles related to: Research Methods, Behavioral Neuroscience, Consciousness, Sensation/Perception, Learning, Memory, Thinking and Intelligence, and related topics.
+Equivalent to: PSY 201
+Additional Information:
+ Science Area
+* PSY 202: Mind and Society
+Introduction to the science and application of psychology. Emphasis will be placed on psychological concepts, theories, and principles related to: Personality, Social Psychology, Health and Well-Being, Motivation and Emotion, Disorders, Therapies, Lifespan Development, and related topics
+Equivalent to: PSY 202
+Additional Information:
+ Social Science Area
+* PSY 301: Scientific Thinking in Psychology
+Fundamentals in the empirical study of human behavior, including hypothesis formation, experiment design, behavioral data basics, and critical evaluation of scientific claims. Sequence with PSY 302, PSY 303. Students may not register for PSY 301 after completing PSY 303.
+Additional Information:
+ Science Area
+* PSY 304: Biopsychology
+Relationships between brain and endocrine activity and behavior. Topics include sensation, perception, sexual behavior, drug effects, eating, drinking, sleeping, dreaming, and learning.
+Requisites: Prereq: PSY 201Z.
+* PSY 306: Social Psychology
+Processes underlying social perception and social interaction. Topics include aggression, the self-concept, stereotyping and prejudice, conformity, persuasion, attraction, and helping.
+Requisites: Prereq: PSY 202Z.
+Additional Information:
+ Cultural Literacy: US: Difference, Inequality, Agency
+* PSY 307: Personality
+Theory and methods for studying human traits, including personality tests and measures. Current research in personality. Studies of age, gender, culture, and relation to emotion and motivation.
+Requisites: Prereq: PSY 202Z.
+* PSY 308: Developmental Psychology
+Survey of cognitive, social-emotional, and personality development in infancy, childhood, adolescence, adulthood.
+Requisites: Prereq: PSY 202Z.
+* PSY 309: Psychopathology
+Major descriptive and theoretical approaches to etiological, developmental, and social factors in emotion and personality disorders. Includes assessment, diagnosis, treatment, and special topics.
+Requisites: Prereq: PSY 202Z.
+* PSY 366: Culture and Mental Health
+Role of culture in the definition and maintenance of mental health and the definition and treatment of mental illness.
+Additional Information:
+ Social Science Area
+ Cultural Literacy: US: Difference, Inequality, Agency
+* PSY 348: Music and the Brain
+Explores the neural correlates of our perception of tonality, harmony, melody, and rhythm and how these relate to neurobiology, brain damage, and cognitive neuroscience.
+Additional Information:
+ Science Area
+* PSY 383: Psychoactive Drugs
+Physiological and behavioral effects of psychoactive drugs such as alcohol, opiates, barbiturates, and excitants. The psychology of use and overuse; therapies for correcting drug problems.
+* PSY 433: Learning and Memory
+Processes underlying learning and memory, including evolution. Topics range from simple forms of behavior change to the acquisition, retention, forgetting, and retrieval of symbolic information.
+Requisites: Prereq: PSY 303; one course from PSY 304, PSY 305.
+* PSY 438: Perception
+Topics covered are color, size, shape, depth, distance, and movement. Examines the relationships between stimuli and perception, stimuli and the neural response, and the neural response and perception.
+Requisites: Prereq: PSY 303, PSY 304.
+* PSY 445: Brain Mechanisms of Behavior
+Organization of the mammalian brain. Structure and function of the neuronal systems underlying vision, perception, motivation, coordinated movement, sleep-wakefulness, learning and memory, and affective disorders.
+Requisites: Prereq: PSY 303, PSY 304.
+* PSY 458: Decision-Making
+Psychological processes involved in judgment and decision-making. Normative theories of ideal behavior contrasted with descriptive analysis of actual behavior.
+Requisites: Prereq: PSY 303.
+* PSY 459: Cultural Psychology
+Examines interdependence between mind and culture in substantive domains such as social cognition, motivation, emotion, and psychopathology. Cultural pluralism, collective identities, tolerance, and diversity considered.
+Requisites: Prereq: PSY 303.
+* PSY 468: Motivation and Emotion
+Adaptive human behavior; considers biological processes involved in emotions, how emotions interact with cognition, and social influences.
+Requisites: Prereq: PSY 303.
+* PSY 472 Psychology of Trauma
+Cognitive, neuropsychological, developmental, social, and clinical approaches to understanding trauma. Includes analysis of childhood trauma, sexual assault, domestic violence, terrorism, combat, and natural disasters.
+Requisites: Prereq: PSY 303.
+* PSY 473: Intimate Relationships
+Adult intimacy and love relationships. Clinical-counseling approaches: assessment, couple and family therapies, and evaluation. Models of relationship functioning and the empirical study of interpersonal relationships.
+Requisites: Prereq: PSY 303.
+* PSY 475 Cognitive Development
+Intellectual development in children from infancy to adolescence with a focus on early childhood. Topics covered include perception, attention, memory, reasoning, conceptual structure, social cognition.
+Requisites: Prereq: PSY 303; one course from PSY 305, PSY 308.

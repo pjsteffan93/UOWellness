@@ -18,13 +18,18 @@ def get_asst_by_name(client,name):
         
     return None
 
-def create_merged_df(scrape_path,asst_path):
+def create_merged_df(scrape_path,asst_path,class_path):
     df_scrape = pd.read_pickle(scrape_path)
     df_asst = pd.read_csv(asst_path)
     df_asst.rename(columns={'filename': 'file_path'}, inplace=True)
 
     # Merging on the common column 'key'
     df_merge = pd.merge(df_scrape, df_asst, on='file_path', how='inner')
+
+    df_class = pd.read_csv(class_path)
+
+    pd.concat([df_merge,df_class], axis=0)
+
     return df_merge
 
 
@@ -114,13 +119,14 @@ def stream_modified_response(response):
 
 scrape_path = '/app/appdata/dataframe.pkl'
 asst_path = '/app/appdata/assistant_files.csv'
+class_path = '/app/appdata/classes.csv'
 
 # Initialise the OpenAI client, and retrieve the assistant
 client = OpenAI(api_key=OPENAI_API_KEY)
 assistant = client.beta.assistants.retrieve(assistant_id=ASSISTANT_ID)
 
 if 'df_merge' not in st.session_state:
-    st.session_state.df_merge = create_merged_df(scrape_path,asst_path)
+    st.session_state.df_merge = create_merged_df(scrape_path,asst_path,class_path)
 
 # Initialise session state to store conversation history locally to display on UI
 if "chat_history" not in st.session_state:
