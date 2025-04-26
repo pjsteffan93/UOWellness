@@ -34,26 +34,39 @@ def get_name_by_file_id(df_merge,file_id):
 
 def modify_citations(df_merge, message):
     # Extract the message content
-    message_content = message.content[0].text
+    message_content = message.content[0].text.model_copy()
     annotations = message_content.annotations
-    citations = []
+    citations = pd.DataFrame()
+    cite_idx = 1
 
     # Iterate over the annotations and add footnotes
     for index, annotation in enumerate(annotations):
-        # Replace the text with a footnote
-        message_content.value = message_content.value.replace(annotation.text, f' [{index+1}]')
+
         
-        #Get the File ID for the file in this citation
-        file_id = annotation.file_citation.file_id
+        if annotation.file_citation.file_id not in [row['file_id'] for _, row in citations.iterrows()]:
 
-        #Find the URL or source for the file_id that OpenAI has
-        citation = get_name_by_file_id(df_merge,file_id)
+            this_citation = pd.DataFrame({'original': annotation.text, 'numeric': cite_idx, 'file_id': annotation.file_citation.file_id}, index = [0]) #Need to make these Pandas Dataframes!!
+            citations = pd.concat([citations,this_citation],axis=0, ignore_index=True)
+            cite_idx = cite_idx + 1
 
-        # Add the citation to the list
-        citations.append(f'\n \n [{index+1}] {citation}')
+        else: 
+            prev_indices = citations.index[citations['file_id'] == annotation.file_citation.file_id].to_list()
+            prev_entry = citations.iloc[prev_indices[0]]
+            same_cite = pd.DataFrame({'original': annotation.text, 'numeric': prev_entry['numeric'], 'file_id': annotation.file_citation.file_id},index=[0])
+            citations = pd.concat([citations,same_cite],axis=0, ignore_index=True)
+        
 
-    # Add footnotes to the end of the message before displaying to user
-    message_content.value += '\n' + '\n' + 'Sources' + '\n' + '\n'.join(citations)
+    for index, citation in citations.iterrows():
+
+        original = citation['original']
+        numeric = citation['numeric']
+
+        this_url =  get_name_by_file_id(df_merge,citation['file_id'])
+
+        # Replace the text with a footnote
+        message_content.value = message_content.value.replace(original, f' [Source {numeric}]({this_url})')
+            
+
     return message_content.value
 
 
